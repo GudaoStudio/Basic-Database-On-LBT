@@ -25,6 +25,7 @@
             ], 
             "type": "ScheduleDay", 
             "interpolate": false
+        
         }
     ]
 }
