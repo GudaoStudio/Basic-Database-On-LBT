@@ -1,14 +1,14 @@
 {
-    "display_name": "GB50015 2021_Office Building Setpoint", 
-    "identifier": "GB50015 2021_Office Building Setpoint", 
+    "display_name": "GB50015 2021_Office Building_Setpoint", 
+    "identifier": "GB50015 2021_Office Building_Setpoint", 
     "heating_schedule": {
-        "display_name": "GB50015 2021_Office Building Summer Setpoint Schedule", 
-        "identifier": "GB50015 2021_Office Building Summer Setpoint Schedule", 
+        "display_name": "GB50015 2021_Office Building_heating Setpoint Schedule", 
+        "identifier": "GB50015 2021_Office Building_heating Setpoint Schedule", 
         "schedule_rules": [
             {
                 "apply_tuesday": true, 
                 "apply_saturday": false, 
-                "schedule_day": "GB50015 2021_Office Building Summer Setpoint Schedule_Monday", 
+                "schedule_day": "GB50015 2021_Office Building_heating Setpoint Schedule_Monday", 
                 "apply_friday": true, 
                 "apply_monday": true, 
                 "start_date": [
@@ -25,9 +25,9 @@
                 "apply_sunday": false
             }
         ], 
-        "default_day_schedule": "GB50015 2021_Office Building Summer Setpoint Schedule_Sunday", 
-        "holiday_schedule": "GB50015 2021_Office Building Summer Setpoint Schedule_Hol", 
-        "summer_designday_schedule": "GB50015 2021_Office Building Summer Setpoint Schedule_SmrDsn", 
+        "default_day_schedule": "GB50015 2021_Office Building_heating Setpoint Schedule_Sunday", 
+        "holiday_schedule": "GB50015 2021_Office Building_heating Setpoint Schedule_Hol", 
+        "summer_designday_schedule": "GB50015 2021_Office Building_heating Setpoint Schedule_SmrDsn", 
         "schedule_type_limit": {
             "upper_limit": {
                 "type": "NoLimit"
@@ -39,10 +39,10 @@
             "type": "ScheduleTypeLimit"
         }, 
         "type": "ScheduleRuleset", 
-        "winter_designday_schedule": "GB50015 2021_Office Building Summer Setpoint Schedule_WntrDsn", 
+        "winter_designday_schedule": "GB50015 2021_Office Building_heating Setpoint Schedule_WntrDsn", 
         "day_schedules": [
             {
-                "identifier": "GB50015 2021_Office Building Summer Setpoint Schedule_Sunday", 
+                "identifier": "GB50015 2021_Office Building_heating Setpoint Schedule_Sunday", 
                 "times": [
                     [
                         0, 
@@ -50,13 +50,13 @@
                     ]
                 ], 
                 "values": [
-                    50.0
+                    5.0
                 ], 
                 "type": "ScheduleDay", 
                 "interpolate": false
             }, 
             {
-                "identifier": "GB50015 2021_Office Building Summer Setpoint Schedule_SmrDsn", 
+                "identifier": "GB50015 2021_Office Building_heating Setpoint Schedule_SmrDsn", 
                 "times": [
                     [
                         0, 
@@ -85,7 +85,7 @@
                 "interpolate": false
             }, 
             {
-                "identifier": "GB50015 2021_Office Building Summer Setpoint Schedule_WntrDsn", 
+                "identifier": "GB50015 2021_Office Building_heating Setpoint Schedule_WntrDsn", 
                 "times": [
                     [
                         0, 
@@ -129,7 +129,7 @@
                 "interpolate": false
             }, 
             {
-                "identifier": "GB50015 2021_Office Building Summer Setpoint Schedule_Hol", 
+                "identifier": "GB50015 2021_Office Building_heating Setpoint Schedule_Hol", 
                 "times": [
                     [
                         0, 
@@ -137,13 +137,13 @@
                     ]
                 ], 
                 "values": [
-                    50.0
+                    5.0
                 ], 
                 "type": "ScheduleDay", 
                 "interpolate": false
             }, 
             {
-                "identifier": "GB50015 2021_Office Building Summer Setpoint Schedule_Monday", 
+                "identifier": "GB50015 2021_Office Building_heating Setpoint Schedule_Monday", 
                 "times": [
                     [
                         0, 
@@ -158,15 +158,30 @@
                         0
                     ], 
                     [
+                        9, 
+                        0
+                    ], 
+                    [
                         19, 
+                        0
+                    ], 
+                    [
+                        20, 
+                        0
+                    ], 
+                    [
+                        21, 
                         0
                     ]
                 ], 
                 "values": [
-                    38.0, 
-                    28.0, 
-                    26.0, 
-                    38.0
+                    5.0, 
+                    12.0, 
+                    18.0, 
+                    20.0, 
+                    18.0, 
+                    12.0, 
+                    5.0
                 ], 
                 "type": "ScheduleDay", 
                 "interpolate": false
@@ -174,13 +189,13 @@
         ]
     }, 
     "cooling_schedule": {
-        "display_name": "GB50015 2021_Office Building Winter Setpoint Schedule", 
-        "identifier": "GB50015 2021_Office Building Winter Setpoint Schedule", 
+        "display_name": "GB50015 2021_Office Building _Cooling Setpoint Schedule", 
+        "identifier": "GB50015 2021_Office Building _Cooling Setpoint Schedule", 
         "schedule_rules": [
             {
                 "apply_tuesday": true, 
                 "apply_saturday": false, 
-                "schedule_day": "GB50015 2021_Office Building Winter Setpoint Schedule_Monday", 
+                "schedule_day": "GB50015 2021_Office Building _Cooling Setpoint Schedule_Monday", 
                 "apply_friday": true, 
                 "apply_monday": true, 
                 "start_date": [
@@ -197,9 +212,9 @@
                 "apply_sunday": false
             }
         ], 
-        "default_day_schedule": "GB50015 2021_Office Building Winter Setpoint Schedule_Sunday", 
-        "holiday_schedule": "GB50015 2021_Office Building Winter Setpoint Schedule_Hol", 
-        "summer_designday_schedule": "GB50015 2021_Office Building Winter Setpoint Schedule_SmrDsn", 
+        "default_day_schedule": "GB50015 2021_Office Building _Cooling Setpoint Schedule_Sunday", 
+        "holiday_schedule": "GB50015 2021_Office Building _Cooling Setpoint Schedule_Hol", 
+        "summer_designday_schedule": "GB50015 2021_Office Building _Cooling Setpoint Schedule_SmrDsn", 
         "schedule_type_limit": {
             "upper_limit": {
                 "type": "NoLimit"
@@ -211,10 +226,10 @@
             "type": "ScheduleTypeLimit"
         }, 
         "type": "ScheduleRuleset", 
-        "winter_designday_schedule": "GB50015 2021_Office Building Winter Setpoint Schedule_WntrDsn", 
+        "winter_designday_schedule": "GB50015 2021_Office Building _Cooling Setpoint Schedule_WntrDsn", 
         "day_schedules": [
             {
-                "identifier": "GB50015 2021_Office Building Winter Setpoint Schedule_Sunday", 
+                "identifier": "GB50015 2021_Office Building _Cooling Setpoint Schedule_Sunday", 
                 "times": [
                     [
                         0, 
@@ -222,13 +237,13 @@
                     ]
                 ], 
                 "values": [
-                    5.0
+                    50.0
                 ], 
                 "type": "ScheduleDay", 
                 "interpolate": false
             }, 
             {
-                "identifier": "GB50015 2021_Office Building Winter Setpoint Schedule_SmrDsn", 
+                "identifier": "GB50015 2021_Office Building _Cooling Setpoint Schedule_SmrDsn", 
                 "times": [
                     [
                         0, 
@@ -257,7 +272,7 @@
                 "interpolate": false
             }, 
             {
-                "identifier": "GB50015 2021_Office Building Winter Setpoint Schedule_WntrDsn", 
+                "identifier": "GB50015 2021_Office Building _Cooling Setpoint Schedule_WntrDsn", 
                 "times": [
                     [
                         0, 
@@ -301,7 +316,7 @@
                 "interpolate": false
             }, 
             {
-                "identifier": "GB50015 2021_Office Building Winter Setpoint Schedule_Hol", 
+                "identifier": "GB50015 2021_Office Building _Cooling Setpoint Schedule_Hol", 
                 "times": [
                     [
                         0, 
@@ -309,13 +324,13 @@
                     ]
                 ], 
                 "values": [
-                    5.0
+                    50.0
                 ], 
                 "type": "ScheduleDay", 
                 "interpolate": false
             }, 
             {
-                "identifier": "GB50015 2021_Office Building Winter Setpoint Schedule_Monday", 
+                "identifier": "GB50015 2021_Office Building _Cooling Setpoint Schedule_Monday", 
                 "times": [
                     [
                         0, 
@@ -330,30 +345,15 @@
                         0
                     ], 
                     [
-                        9, 
-                        0
-                    ], 
-                    [
                         19, 
-                        0
-                    ], 
-                    [
-                        20, 
-                        0
-                    ], 
-                    [
-                        21, 
                         0
                     ]
                 ], 
                 "values": [
-                    5.0, 
-                    12.0, 
-                    18.0, 
-                    20.0, 
-                    18.0, 
-                    12.0, 
-                    5.0
+                    38.0, 
+                    28.0, 
+                    26.0, 
+                    38.0
                 ], 
                 "type": "ScheduleDay", 
                 "interpolate": false
