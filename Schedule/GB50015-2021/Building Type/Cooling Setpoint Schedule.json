@@ -1,6 +1,6 @@
 {
-    "display_name": "GB50015 2021_Office Building _Cooling Setpoint Schedule", 
-    "identifier": "GB50015 2021_Office Building _Cooling Setpoint Schedule", 
+    "display_name": "GB50015 2021_Office Building_Cooling Setpoint Schedule", 
+    "identifier": "GB50015 2021_Office Building_Cooling Setpoint Schedule", 
     "schedule_rules": [
         {
             "apply_tuesday": true, 
