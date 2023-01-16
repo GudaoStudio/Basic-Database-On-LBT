@@ -1,0 +1,1235 @@
+{
+    "display_name": "JGJ/T 449-2018::Office Building::Senior Office", 
+    "identifier": "JGJ/T 449-2018::Office Building::Senior Office", 
+    "lighting": {
+        "display_name": "JGJ/T 449-2018::Office Building::Senior Office::Lighting Load", 
+        "identifier": "JGJ/T 449-2018::Office Building::Senior Office::Lighting Load", 
+        "radiant_fraction": 0.32000000000000001, 
+        "visible_fraction": 0.25, 
+        "type": "Lighting", 
+        "return_air_fraction": 0.0, 
+        "watts_per_area": 15.0, 
+        "schedule": {
+            "display_name": "Lighting Utilization Schedule", 
+            "identifier": "Lighting Utilization Schedule", 
+            "schedule_rules": [
+                {
+                    "apply_tuesday": true, 
+                    "apply_saturday": false, 
+                    "schedule_day": "Lighting Utilization Schedule_Monday", 
+                    "apply_friday": true, 
+                    "apply_monday": true, 
+                    "start_date": [
+                        1, 
+                        1
+                    ], 
+                    "end_date": [
+                        12, 
+                        31
+                    ], 
+                    "apply_wednesday": true, 
+                    "type": "ScheduleRuleAbridged", 
+                    "apply_thursday": true, 
+                    "apply_sunday": false
+                }
+            ], 
+            "default_day_schedule": "Lighting Utilization Schedule_Sunday", 
+            "holiday_schedule": "Lighting Utilization Schedule_Hol", 
+            "summer_designday_schedule": "Lighting Utilization Schedule_SmrDsn", 
+            "schedule_type_limit": {
+                "upper_limit": 1.0, 
+                "identifier": "Fractional", 
+                "lower_limit": 0.0, 
+                "numeric_type": "Continuous", 
+                "unit_type": "Dimensionless", 
+                "type": "ScheduleTypeLimit"
+            }, 
+            "type": "ScheduleRuleset", 
+            "winter_designday_schedule": "Lighting Utilization Schedule_WntrDsn", 
+            "day_schedules": [
+                {
+                    "identifier": "Lighting Utilization Schedule_Sunday", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        0.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Lighting Utilization Schedule_SmrDsn", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ], 
+                        [
+                            8, 
+                            0
+                        ], 
+                        [
+                            9, 
+                            0
+                        ], 
+                        [
+                            12, 
+                            0
+                        ], 
+                        [
+                            13, 
+                            0
+                        ], 
+                        [
+                            17, 
+                            0
+                        ], 
+                        [
+                            18, 
+                            0
+                        ], 
+                        [
+                            19, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        0.10000000000000001, 
+                        0.5, 
+                        1.0, 
+                        0.80000000000000004, 
+                        1.0, 
+                        0.5, 
+                        0.20000000000000001, 
+                        0.10000000000000001
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Lighting Utilization Schedule_WntrDsn", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ], 
+                        [
+                            8, 
+                            0
+                        ], 
+                        [
+                            9, 
+                            0
+                        ], 
+                        [
+                            12, 
+                            0
+                        ], 
+                        [
+                            13, 
+                            0
+                        ], 
+                        [
+                            17, 
+                            0
+                        ], 
+                        [
+                            18, 
+                            0
+                        ], 
+                        [
+                            19, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        0.10000000000000001, 
+                        0.5, 
+                        1.0, 
+                        0.80000000000000004, 
+                        1.0, 
+                        0.5, 
+                        0.20000000000000001, 
+                        0.10000000000000001
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Lighting Utilization Schedule_Hol", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        0.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Lighting Utilization Schedule_Monday", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ], 
+                        [
+                            8, 
+                            0
+                        ], 
+                        [
+                            9, 
+                            0
+                        ], 
+                        [
+                            12, 
+                            0
+                        ], 
+                        [
+                            13, 
+                            0
+                        ], 
+                        [
+                            17, 
+                            0
+                        ], 
+                        [
+                            18, 
+                            0
+                        ], 
+                        [
+                            19, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        0.10000000000000001, 
+                        0.5, 
+                        1.0, 
+                        0.80000000000000004, 
+                        1.0, 
+                        0.5, 
+                        0.20000000000000001, 
+                        0.10000000000000001
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }
+            ]
+        }
+    }, 
+    "electric_equipment": {
+        "display_name": "JGJ/T 449-2018::Office Building::Senior Office::Equipment Load", 
+        "identifier": "JGJ/T 449-2018::Office Building::Senior Office::Equipment Load", 
+        "radiant_fraction": 0.0, 
+        "latent_fraction": 0.0, 
+        "type": "ElectricEquipment", 
+        "watts_per_area": 15.0, 
+        "lost_fraction": 0.0, 
+        "schedule": {
+            "display_name": "Equipment Utilization Schedule", 
+            "identifier": "Equipment Utilization Schedule", 
+            "schedule_rules": [
+                {
+                    "apply_tuesday": true, 
+                    "apply_saturday": false, 
+                    "schedule_day": "Equipment Utilization Schedule_Monday", 
+                    "apply_friday": true, 
+                    "apply_monday": true, 
+                    "start_date": [
+                        1, 
+                        1
+                    ], 
+                    "end_date": [
+                        12, 
+                        31
+                    ], 
+                    "apply_wednesday": true, 
+                    "type": "ScheduleRuleAbridged", 
+                    "apply_thursday": true, 
+                    "apply_sunday": false
+                }
+            ], 
+            "default_day_schedule": "Equipment Utilization Schedule_Sunday", 
+            "holiday_schedule": "Equipment Utilization Schedule_Hol", 
+            "summer_designday_schedule": "Equipment Utilization Schedule_SmrDsn", 
+            "schedule_type_limit": {
+                "upper_limit": 1.0, 
+                "identifier": "Fractional", 
+                "lower_limit": 0.0, 
+                "numeric_type": "Continuous", 
+                "unit_type": "Dimensionless", 
+                "type": "ScheduleTypeLimit"
+            }, 
+            "type": "ScheduleRuleset", 
+            "winter_designday_schedule": "Equipment Utilization Schedule_WntrDsn", 
+            "day_schedules": [
+                {
+                    "identifier": "Equipment Utilization Schedule_Sunday", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        0.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Equipment Utilization Schedule_SmrDsn", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ], 
+                        [
+                            7, 
+                            0
+                        ], 
+                        [
+                            8, 
+                            0
+                        ], 
+                        [
+                            9, 
+                            0
+                        ], 
+                        [
+                            17, 
+                            0
+                        ], 
+                        [
+                            18, 
+                            0
+                        ], 
+                        [
+                            19, 
+                            0
+                        ], 
+                        [
+                            20, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        0.0, 
+                        0.10000000000000001, 
+                        0.5, 
+                        1.0, 
+                        0.5, 
+                        0.20000000000000001, 
+                        0.10000000000000001, 
+                        0.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Equipment Utilization Schedule_WntrDsn", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ], 
+                        [
+                            7, 
+                            0
+                        ], 
+                        [
+                            8, 
+                            0
+                        ], 
+                        [
+                            9, 
+                            0
+                        ], 
+                        [
+                            17, 
+                            0
+                        ], 
+                        [
+                            18, 
+                            0
+                        ], 
+                        [
+                            19, 
+                            0
+                        ], 
+                        [
+                            20, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        0.0, 
+                        0.10000000000000001, 
+                        0.5, 
+                        1.0, 
+                        0.5, 
+                        0.20000000000000001, 
+                        0.10000000000000001, 
+                        0.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Equipment Utilization Schedule_Hol", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        0.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Equipment Utilization Schedule_Monday", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ], 
+                        [
+                            7, 
+                            0
+                        ], 
+                        [
+                            8, 
+                            0
+                        ], 
+                        [
+                            9, 
+                            0
+                        ], 
+                        [
+                            17, 
+                            0
+                        ], 
+                        [
+                            18, 
+                            0
+                        ], 
+                        [
+                            19, 
+                            0
+                        ], 
+                        [
+                            20, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        0.0, 
+                        0.10000000000000001, 
+                        0.5, 
+                        1.0, 
+                        0.5, 
+                        0.20000000000000001, 
+                        0.10000000000000001, 
+                        0.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }
+            ]
+        }
+    }, 
+    "setpoint": {
+        "display_name": "JGJ/T 449-2018::Office Building::Senior Office::Setpoint", 
+        "identifier": "JGJ/T 449-2018::Office Building::Senior Office::Setpoint", 
+        "heating_schedule": {
+            "display_name": "Heating Setpoint Temperature Schedule", 
+            "identifier": "Heating Setpoint Temperature Schedule", 
+            "schedule_rules": [
+                {
+                    "apply_tuesday": true, 
+                    "apply_saturday": false, 
+                    "schedule_day": "Heating Setpoint Temperature Schedule_Monday", 
+                    "apply_friday": true, 
+                    "apply_monday": true, 
+                    "start_date": [
+                        1, 
+                        1
+                    ], 
+                    "end_date": [
+                        12, 
+                        31
+                    ], 
+                    "apply_wednesday": true, 
+                    "type": "ScheduleRuleAbridged", 
+                    "apply_thursday": true, 
+                    "apply_sunday": false
+                }
+            ], 
+            "default_day_schedule": "Heating Setpoint Temperature Schedule_Sunday", 
+            "holiday_schedule": "Heating Setpoint Temperature Schedule_Hol", 
+            "summer_designday_schedule": "Heating Setpoint Temperature Schedule_SmrDsn", 
+            "schedule_type_limit": {
+                "upper_limit": {
+                    "type": "NoLimit"
+                }, 
+                "identifier": "Temperature", 
+                "lower_limit": -273.14999999999998, 
+                "numeric_type": "Continuous", 
+                "unit_type": "Temperature", 
+                "type": "ScheduleTypeLimit"
+            }, 
+            "type": "ScheduleRuleset", 
+            "winter_designday_schedule": "Heating Setpoint Temperature Schedule_WntrDsn", 
+            "day_schedules": [
+                {
+                    "identifier": "Heating Setpoint Temperature Schedule_Sunday", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        10.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Heating Setpoint Temperature Schedule_SmrDsn", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ], 
+                        [
+                            6, 
+                            0
+                        ], 
+                        [
+                            7, 
+                            0
+                        ], 
+                        [
+                            8, 
+                            0
+                        ], 
+                        [
+                            19, 
+                            0
+                        ], 
+                        [
+                            20, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        10.0, 
+                        12.0, 
+                        16.0, 
+                        20.0, 
+                        18.0, 
+                        10.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Heating Setpoint Temperature Schedule_WntrDsn", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ], 
+                        [
+                            6, 
+                            0
+                        ], 
+                        [
+                            7, 
+                            0
+                        ], 
+                        [
+                            8, 
+                            0
+                        ], 
+                        [
+                            19, 
+                            0
+                        ], 
+                        [
+                            20, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        10.0, 
+                        12.0, 
+                        16.0, 
+                        20.0, 
+                        18.0, 
+                        10.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Heating Setpoint Temperature Schedule_Hol", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        10.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Heating Setpoint Temperature Schedule_Monday", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ], 
+                        [
+                            6, 
+                            0
+                        ], 
+                        [
+                            7, 
+                            0
+                        ], 
+                        [
+                            8, 
+                            0
+                        ], 
+                        [
+                            19, 
+                            0
+                        ], 
+                        [
+                            20, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        10.0, 
+                        12.0, 
+                        16.0, 
+                        20.0, 
+                        18.0, 
+                        10.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }
+            ]
+        }, 
+        "cooling_schedule": {
+            "display_name": "Cooling Setpoint Temperature Schedule", 
+            "identifier": "Cooling Setpoint Temperature Schedule", 
+            "schedule_rules": [
+                {
+                    "apply_tuesday": true, 
+                    "apply_saturday": false, 
+                    "schedule_day": "Cooling Setpoint Temperature Schedule_Monday", 
+                    "apply_friday": true, 
+                    "apply_monday": true, 
+                    "start_date": [
+                        1, 
+                        1
+                    ], 
+                    "end_date": [
+                        12, 
+                        31
+                    ], 
+                    "apply_wednesday": true, 
+                    "type": "ScheduleRuleAbridged", 
+                    "apply_thursday": true, 
+                    "apply_sunday": false
+                }
+            ], 
+            "default_day_schedule": "Cooling Setpoint Temperature Schedule_Sunday", 
+            "holiday_schedule": "Cooling Setpoint Temperature Schedule_Hol", 
+            "summer_designday_schedule": "Cooling Setpoint Temperature Schedule_SmrDsn", 
+            "schedule_type_limit": {
+                "upper_limit": {
+                    "type": "NoLimit"
+                }, 
+                "identifier": "Temperature", 
+                "lower_limit": -273.14999999999998, 
+                "numeric_type": "Continuous", 
+                "unit_type": "Temperature", 
+                "type": "ScheduleTypeLimit"
+            }, 
+            "type": "ScheduleRuleset", 
+            "winter_designday_schedule": "Cooling Setpoint Temperature Schedule_WntrDsn", 
+            "day_schedules": [
+                {
+                    "identifier": "Cooling Setpoint Temperature Schedule_Sunday", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        37.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Cooling Setpoint Temperature Schedule_SmrDsn", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ], 
+                        [
+                            8, 
+                            0
+                        ], 
+                        [
+                            9, 
+                            0
+                        ], 
+                        [
+                            19, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        37.0, 
+                        29.0, 
+                        26.0, 
+                        37.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Cooling Setpoint Temperature Schedule_WntrDsn", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ], 
+                        [
+                            8, 
+                            0
+                        ], 
+                        [
+                            9, 
+                            0
+                        ], 
+                        [
+                            19, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        37.0, 
+                        29.0, 
+                        26.0, 
+                        37.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Cooling Setpoint Temperature Schedule_Hol", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        37.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Cooling Setpoint Temperature Schedule_Monday", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ], 
+                        [
+                            8, 
+                            0
+                        ], 
+                        [
+                            9, 
+                            0
+                        ], 
+                        [
+                            19, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        37.0, 
+                        29.0, 
+                        26.0, 
+                        37.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }
+            ]
+        }, 
+        "type": "Setpoint"
+    }, 
+    "ventilation": {
+        "display_name": "JGJ/T 449-2018::Office Building::Senior Office::Ventilation Load", 
+        "identifier": "JGJ/T 449-2018::Office Building::Senior Office::Ventilation Load", 
+        "type": "Ventilation", 
+        "flow_per_person": 0.0083333333333333332, 
+        "schedule": {
+            "display_name": "Ventilation Start-Stop Schedule", 
+            "identifier": "Ventilation Start-Stop Schedule", 
+            "schedule_rules": [
+                {
+                    "apply_tuesday": true, 
+                    "apply_saturday": false, 
+                    "schedule_day": "Ventilation Start-Stop Schedule_Monday", 
+                    "apply_friday": true, 
+                    "apply_monday": true, 
+                    "start_date": [
+                        1, 
+                        1
+                    ], 
+                    "end_date": [
+                        12, 
+                        31
+                    ], 
+                    "apply_wednesday": true, 
+                    "type": "ScheduleRuleAbridged", 
+                    "apply_thursday": true, 
+                    "apply_sunday": false
+                }
+            ], 
+            "default_day_schedule": "Ventilation Start-Stop Schedule_Sunday", 
+            "holiday_schedule": "Ventilation Start-Stop Schedule_Hol", 
+            "summer_designday_schedule": "Ventilation Start-Stop Schedule_SmrDsn", 
+            "schedule_type_limit": {
+                "upper_limit": 1.0, 
+                "identifier": "On-Off", 
+                "lower_limit": 0.0, 
+                "numeric_type": "Discrete", 
+                "unit_type": "Dimensionless", 
+                "type": "ScheduleTypeLimit"
+            }, 
+            "type": "ScheduleRuleset", 
+            "winter_designday_schedule": "Ventilation Start-Stop Schedule_WntrDsn", 
+            "day_schedules": [
+                {
+                    "identifier": "Ventilation Start-Stop Schedule_Sunday", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        0.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Ventilation Start-Stop Schedule_SmrDsn", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ], 
+                        [
+                            7, 
+                            0
+                        ], 
+                        [
+                            20, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        0.0, 
+                        1.0, 
+                        0.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Ventilation Start-Stop Schedule_WntrDsn", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ], 
+                        [
+                            7, 
+                            0
+                        ], 
+                        [
+                            20, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        0.0, 
+                        1.0, 
+                        0.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Ventilation Start-Stop Schedule_Hol", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        0.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Ventilation Start-Stop Schedule_Monday", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ], 
+                        [
+                            7, 
+                            0
+                        ], 
+                        [
+                            20, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        0.0, 
+                        1.0, 
+                        0.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }
+            ]
+        }
+    }, 
+    "type": "ProgramType", 
+    "people": {
+        "display_name": "JGJ/T 449-2018::Office Building::Senior Office::People Load", 
+        "identifier": "JGJ/T 449-2018::Office Building::Senior Office::People Load", 
+        "radiant_fraction": 0.29999999999999999, 
+        "people_per_area": 0.125, 
+        "latent_fraction": {
+            "type": "Autocalculate"
+        }, 
+        "occupancy_schedule": {
+            "display_name": "Personnel Occupancy Sch", 
+            "identifier": "Personnel Occupancy Sch", 
+            "schedule_rules": [
+                {
+                    "apply_tuesday": true, 
+                    "apply_saturday": false, 
+                    "schedule_day": "Personnel Occupancy Sch_Monday", 
+                    "apply_friday": true, 
+                    "apply_monday": true, 
+                    "start_date": [
+                        1, 
+                        1
+                    ], 
+                    "end_date": [
+                        12, 
+                        31
+                    ], 
+                    "apply_wednesday": true, 
+                    "type": "ScheduleRuleAbridged", 
+                    "apply_thursday": true, 
+                    "apply_sunday": false
+                }
+            ], 
+            "default_day_schedule": "Personnel Occupancy Sch_Sunday", 
+            "holiday_schedule": "Personnel Occupancy Sch_Hol", 
+            "summer_designday_schedule": "Personnel Occupancy Sch_SmrDsn", 
+            "schedule_type_limit": {
+                "upper_limit": 1.0, 
+                "identifier": "Fractional", 
+                "lower_limit": 0.0, 
+                "numeric_type": "Continuous", 
+                "unit_type": "Dimensionless", 
+                "type": "ScheduleTypeLimit"
+            }, 
+            "type": "ScheduleRuleset", 
+            "winter_designday_schedule": "Personnel Occupancy Sch_WntrDsn", 
+            "day_schedules": [
+                {
+                    "identifier": "Personnel Occupancy Sch_Sunday", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        0.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Personnel Occupancy Sch_SmrDsn", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ], 
+                        [
+                            7, 
+                            0
+                        ], 
+                        [
+                            8, 
+                            0
+                        ], 
+                        [
+                            9, 
+                            0
+                        ], 
+                        [
+                            12, 
+                            0
+                        ], 
+                        [
+                            13, 
+                            0
+                        ], 
+                        [
+                            17, 
+                            0
+                        ], 
+                        [
+                            18, 
+                            0
+                        ], 
+                        [
+                            19, 
+                            0
+                        ], 
+                        [
+                            20, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        0.0, 
+                        0.10000000000000001, 
+                        0.5, 
+                        1.0, 
+                        0.29999999999999999, 
+                        1.0, 
+                        0.5, 
+                        0.20000000000000001, 
+                        0.10000000000000001, 
+                        0.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Personnel Occupancy Sch_WntrDsn", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ], 
+                        [
+                            7, 
+                            0
+                        ], 
+                        [
+                            8, 
+                            0
+                        ], 
+                        [
+                            9, 
+                            0
+                        ], 
+                        [
+                            12, 
+                            0
+                        ], 
+                        [
+                            13, 
+                            0
+                        ], 
+                        [
+                            17, 
+                            0
+                        ], 
+                        [
+                            18, 
+                            0
+                        ], 
+                        [
+                            19, 
+                            0
+                        ], 
+                        [
+                            20, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        0.0, 
+                        0.10000000000000001, 
+                        0.5, 
+                        1.0, 
+                        0.29999999999999999, 
+                        1.0, 
+                        0.5, 
+                        0.20000000000000001, 
+                        0.10000000000000001, 
+                        0.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Personnel Occupancy Sch_Hol", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        0.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }, 
+                {
+                    "identifier": "Personnel Occupancy Sch_Monday", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ], 
+                        [
+                            7, 
+                            0
+                        ], 
+                        [
+                            8, 
+                            0
+                        ], 
+                        [
+                            9, 
+                            0
+                        ], 
+                        [
+                            12, 
+                            0
+                        ], 
+                        [
+                            13, 
+                            0
+                        ], 
+                        [
+                            17, 
+                            0
+                        ], 
+                        [
+                            18, 
+                            0
+                        ], 
+                        [
+                            19, 
+                            0
+                        ], 
+                        [
+                            20, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        0.0, 
+                        0.10000000000000001, 
+                        0.5, 
+                        1.0, 
+                        0.29999999999999999, 
+                        1.0, 
+                        0.5, 
+                        0.20000000000000001, 
+                        0.10000000000000001, 
+                        0.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }
+            ]
+        }, 
+        "type": "People", 
+        "activity_schedule": {
+            "display_name": "Personnel Activity Level Schedule", 
+            "identifier": "Personnel Activity Level Schedule", 
+            "default_day_schedule": "Personnel Activity Level Schedule_Day Schedule", 
+            "schedule_type_limit": {
+                "upper_limit": {
+                    "type": "NoLimit"
+                }, 
+                "identifier": "Activity Level", 
+                "lower_limit": 0.0, 
+                "numeric_type": "Continuous", 
+                "unit_type": "ActivityLevel", 
+                "type": "ScheduleTypeLimit"
+            }, 
+            "type": "ScheduleRuleset", 
+            "day_schedules": [
+                {
+                    "identifier": "Personnel Activity Level Schedule_Day Schedule", 
+                    "times": [
+                        [
+                            0, 
+                            0
+                        ]
+                    ], 
+                    "values": [
+                        134.0
+                    ], 
+                    "type": "ScheduleDay", 
+                    "interpolate": false
+                }
+            ]
+        }
+    }
+}
