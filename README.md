@@ -15,11 +15,11 @@ Program Type 通常用于记录某个空间的照明功率密度、设备功率�
 例如，以《民用建筑绿色性能计算标准》JGJ/T449-2018 附录C 建筑供暖和空调系统模拟计算运行参数中的表C0.1-1的相关内容为例：
 可将表C0.1-1记录为如下形式：
 
-<center> JGJ/T449-2018::办公建筑::普通办公室::外区 </center>
+JGJ/T449-2018::办公建筑::普通办公室::外区
 
 由于Ladybug Tools使用Python进行开发，需要考虑特殊符号、中文的兼容性问题，应在输入时对输入内容进行部分翻译，部分翻译后的形式如下所示：
 
-<center> JGJ_T449-2018::Office Building::Ordinary Office::Perimeter </center>
+JGJ_T449-2018::Office Building::Ordinary Office::Perimeter
 
 ### 1.2  Schedule
 
