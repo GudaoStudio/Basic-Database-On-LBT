@@ -1,4 +1,3 @@
-# Basic-Database-On-LBT
 此仓库主要储存执行Ladybug、Honeybee-Energy、Honeybee-Radiance、Dragonfly时必不可少的可复用参数信息。  
 
 它可以是Program Type、Loads、Schedule、Construction-Set、Construction、Modifie Set以及Modifie等复用率较高的内容。  也可以是明确了来源和具体使用范围的气象数据文件（.EPW File）及设计日文件（.DDY File）。 
@@ -46,12 +45,18 @@ Schedule用于设置各种不同类型的 Load ，在约定的时间间隔下的
 
 将1.1  Program Type 和1.2  Load 的案例进行延伸，可使用 Honeybee 中提供的 Schedule 相关组件进行设置其计划并设置约束，记录其名称为：
 
-` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Lighting::Lighting Schedule `  
-` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::People::Occupancy Schedule `  
+` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Lighting::Lighting Schedule`  
+` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::People::Occupancy Schedule  
 ` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::People::Activity Schedule `  
-` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Equipment::Equipment Schedule `  
+` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Equipment::Equipment Schedule   `
 ` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Ventilation::Ventilation Schedule `  
 ` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Setpoint::Heating Schedule `  
 ` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Setpoint::Cooling Schedule `  
 
-# 2  如何提交？
+### 1.2  Constitution Set
+
+#### 1.2.1  Construction
+
+#### 1.2.2  Material
+
+### 1.3  Modifier Set & Modifier
