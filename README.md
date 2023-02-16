@@ -5,9 +5,12 @@
 此仓库主要储存执行Ladybug、Honeybee-Energy、Honeybee-Radiance、Dragonfly时必不可少的可复用参数信息。  
 
 它可以是Program Type、Loads、Schedule、Construction-Set、Construction、Modifie Set以及Modifie等复用率较高的内容。  也可以是明确了来源和具体使用范围的气象数据文件（.EPW File）及设计日文件（.DDY File）。
-## 1  如何规范命名？
 
-### 1.1  Program Type 的命名规则
+## 1  基本规则
+
+## 2  如何规范命名？
+
+### 2.1  Program Type 的命名规则
 
 Program Type 是用于记录空间的照明功率密度、设备功率密度、人员密度及散热量、新风量、房间夏季设定温度和冬季设定温度；照明开关时间、设备使用率、人员在室率、新风运行情况、供暖和空调系统运行时间、房间逐时温度；热水供应、燃气设备的供应、使用情况和外立面渗透等内扰因素的集合，是能耗模拟中的核心设置内容。
 
@@ -25,13 +28,13 @@ Program Type 是用于记录空间的照明功率密度、设备功率密度、�
 
 ` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter `
 
-#### 1.1.2  Load 的命名规则
+#### 2.1.2  Load 的命名规则
 
 Load 用于设置空间的照明功率密度、设备功率密度、人员密度及散热量、新风量、房间夏季设定温度和冬季设定温度；照明开关时间、设备使用率、人员在室率、新风运行情况、供暖和空调系统运行时间、房间逐时温度；热水供应、燃气设备的供应、使用情况和外立面渗透等内扰因素，是能耗模拟中的重要组成部分。
 
 在Ladybug Tools中，包括了8种 Load 类型和与 Load 对应的 Schedule。为了使得与 Load 关联的 Schedule 的信息可追溯，所以在内容名称中，Load 的名称层级应要高于 Schedule ，则可通过如下名称结构表示：
 
-例如将1.1  Program Type的案例进行延伸，需要设置照明功率密度和照明开关时间（或使用率）等信息，可使用 HB Lighting组件进行设置，并记录其名称为：
+例如将 Program Type 的案例进行延伸，需要设置照明功率密度和照明开关时间（或使用率）等信息，可使用 HB Lighting组件进行设置，并记录其名称为：
 
 ` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Lighting `
 
@@ -42,11 +45,11 @@ Load 用于设置空间的照明功率密度、设备功率密度、人员密度
 ` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Ventilation `  
 ` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Setpoint `  
 
-#### 1.1.3  Schedule 的命名规则
+#### 2.1.3  Schedule 的命名规则
 
 Schedule用于设置各种不同类型的 Load ，在约定的时间间隔下的使用率、开关时间、设定温度、活动强度等计划。
 
-将1.1  Program Type 和1.2  Load 的案例进行延伸，可使用 Honeybee 中提供的 Schedule 相关组件进行设置其计划并设置约束，记录其名称为：
+将 Program Type 和 Load 的案例进行延伸，可使用 Honeybee 中提供的 Schedule 相关组件进行设置其计划并设置约束，记录其名称为：
 
 `JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Lighting::Lighting Schedule`  
 `JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::People::Occupancy Schedule`  
@@ -56,8 +59,10 @@ Schedule用于设置各种不同类型的 Load ，在约定的时间间隔下的
 ` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Setpoint::Heating Schedule `    
 ` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Setpoint::Cooling Schedule `   
 
-### 1.2  Constitution Set 的命名规则
-#### 1.2.1  Construction 的命名规则
-#### 1.2.2  Material 的命名规则
+### 2.2  Constitution Set 的命名规则
+#### 2.2.1  Construction 的命名规则
+#### 2.2.2  Material 的命名规则
 
-### 1.3  Modifier Set & Modifier 的命名规则
+### 2.3  Modifier Set & Modifier 的命名规则
+
+## 3  如何提交？
