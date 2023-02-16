@@ -35,10 +35,10 @@ Load 用于设置空间的照明功率密度、设备功率密度、人员密度
 
 拓展其案例，可按同一Program Type中涉及到不同 Load 的类型进行命名：
 
-` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::People `
-` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Equipment `
-` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Ventilation `
-` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Setpoint `
+` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::People `  
+` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Equipment `  
+` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Ventilation `  
+` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Setpoint `  
 
 ### 1.3  Schedule
 
@@ -46,12 +46,12 @@ Schedule用于设置各种不同类型的 Load ，在约定的时间间隔下的
 
 将1.1  Program Type 和1.2  Load 的案例进行延伸，可使用 Honeybee 中提供的 Schedule 相关组件进行设置其计划并设置约束，记录其名称为：
 
-` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Lighting::Lighting Schedule`
-` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::People::Occupancy Schedule
-` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::People::Activity Schedule
-` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Equipment::Equipment Schedule `
-` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Ventilation::Ventilation Schedule `
-` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Setpoint::Heating Schedule `
-` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Setpoint::Cooling Schedule `
+` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Lighting::Lighting Schedule `  
+` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::People::Occupancy Schedule `  
+` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::People::Activity Schedule `  
+` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Equipment::Equipment Schedule `  
+` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Ventilation::Ventilation Schedule `  
+` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Setpoint::Heating Schedule `  
+` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Setpoint::Cooling Schedule `  
 
 # 2  如何提交？
