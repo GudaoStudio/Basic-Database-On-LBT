@@ -28,7 +28,7 @@ Program Type 是用于记录空间的照明功率密度、设备功率密度、�
 
 ` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter `
 
-#### 2.1.2  Load 的命名规则
+#### 2.1.2  Load 的命名
 
 Load 用于设置空间的照明功率密度、设备功率密度、人员密度及散热量、新风量、房间夏季设定温度和冬季设定温度；照明开关时间、设备使用率、人员在室率、新风运行情况、供暖和空调系统运行时间、房间逐时温度；热水供应、燃气设备的供应、使用情况和外立面渗透等内扰因素，是能耗模拟中的重要组成部分。
 
@@ -45,7 +45,7 @@ Load 用于设置空间的照明功率密度、设备功率密度、人员密度
 ` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Ventilation `  
 ` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Setpoint `  
 
-#### 2.1.3  Schedule 的命名规则
+#### 2.1.3  Schedule 的命名
 
 Schedule用于设置各种不同类型的 Load ，在约定的时间间隔下的使用率、开关时间、设定温度、活动强度等计划。
 
@@ -60,8 +60,8 @@ Schedule用于设置各种不同类型的 Load ，在约定的时间间隔下的
 ` JGJ_T449-2018::Office Building::Ordinary Office::Perimeter::Setpoint::Cooling Schedule `   
 
 ### 2.2  Constitution Set 的命名规则
-#### 2.2.1  Construction 的命名规则
-#### 2.2.2  Material 的命名规则
+#### 2.2.1  Construction 的命名
+#### 2.2.2  Material 的命名
 
 ### 2.3  Modifier Set & Modifier 的命名规则
 
