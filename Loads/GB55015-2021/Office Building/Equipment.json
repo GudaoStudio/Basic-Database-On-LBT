@@ -1,0 +1,189 @@
+{
+ "display_name": "GB55015-2021::Office Building::Equipment", 
+ "identifier": "GB55015-2021::Office Building::Equipment", 
+ "radiant_fraction": 0.0, 
+ "latent_fraction": 0.0, 
+ "type": "ElectricEquipment", 
+ "watts_per_area": 15.0, 
+ "lost_fraction": 0.0, 
+ "schedule": {
+  "display_name": "GB55015-2021::Office Building::Equipment::Equipment Schedule", 
+  "identifier": "GB55015-2021::Office Building::Equipment::Equipment Schedule", 
+  "schedule_rules": [
+   {
+    "apply_tuesday": true, 
+    "apply_saturday": false, 
+    "schedule_day": "GB55015-2021::Office Building::Equipment::Equipment Schedule_Monday", 
+    "apply_friday": true, 
+    "apply_monday": true, 
+    "start_date": [
+     1, 
+     1
+    ], 
+    "end_date": [
+     12, 
+     31
+    ], 
+    "apply_wednesday": true, 
+    "type": "ScheduleRuleAbridged", 
+    "apply_thursday": true, 
+    "apply_sunday": false
+   }
+  ], 
+  "default_day_schedule": "GB55015-2021::Office Building::Equipment::Equipment Schedule_Sunday", 
+  "holiday_schedule": "GB55015-2021::Office Building::Equipment::Equipment Schedule_Hol", 
+  "summer_designday_schedule": "GB55015-2021::Office Building::Equipment::Equipment Schedule_Monday_SmrDsn", 
+  "schedule_type_limit": {
+   "upper_limit": 1.0, 
+   "identifier": "Fractional", 
+   "lower_limit": 0.0, 
+   "numeric_type": "Continuous", 
+   "unit_type": "Dimensionless", 
+   "type": "ScheduleTypeLimit"
+  }, 
+  "type": "ScheduleRuleset", 
+  "winter_designday_schedule": "GB55015-2021::Office Building::Equipment::Equipment Schedule_Monday_SmrDsn_WntrDsn", 
+  "day_schedules": [
+   {
+    "identifier": "GB55015-2021::Office Building::Equipment::Equipment Schedule_Sunday", 
+    "times": [
+     [
+      0, 
+      0
+     ]
+    ], 
+    "values": [
+     0.0
+    ], 
+    "type": "ScheduleDay", 
+    "interpolate": false
+   }, 
+   {
+    "identifier": "GB55015-2021::Office Building::Equipment::Equipment Schedule_Monday_SmrDsn", 
+    "times": [
+     [
+      0, 
+      0
+     ], 
+     [
+      7, 
+      0
+     ], 
+     [
+      8, 
+      0
+     ], 
+     [
+      9, 
+      0
+     ], 
+     [
+      12, 
+      0
+     ], 
+     [
+      14, 
+      0
+     ], 
+     [
+      18, 
+      0
+     ], 
+     [
+      20, 
+      0
+     ]
+    ], 
+    "values": [
+     0.0, 
+     0.10000000000000001, 
+     0.5, 
+     0.94999999999999996, 
+     0.5, 
+     0.94999999999999996, 
+     0.29999999999999999, 
+     0.0
+    ], 
+    "type": "ScheduleDay", 
+    "interpolate": false
+   }, 
+   {
+    "identifier": "GB55015-2021::Office Building::Equipment::Equipment Schedule_Monday_SmrDsn_WntrDsn", 
+    "times": [
+     [
+      0, 
+      0
+     ]
+    ], 
+    "values": [
+     0.0
+    ], 
+    "type": "ScheduleDay", 
+    "interpolate": false
+   }, 
+   {
+    "identifier": "GB55015-2021::Office Building::Equipment::Equipment Schedule_Hol", 
+    "times": [
+     [
+      0, 
+      0
+     ]
+    ], 
+    "values": [
+     0.0
+    ], 
+    "type": "ScheduleDay", 
+    "interpolate": false
+   }, 
+   {
+    "identifier": "GB55015-2021::Office Building::Equipment::Equipment Schedule_Monday", 
+    "times": [
+     [
+      0, 
+      0
+     ], 
+     [
+      7, 
+      0
+     ], 
+     [
+      8, 
+      0
+     ], 
+     [
+      9, 
+      0
+     ], 
+     [
+      12, 
+      0
+     ], 
+     [
+      14, 
+      0
+     ], 
+     [
+      18, 
+      0
+     ], 
+     [
+      20, 
+      0
+     ]
+    ], 
+    "values": [
+     0.0, 
+     0.10000000000000001, 
+     0.5, 
+     0.94999999999999996, 
+     0.5, 
+     0.94999999999999996, 
+     0.29999999999999999, 
+     0.0
+    ], 
+    "type": "ScheduleDay", 
+    "interpolate": false
+   }
+  ]
+ }
+}

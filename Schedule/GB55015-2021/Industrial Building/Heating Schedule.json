@@ -1,0 +1,77 @@
+{
+ "display_name": "GB55015-2021::Industrial Building::Setpoint::Heating Schedule", 
+ "identifier": "GB55015-2021::Industrial Building::Setpoint::Heating Schedule", 
+ "holiday_schedule": "GB55015-2021::Industrial Building::Setpoint::Heating Schedule_Hol", 
+ "default_day_schedule": "GB55015-2021::Industrial Building::Setpoint::Heating Schedule_Sunday", 
+ "summer_designday_schedule": "GB55015-2021::Industrial Building::Setpoint::Heating Schedule_Sunday_SmrDsn", 
+ "schedule_type_limit": {
+  "upper_limit": {
+   "type": "NoLimit"
+  }, 
+  "identifier": "Temperature", 
+  "lower_limit": -273.14999999999998, 
+  "numeric_type": "Continuous", 
+  "unit_type": "Temperature", 
+  "type": "ScheduleTypeLimit"
+ }, 
+ "type": "ScheduleRuleset", 
+ "winter_designday_schedule": "GB55015-2021::Industrial Building::Setpoint::Heating Schedule_Sunday_SmrDsn_WntrDsn", 
+ "day_schedules": [
+  {
+   "identifier": "GB55015-2021::Industrial Building::Setpoint::Heating Schedule_Sunday", 
+   "times": [
+    [
+     0, 
+     0
+    ]
+   ], 
+   "values": [
+    16.0
+   ], 
+   "type": "ScheduleDay", 
+   "interpolate": false
+  }, 
+  {
+   "identifier": "GB55015-2021::Industrial Building::Setpoint::Heating Schedule_Sunday_SmrDsn", 
+   "times": [
+    [
+     0, 
+     0
+    ]
+   ], 
+   "values": [
+    16.0
+   ], 
+   "type": "ScheduleDay", 
+   "interpolate": false
+  }, 
+  {
+   "identifier": "GB55015-2021::Industrial Building::Setpoint::Heating Schedule_Sunday_SmrDsn_WntrDsn", 
+   "times": [
+    [
+     0, 
+     0
+    ]
+   ], 
+   "values": [
+    16.0
+   ], 
+   "type": "ScheduleDay", 
+   "interpolate": false
+  }, 
+  {
+   "identifier": "GB55015-2021::Industrial Building::Setpoint::Heating Schedule_Hol", 
+   "times": [
+    [
+     0, 
+     0
+    ]
+   ], 
+   "values": [
+    16.0
+   ], 
+   "type": "ScheduleDay", 
+   "interpolate": false
+  }
+ ]
+}

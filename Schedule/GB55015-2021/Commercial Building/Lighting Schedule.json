@@ -1,0 +1,195 @@
+{
+ "display_name": "GB55015-2021::Commercial Building::Lighting::Lighting Schedule", 
+ "identifier": "GB55015-2021::Commercial Building::Lighting::Lighting Schedule", 
+ "holiday_schedule": "GB55015-2021::Commercial Building::Lighting::Lighting Schedule_Hol", 
+ "default_day_schedule": "GB55015-2021::Commercial Building::Lighting::Lighting Schedule_Sunday", 
+ "summer_designday_schedule": "GB55015-2021::Commercial Building::Lighting::Lighting Schedule_Sunday_SmrDsn", 
+ "schedule_type_limit": {
+  "upper_limit": 1.0, 
+  "identifier": "Fractional", 
+  "lower_limit": 0.0, 
+  "numeric_type": "Continuous", 
+  "unit_type": "Dimensionless", 
+  "type": "ScheduleTypeLimit"
+ }, 
+ "type": "ScheduleRuleset", 
+ "winter_designday_schedule": "GB55015-2021::Commercial Building::Lighting::Lighting Schedule_Sunday_SmrDsn_WntrDsn", 
+ "day_schedules": [
+  {
+   "identifier": "GB55015-2021::Commercial Building::Lighting::Lighting Schedule_Sunday", 
+   "times": [
+    [
+     0, 
+     0
+    ], 
+    [
+     8, 
+     0
+    ], 
+    [
+     9, 
+     0
+    ], 
+    [
+     17, 
+     0
+    ], 
+    [
+     18, 
+     0
+    ], 
+    [
+     19, 
+     0
+    ], 
+    [
+     22, 
+     0
+    ]
+   ], 
+   "values": [
+    0.10000000000000001, 
+    0.5, 
+    0.59999999999999998, 
+    0.80000000000000004, 
+    0.90000000000000002, 
+    1.0, 
+    0.10000000000000001
+   ], 
+   "type": "ScheduleDay", 
+   "interpolate": false
+  }, 
+  {
+   "identifier": "GB55015-2021::Commercial Building::Lighting::Lighting Schedule_Sunday_SmrDsn", 
+   "times": [
+    [
+     0, 
+     0
+    ], 
+    [
+     8, 
+     0
+    ], 
+    [
+     9, 
+     0
+    ], 
+    [
+     17, 
+     0
+    ], 
+    [
+     18, 
+     0
+    ], 
+    [
+     19, 
+     0
+    ], 
+    [
+     22, 
+     0
+    ]
+   ], 
+   "values": [
+    0.10000000000000001, 
+    0.5, 
+    0.59999999999999998, 
+    0.80000000000000004, 
+    0.90000000000000002, 
+    1.0, 
+    0.10000000000000001
+   ], 
+   "type": "ScheduleDay", 
+   "interpolate": false
+  }, 
+  {
+   "identifier": "GB55015-2021::Commercial Building::Lighting::Lighting Schedule_Sunday_SmrDsn_WntrDsn", 
+   "times": [
+    [
+     0, 
+     0
+    ], 
+    [
+     8, 
+     0
+    ], 
+    [
+     9, 
+     0
+    ], 
+    [
+     17, 
+     0
+    ], 
+    [
+     18, 
+     0
+    ], 
+    [
+     19, 
+     0
+    ], 
+    [
+     22, 
+     0
+    ]
+   ], 
+   "values": [
+    0.10000000000000001, 
+    0.5, 
+    0.59999999999999998, 
+    0.80000000000000004, 
+    0.90000000000000002, 
+    1.0, 
+    0.10000000000000001
+   ], 
+   "type": "ScheduleDay", 
+   "interpolate": false
+  }, 
+  {
+   "identifier": "GB55015-2021::Commercial Building::Lighting::Lighting Schedule_Hol", 
+   "times": [
+    [
+     0, 
+     0
+    ], 
+    [
+     8, 
+     0
+    ], 
+    [
+     9, 
+     0
+    ], 
+    [
+     17, 
+     0
+    ], 
+    [
+     18, 
+     0
+    ], 
+    [
+     19, 
+     0
+    ], 
+    [
+     22, 
+     0
+    ]
+   ], 
+   "values": [
+    0.10000000000000001, 
+    0.5, 
+    0.59999999999999998, 
+    0.80000000000000004, 
+    0.90000000000000002, 
+    1.0, 
+    0.10000000000000001
+   ], 
+   "type": "ScheduleDay", 
+   "interpolate": false
+  }
+ ]
+}
