@@ -1,0 +1,13 @@
+{
+ "conductivity": 1.74, 
+ "specific_heat": 920.0, 
+ "density": 250.0, 
+ "thermal_absorptance": 0.90000000000000002, 
+ "thickness": 0.12, 
+ "solar_absorptance": 0.69999999999999996, 
+ "visible_absorptance": 0.69999999999999996, 
+ "display_name": "Ferroconcrete_T0.12_R0.069", 
+ "roughness": "MediumRough", 
+ "type": "EnergyMaterial", 
+ "identifier": "Ferroconcrete_T0.12_R0.069"
+}
