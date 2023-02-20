@@ -1,0 +1,20 @@
+{
+ "display_name": "GB55015-2021::ClimateZone1A::Industrial Building::S15gt::Interior Wall(C)", 
+ "type": "OpaqueConstruction", 
+ "identifier": "GB55015-2021::ClimateZone1A::Industrial Building::S15gt::Interior Wall(C)", 
+ "materials": [
+  {
+   "conductivity": 0.18174011565541201, 
+   "specific_heat": 1450.0, 
+   "density": 2000.0, 
+   "thermal_absorptance": 0.90000000000000002, 
+   "thickness": 0.20000000000000001, 
+   "solar_absorptance": 0.69999999999999996, 
+   "visible_absorptance": 0.69999999999999996, 
+   "display_name": "GB55015-2021::ClimateZone1A::Industrial Building::S15gt::Interior Wall(C)", 
+   "roughness": "MediumRough", 
+   "type": "EnergyMaterial", 
+   "identifier": "GB55015-2021::ClimateZone1A::Industrial Building::S15gt::Interior Wall(C)"
+  }
+ ]
+}
