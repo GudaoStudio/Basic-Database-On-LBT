@@ -1,0 +1,13 @@
+{
+ "conductivity": 0.085607276618512598, 
+ "specific_heat": 1450.0, 
+ "density": 2000.0, 
+ "thermal_absorptance": 0.90000000000000002, 
+ "thickness": 0.20000000000000001, 
+ "solar_absorptance": 0.69999999999999996, 
+ "visible_absorptance": 0.69999999999999996, 
+ "display_name": "GB55015-2021::ClimateZone1B::Residential Building::F3gt::Ground Roof(NC&C)", 
+ "roughness": "MediumRough", 
+ "type": "EnergyMaterial", 
+ "identifier": "GB55015-2021::ClimateZone1B::Residential Building::F3gt::Ground Roof(NC&C)"
+}
