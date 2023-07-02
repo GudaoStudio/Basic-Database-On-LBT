@@ -1,0 +1,135 @@
+{
+"schedule": {
+"display_name": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule", 
+"identifier": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule", 
+"schedule_rules": [
+{
+"apply_tuesday": true, 
+"apply_saturday": true, 
+"schedule_day": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule_Monday", 
+"apply_friday": true, 
+"apply_monday": true, 
+"start_date": [
+1, 
+1
+], 
+"end_date": [
+12, 
+31
+], 
+"apply_wednesday": true, 
+"type": "ScheduleRuleAbridged", 
+"apply_thursday": true, 
+"apply_sunday": false
+}
+], 
+"default_day_schedule": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule_Sunday", 
+"holiday_schedule": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule_Hol", 
+"summer_designday_schedule": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule_Monday_SmrDsn", 
+"schedule_type_limit": {
+"upper_limit": 1.0, 
+"identifier": "On-Off", 
+"lower_limit": 0.0, 
+"numeric_type": "Discrete", 
+"unit_type": "Dimensionless", 
+"type": "ScheduleTypeLimit"
+}, 
+"type": "ScheduleRuleset", 
+"winter_designday_schedule": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule_Monday_SmrDsn_WntrDsn", 
+"day_schedules": [
+{
+"identifier": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule_Sunday", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule_Monday_SmrDsn", 
+"times": [
+[
+0, 
+0
+], 
+[
+6, 
+0
+], 
+[
+19, 
+0
+]
+], 
+"values": [
+0.0, 
+1.0, 
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule_Monday_SmrDsn_WntrDsn", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule_Hol", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule_Monday", 
+"times": [
+[
+0, 
+0
+], 
+[
+6, 
+0
+], 
+[
+19, 
+0
+]
+], 
+"values": [
+0.0, 
+1.0, 
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}
+]
+}, 
+"type": "Ventilation", 
+"identifier": "JGJT449_2018::Office::Staircase::Ordinary:: Ventilation", 
+"display_name": "JGJT449_2018::Office::Staircase::Ordinary:: Ventilation"
+}

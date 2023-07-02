@@ -1,0 +1,277 @@
+{
+"display_name": "JGJT449_2018::Office::Electronic Information Machine Room::Ordinary::People", 
+"identifier": "JGJT449_2018::Office::Electronic Information Machine Room::Ordinary::People", 
+"radiant_fraction": 0.29999999999999999, 
+"people_per_area": 20.0, 
+"latent_fraction": {
+"type": "Autocalculate"
+}, 
+"occupancy_schedule": {
+"display_name": "JGJT449_2018::Office::Ordinary::People Schedule", 
+"identifier": "JGJT449_2018::Office::Ordinary::People Schedule", 
+"schedule_rules": [
+{
+"apply_tuesday": true, 
+"apply_saturday": true, 
+"schedule_day": "JGJT449_2018::Office::Ordinary::People Schedule_Monday", 
+"apply_friday": true, 
+"apply_monday": true, 
+"start_date": [
+1, 
+1
+], 
+"end_date": [
+12, 
+31
+], 
+"apply_wednesday": true, 
+"type": "ScheduleRuleAbridged", 
+"apply_thursday": true, 
+"apply_sunday": false
+}
+], 
+"default_day_schedule": "JGJT449_2018::Office::Ordinary::People Schedule_Sunday", 
+"holiday_schedule": "JGJT449_2018::Office::Ordinary::People Schedule_Hol", 
+"summer_designday_schedule": "JGJT449_2018::Office::Ordinary::People Schedule_Monday_SmrDsn", 
+"schedule_type_limit": {
+"upper_limit": 1.0, 
+"identifier": "Fractional", 
+"lower_limit": 0.0, 
+"numeric_type": "Continuous", 
+"unit_type": "Dimensionless", 
+"type": "ScheduleTypeLimit"
+}, 
+"type": "ScheduleRuleset", 
+"winter_designday_schedule": "JGJT449_2018::Office::Ordinary::People Schedule_Monday_SmrDsn_WntrDsn", 
+"day_schedules": [
+{
+"identifier": "JGJT449_2018::Office::Ordinary::People Schedule_Sunday", 
+"times": [
+[
+0, 
+0
+], 
+[
+7, 
+0
+], 
+[
+8, 
+0
+], 
+[
+9, 
+0
+]
+], 
+"values": [
+0.0, 
+20.0, 
+45.0, 
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary::People Schedule_Monday_SmrDsn", 
+"times": [
+[
+0, 
+0
+], 
+[
+6, 
+0
+], 
+[
+7, 
+0
+], 
+[
+8, 
+0
+], 
+[
+11, 
+0
+], 
+[
+12, 
+0
+], 
+[
+16, 
+0
+], 
+[
+17, 
+0
+], 
+[
+18, 
+0
+]
+], 
+"values": [
+0.0, 
+10.0, 
+50.0, 
+100.0, 
+30.0, 
+100.0, 
+50.0, 
+20.0, 
+10.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary::People Schedule_Monday_SmrDsn_WntrDsn", 
+"times": [
+[
+0, 
+0
+], 
+[
+7, 
+0
+], 
+[
+8, 
+0
+], 
+[
+9, 
+0
+]
+], 
+"values": [
+0.0, 
+20.0, 
+45.0, 
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary::People Schedule_Hol", 
+"times": [
+[
+0, 
+0
+], 
+[
+7, 
+0
+], 
+[
+8, 
+0
+], 
+[
+9, 
+0
+]
+], 
+"values": [
+0.0, 
+20.0, 
+45.0, 
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary::People Schedule_Monday", 
+"times": [
+[
+0, 
+0
+], 
+[
+6, 
+0
+], 
+[
+7, 
+0
+], 
+[
+8, 
+0
+], 
+[
+11, 
+0
+], 
+[
+12, 
+0
+], 
+[
+16, 
+0
+], 
+[
+17, 
+0
+], 
+[
+18, 
+0
+]
+], 
+"values": [
+0.0, 
+10.0, 
+50.0, 
+100.0, 
+30.0, 
+100.0, 
+50.0, 
+20.0, 
+10.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}
+]
+}, 
+"type": "People", 
+"activity_schedule": {
+"display_name": "JGJT449_2018::Office::Ordinary::Activity Level Schedule", 
+"identifier": "JGJT449_2018::Office::Ordinary::Activity Level Schedule", 
+"default_day_schedule": "JGJT449_2018::Office::Ordinary::Activity Level Schedule_Day Schedule", 
+"schedule_type_limit": {
+"upper_limit": {
+"type": "NoLimit"
+}, 
+"identifier": "Activity Level", 
+"lower_limit": 0.0, 
+"numeric_type": "Continuous", 
+"unit_type": "ActivityLevel", 
+"type": "ScheduleTypeLimit"
+}, 
+"type": "ScheduleRuleset", 
+"day_schedules": [
+{
+"identifier": "JGJT449_2018::Office::Ordinary::Activity Level Schedule_Day Schedule", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+108.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}
+]
+}
+}

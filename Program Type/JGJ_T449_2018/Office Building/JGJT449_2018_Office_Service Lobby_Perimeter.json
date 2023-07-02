@@ -1,0 +1,1189 @@
+{
+"display_name": "JGJT449_2018::Office::Warehouse::Perimeter", 
+"identifier": "JGJT449_2018::Office::Warehouse::Perimeter", 
+"infiltration": {
+"display_name": "Infiltration In Average building", 
+"identifier": "Infiltration In Average building", 
+"flow_per_exterior_area": 0.00029999999999999997, 
+"type": "Infiltration", 
+"schedule": {
+"identifier": "Always On", 
+"default_day_schedule": "Always On_Day Schedule", 
+"schedule_type_limit": {
+"upper_limit": 1.0, 
+"identifier": "Fractional", 
+"lower_limit": 0.0, 
+"numeric_type": "Continuous", 
+"unit_type": "Dimensionless", 
+"type": "ScheduleTypeLimit"
+}, 
+"type": "ScheduleRuleset", 
+"day_schedules": [
+{
+"identifier": "Always On_Day Schedule", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+1.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}
+]
+}
+}, 
+"lighting": {
+"display_name": "JGJT449_2018::Office::Warehouse::Perimeter::Lighting", 
+"identifier": "JGJT449_2018::Office::Warehouse::Perimeter::Lighting", 
+"radiant_fraction": 0.32000000000000001, 
+"visible_fraction": 0.25, 
+"type": "Lighting", 
+"return_air_fraction": 0.0, 
+"watts_per_area": 5.0, 
+"schedule": {
+"display_name": "JGJT449_2018::Office::Perimeter::Lighting Schedule", 
+"identifier": "JGJT449_2018::Office::Perimeter::Lighting Schedule", 
+"schedule_rules": [
+{
+"apply_tuesday": true, 
+"apply_saturday": true, 
+"schedule_day": "JGJT449_2018::Office::Perimeter::Lighting Schedule_Monday", 
+"apply_friday": true, 
+"apply_monday": true, 
+"start_date": [
+1, 
+1
+], 
+"end_date": [
+12, 
+31
+], 
+"apply_wednesday": true, 
+"type": "ScheduleRuleAbridged", 
+"apply_thursday": true, 
+"apply_sunday": false
+}
+], 
+"default_day_schedule": "JGJT449_2018::Office::Perimeter::Lighting Schedule_Sunday", 
+"holiday_schedule": "JGJT449_2018::Office::Perimeter::Lighting Schedule_Hol", 
+"summer_designday_schedule": "JGJT449_2018::Office::Perimeter::Lighting Schedule_Monday_SmrDsn", 
+"schedule_type_limit": {
+"upper_limit": 1.0, 
+"identifier": "Fractional", 
+"lower_limit": 0.0, 
+"numeric_type": "Continuous", 
+"unit_type": "Dimensionless", 
+"type": "ScheduleTypeLimit"
+}, 
+"type": "ScheduleRuleset", 
+"winter_designday_schedule": "JGJT449_2018::Office::Perimeter::Lighting Schedule_Monday_SmrDsn_WntrDsn", 
+"day_schedules": [
+{
+"identifier": "JGJT449_2018::Office::Perimeter::Lighting Schedule_Sunday", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Perimeter::Lighting Schedule_Monday_SmrDsn", 
+"times": [
+[
+0, 
+0
+], 
+[
+7, 
+0
+], 
+[
+8, 
+0
+], 
+[
+9, 
+0
+], 
+[
+10, 
+0
+], 
+[
+11, 
+0
+], 
+[
+12, 
+0
+], 
+[
+13, 
+0
+], 
+[
+14, 
+0
+], 
+[
+15, 
+0
+], 
+[
+16, 
+0
+], 
+[
+17, 
+0
+], 
+[
+18, 
+0
+]
+], 
+"values": [
+10.0, 
+35.0, 
+62.0, 
+56.0, 
+54.0, 
+43.0, 
+53.0, 
+55.0, 
+58.0, 
+67.0, 
+40.0, 
+18.0, 
+10.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Perimeter::Lighting Schedule_Monday_SmrDsn_WntrDsn", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Perimeter::Lighting Schedule_Hol", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Perimeter::Lighting Schedule_Monday", 
+"times": [
+[
+0, 
+0
+], 
+[
+7, 
+0
+], 
+[
+8, 
+0
+], 
+[
+9, 
+0
+], 
+[
+10, 
+0
+], 
+[
+11, 
+0
+], 
+[
+12, 
+0
+], 
+[
+13, 
+0
+], 
+[
+14, 
+0
+], 
+[
+15, 
+0
+], 
+[
+16, 
+0
+], 
+[
+17, 
+0
+], 
+[
+18, 
+0
+]
+], 
+"values": [
+10.0, 
+35.0, 
+62.0, 
+56.0, 
+54.0, 
+43.0, 
+53.0, 
+55.0, 
+58.0, 
+67.0, 
+40.0, 
+18.0, 
+10.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}
+]
+}
+}, 
+"electric_equipment": {
+"display_name": "JGJT449_2018::Office::Warehouse::Ordinary::Equipment", 
+"identifier": "JGJT449_2018::Office::Warehouse::Ordinary::Equipment", 
+"radiant_fraction": 0.0, 
+"latent_fraction": 0.0, 
+"type": "ElectricEquipment", 
+"watts_per_area": 15.0, 
+"lost_fraction": 0.0, 
+"schedule": {
+"display_name": "JGJT449_2018::Office::Ordinary::Equipment Schedule", 
+"identifier": "JGJT449_2018::Office::Ordinary::Equipment Schedule", 
+"schedule_rules": [
+{
+"apply_tuesday": true, 
+"apply_saturday": true, 
+"schedule_day": "JGJT449_2018::Office::Ordinary::Equipment Schedule_Monday", 
+"apply_friday": true, 
+"apply_monday": true, 
+"start_date": [
+1, 
+1
+], 
+"end_date": [
+12, 
+31
+], 
+"apply_wednesday": true, 
+"type": "ScheduleRuleAbridged", 
+"apply_thursday": true, 
+"apply_sunday": false
+}
+], 
+"default_day_schedule": "JGJT449_2018::Office::Ordinary::Equipment Schedule_Sunday", 
+"holiday_schedule": "JGJT449_2018::Office::Ordinary::Equipment Schedule_Hol", 
+"summer_designday_schedule": "JGJT449_2018::Office::Ordinary::Equipment Schedule_Monday_SmrDsn", 
+"schedule_type_limit": {
+"upper_limit": 1.0, 
+"identifier": "Fractional", 
+"lower_limit": 0.0, 
+"numeric_type": "Continuous", 
+"unit_type": "Dimensionless", 
+"type": "ScheduleTypeLimit"
+}, 
+"type": "ScheduleRuleset", 
+"winter_designday_schedule": "JGJT449_2018::Office::Ordinary::Equipment Schedule_Monday_SmrDsn_WntrDsn", 
+"day_schedules": [
+{
+"identifier": "JGJT449_2018::Office::Ordinary::Equipment Schedule_Sunday", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary::Equipment Schedule_Monday_SmrDsn", 
+"times": [
+[
+0, 
+0
+], 
+[
+6, 
+0
+], 
+[
+7, 
+0
+], 
+[
+8, 
+0
+], 
+[
+16, 
+0
+], 
+[
+17, 
+0
+], 
+[
+18, 
+0
+], 
+[
+19, 
+0
+]
+], 
+"values": [
+0.0, 
+10.0, 
+50.0, 
+100.0, 
+50.0, 
+20.0, 
+10.0, 
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary::Equipment Schedule_Monday_SmrDsn_WntrDsn", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary::Equipment Schedule_Hol", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary::Equipment Schedule_Monday", 
+"times": [
+[
+0, 
+0
+], 
+[
+6, 
+0
+], 
+[
+7, 
+0
+], 
+[
+8, 
+0
+], 
+[
+16, 
+0
+], 
+[
+17, 
+0
+], 
+[
+18, 
+0
+], 
+[
+19, 
+0
+]
+], 
+"values": [
+0.0, 
+10.0, 
+50.0, 
+100.0, 
+50.0, 
+20.0, 
+10.0, 
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}
+]
+}
+}, 
+"setpoint": {
+"display_name": "JGJT449_2018::Office::Warehouse::Ordinary::Setpoint", 
+"identifier": "JGJT449_2018::Office::Warehouse::Ordinary::Setpoint", 
+"heating_schedule": {
+"display_name": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::-50C", 
+"identifier": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::-50C", 
+"schedule_rules": [
+{
+"apply_tuesday": true, 
+"apply_saturday": true, 
+"schedule_day": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::-50C_Monday", 
+"apply_friday": true, 
+"apply_monday": true, 
+"start_date": [
+1, 
+1
+], 
+"end_date": [
+12, 
+31
+], 
+"apply_wednesday": true, 
+"type": "ScheduleRuleAbridged", 
+"apply_thursday": true, 
+"apply_sunday": false
+}
+], 
+"default_day_schedule": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::-50C_Sunday", 
+"holiday_schedule": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::-50C_Hol", 
+"summer_designday_schedule": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::-50C_Monday_SmrDsn", 
+"schedule_type_limit": {
+"upper_limit": {
+"type": "NoLimit"
+}, 
+"identifier": "Temperature", 
+"lower_limit": -273.14999999999998, 
+"numeric_type": "Continuous", 
+"unit_type": "Temperature", 
+"type": "ScheduleTypeLimit"
+}, 
+"type": "ScheduleRuleset", 
+"winter_designday_schedule": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::-50C_Monday_SmrDsn_WntrDsn", 
+"day_schedules": [
+{
+"identifier": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::-50C_Sunday", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+10.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::-50C_Monday_SmrDsn", 
+"times": [
+[
+0, 
+0
+], 
+[
+5, 
+0
+], 
+[
+6, 
+0
+], 
+[
+7, 
+0
+], 
+[
+18, 
+0
+], 
+[
+19, 
+0
+]
+], 
+"values": [
+10.0, 
+12.0, 
+16.0, 
+-50.0, 
+18.0, 
+10.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::-50C_Monday_SmrDsn_WntrDsn", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+10.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::-50C_Hol", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+10.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::-50C_Monday", 
+"times": [
+[
+0, 
+0
+], 
+[
+5, 
+0
+], 
+[
+6, 
+0
+], 
+[
+7, 
+0
+], 
+[
+18, 
+0
+], 
+[
+19, 
+0
+]
+], 
+"values": [
+10.0, 
+12.0, 
+16.0, 
+-50.0, 
+18.0, 
+10.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}
+]
+}, 
+"cooling_schedule": {
+"display_name": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::50C", 
+"identifier": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::50C", 
+"schedule_rules": [
+{
+"apply_tuesday": true, 
+"apply_saturday": true, 
+"schedule_day": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::50C_Monday", 
+"apply_friday": true, 
+"apply_monday": true, 
+"start_date": [
+1, 
+1
+], 
+"end_date": [
+12, 
+31
+], 
+"apply_wednesday": true, 
+"type": "ScheduleRuleAbridged", 
+"apply_thursday": true, 
+"apply_sunday": false
+}
+], 
+"default_day_schedule": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::50C_Sunday", 
+"holiday_schedule": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::50C_Hol", 
+"summer_designday_schedule": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::50C_Sunday_SmrDsn", 
+"schedule_type_limit": {
+"upper_limit": {
+"type": "NoLimit"
+}, 
+"identifier": "Temperature", 
+"lower_limit": -273.14999999999998, 
+"numeric_type": "Continuous", 
+"unit_type": "Temperature", 
+"type": "ScheduleTypeLimit"
+}, 
+"type": "ScheduleRuleset", 
+"winter_designday_schedule": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::50C_Sunday_SmrDsn_WntrDsn", 
+"day_schedules": [
+{
+"identifier": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::50C_Sunday", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+37.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::50C_Sunday_SmrDsn", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+37.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::50C_Sunday_SmrDsn_WntrDsn", 
+"times": [
+[
+0, 
+0
+], 
+[
+6, 
+0
+], 
+[
+7, 
+0
+], 
+[
+18, 
+0
+]
+], 
+"values": [
+37.0, 
+29.0, 
+50.0, 
+37.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::50C_Hol", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+37.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary:: Cooling Setpoint Schedule::50C_Monday", 
+"times": [
+[
+0, 
+0
+], 
+[
+6, 
+0
+], 
+[
+7, 
+0
+], 
+[
+18, 
+0
+]
+], 
+"values": [
+37.0, 
+29.0, 
+50.0, 
+37.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}
+]
+}, 
+"type": "Setpoint"
+}, 
+"ventilation": {
+"schedule": {
+"display_name": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule", 
+"identifier": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule", 
+"schedule_rules": [
+{
+"apply_tuesday": true, 
+"apply_saturday": true, 
+"schedule_day": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule_Monday", 
+"apply_friday": true, 
+"apply_monday": true, 
+"start_date": [
+1, 
+1
+], 
+"end_date": [
+12, 
+31
+], 
+"apply_wednesday": true, 
+"type": "ScheduleRuleAbridged", 
+"apply_thursday": true, 
+"apply_sunday": false
+}
+], 
+"default_day_schedule": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule_Sunday", 
+"holiday_schedule": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule_Hol", 
+"summer_designday_schedule": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule_Monday_SmrDsn", 
+"schedule_type_limit": {
+"upper_limit": 1.0, 
+"identifier": "On-Off", 
+"lower_limit": 0.0, 
+"numeric_type": "Discrete", 
+"unit_type": "Dimensionless", 
+"type": "ScheduleTypeLimit"
+}, 
+"type": "ScheduleRuleset", 
+"winter_designday_schedule": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule_Monday_SmrDsn_WntrDsn", 
+"day_schedules": [
+{
+"identifier": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule_Sunday", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule_Monday_SmrDsn", 
+"times": [
+[
+0, 
+0
+], 
+[
+6, 
+0
+], 
+[
+19, 
+0
+]
+], 
+"values": [
+0.0, 
+1.0, 
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule_Monday_SmrDsn_WntrDsn", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule_Hol", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary:: Ventilation Schedule_Monday", 
+"times": [
+[
+0, 
+0
+], 
+[
+6, 
+0
+], 
+[
+19, 
+0
+]
+], 
+"values": [
+0.0, 
+1.0, 
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}
+]
+}, 
+"type": "Ventilation", 
+"identifier": "JGJT449_2018::Office::Warehouse::Ordinary:: Ventilation", 
+"display_name": "JGJT449_2018::Office::Warehouse::Ordinary:: Ventilation"
+}, 
+"type": "ProgramType", 
+"people": {
+"display_name": "JGJT449_2018::Office::Warehouse::Ordinary::People", 
+"identifier": "JGJT449_2018::Office::Warehouse::Ordinary::People", 
+"radiant_fraction": 0.29999999999999999, 
+"people_per_area": 0.0, 
+"latent_fraction": {
+"type": "Autocalculate"
+}, 
+"occupancy_schedule": {
+"display_name": "JGJT449_2018::Office::Ordinary::People Schedule", 
+"identifier": "JGJT449_2018::Office::Ordinary::People Schedule", 
+"schedule_rules": [
+{
+"apply_tuesday": true, 
+"apply_saturday": true, 
+"schedule_day": "JGJT449_2018::Office::Ordinary::People Schedule_Monday", 
+"apply_friday": true, 
+"apply_monday": true, 
+"start_date": [
+1, 
+1
+], 
+"end_date": [
+12, 
+31
+], 
+"apply_wednesday": true, 
+"type": "ScheduleRuleAbridged", 
+"apply_thursday": true, 
+"apply_sunday": false
+}
+], 
+"default_day_schedule": "JGJT449_2018::Office::Ordinary::People Schedule_Sunday", 
+"holiday_schedule": "JGJT449_2018::Office::Ordinary::People Schedule_Hol", 
+"summer_designday_schedule": "JGJT449_2018::Office::Ordinary::People Schedule_Monday_SmrDsn", 
+"schedule_type_limit": {
+"upper_limit": 1.0, 
+"identifier": "Fractional", 
+"lower_limit": 0.0, 
+"numeric_type": "Continuous", 
+"unit_type": "Dimensionless", 
+"type": "ScheduleTypeLimit"
+}, 
+"type": "ScheduleRuleset", 
+"winter_designday_schedule": "JGJT449_2018::Office::Ordinary::People Schedule_Monday_SmrDsn_WntrDsn", 
+"day_schedules": [
+{
+"identifier": "JGJT449_2018::Office::Ordinary::People Schedule_Sunday", 
+"times": [
+[
+0, 
+0
+], 
+[
+7, 
+0
+], 
+[
+8, 
+0
+], 
+[
+9, 
+0
+]
+], 
+"values": [
+0.0, 
+20.0, 
+45.0, 
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary::People Schedule_Monday_SmrDsn", 
+"times": [
+[
+0, 
+0
+], 
+[
+6, 
+0
+], 
+[
+7, 
+0
+], 
+[
+8, 
+0
+], 
+[
+11, 
+0
+], 
+[
+12, 
+0
+], 
+[
+16, 
+0
+], 
+[
+17, 
+0
+], 
+[
+18, 
+0
+]
+], 
+"values": [
+0.0, 
+10.0, 
+50.0, 
+100.0, 
+30.0, 
+100.0, 
+50.0, 
+20.0, 
+10.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary::People Schedule_Monday_SmrDsn_WntrDsn", 
+"times": [
+[
+0, 
+0
+], 
+[
+7, 
+0
+], 
+[
+8, 
+0
+], 
+[
+9, 
+0
+]
+], 
+"values": [
+0.0, 
+20.0, 
+45.0, 
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary::People Schedule_Hol", 
+"times": [
+[
+0, 
+0
+], 
+[
+7, 
+0
+], 
+[
+8, 
+0
+], 
+[
+9, 
+0
+]
+], 
+"values": [
+0.0, 
+20.0, 
+45.0, 
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Ordinary::People Schedule_Monday", 
+"times": [
+[
+0, 
+0
+], 
+[
+6, 
+0
+], 
+[
+7, 
+0
+], 
+[
+8, 
+0
+], 
+[
+11, 
+0
+], 
+[
+12, 
+0
+], 
+[
+16, 
+0
+], 
+[
+17, 
+0
+], 
+[
+18, 
+0
+]
+], 
+"values": [
+0.0, 
+10.0, 
+50.0, 
+100.0, 
+30.0, 
+100.0, 
+50.0, 
+20.0, 
+10.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}
+]
+}, 
+"type": "People", 
+"activity_schedule": {
+"display_name": "JGJT449_2018::Office::Ordinary::Activity Level Schedule", 
+"identifier": "JGJT449_2018::Office::Ordinary::Activity Level Schedule", 
+"default_day_schedule": "JGJT449_2018::Office::Ordinary::Activity Level Schedule_Day Schedule", 
+"schedule_type_limit": {
+"upper_limit": {
+"type": "NoLimit"
+}, 
+"identifier": "Activity Level", 
+"lower_limit": 0.0, 
+"numeric_type": "Continuous", 
+"unit_type": "ActivityLevel", 
+"type": "ScheduleTypeLimit"
+}, 
+"type": "ScheduleRuleset", 
+"day_schedules": [
+{
+"identifier": "JGJT449_2018::Office::Ordinary::Activity Level Schedule_Day Schedule", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}
+]
+}
+}
+}

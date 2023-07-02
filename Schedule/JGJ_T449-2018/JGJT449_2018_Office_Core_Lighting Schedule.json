@@ -1,0 +1,180 @@
+{
+"display_name": "JGJT449_2018::Office::Core::Lighting Schedule", 
+"identifier": "JGJT449_2018::Office::Core::Lighting Schedule", 
+"schedule_rules": [
+{
+"apply_tuesday": true, 
+"apply_saturday": false, 
+"schedule_day": "JGJT449_2018::Office::Core::Lighting Schedule_Monday", 
+"apply_friday": true, 
+"apply_monday": true, 
+"start_date": [
+1, 
+1
+], 
+"end_date": [
+12, 
+31
+], 
+"apply_wednesday": true, 
+"type": "ScheduleRuleAbridged", 
+"apply_thursday": true, 
+"apply_sunday": false
+}
+], 
+"default_day_schedule": "JGJT449_2018::Office::Core::Lighting Schedule_Sunday", 
+"holiday_schedule": "JGJT449_2018::Office::Core::Lighting Schedule_Hol", 
+"summer_designday_schedule": "JGJT449_2018::Office::Core::Lighting Schedule_Monday_SmrDsn", 
+"schedule_type_limit": {
+"upper_limit": 1.0, 
+"identifier": "Fractional", 
+"lower_limit": 0.0, 
+"numeric_type": "Continuous", 
+"unit_type": "Dimensionless", 
+"type": "ScheduleTypeLimit"
+}, 
+"type": "ScheduleRuleset", 
+"winter_designday_schedule": "JGJT449_2018::Office::Core::Lighting Schedule_Monday_SmrDsn_WntrDsn", 
+"day_schedules": [
+{
+"identifier": "JGJT449_2018::Office::Core::Lighting Schedule_Sunday", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Core::Lighting Schedule_Monday_SmrDsn", 
+"times": [
+[
+0, 
+0
+], 
+[
+7, 
+0
+], 
+[
+8, 
+0
+], 
+[
+11, 
+0
+], 
+[
+12, 
+0
+], 
+[
+16, 
+0
+], 
+[
+17, 
+0
+], 
+[
+18, 
+0
+]
+], 
+"values": [
+10.0, 
+50.0, 
+100.0, 
+80.0, 
+100.0, 
+50.0, 
+20.0, 
+10.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Core::Lighting Schedule_Monday_SmrDsn_WntrDsn", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Core::Lighting Schedule_Hol", 
+"times": [
+[
+0, 
+0
+]
+], 
+"values": [
+0.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}, 
+{
+"identifier": "JGJT449_2018::Office::Core::Lighting Schedule_Monday", 
+"times": [
+[
+0, 
+0
+], 
+[
+7, 
+0
+], 
+[
+8, 
+0
+], 
+[
+11, 
+0
+], 
+[
+12, 
+0
+], 
+[
+16, 
+0
+], 
+[
+17, 
+0
+], 
+[
+18, 
+0
+]
+], 
+"values": [
+10.0, 
+50.0, 
+100.0, 
+80.0, 
+100.0, 
+50.0, 
+20.0, 
+10.0
+], 
+"type": "ScheduleDay", 
+"interpolate": false
+}
+]
+}
