@@ -1,14 +1,14 @@
 {
- "ChinaWindowlabel_133_U1.80_SHGC0.4176": {
-  "display_name": "ChinaWindowlabel_133_U1.80_SHGC0.4176", 
+ "ChinaWindowlabel_21_U1.80_SHGC0.4785": {
+  "display_name": "ChinaWindowlabel_21_U1.80_SHGC0.4785", 
   "type": "WindowConstruction", 
-  "identifier": "ChinaWindowlabel_133_U1.80_SHGC0.4176", 
+  "identifier": "ChinaWindowlabel_21_U1.80_SHGC0.4785", 
   "materials": [
    {
-    "shgc": 0.41759999999999997, 
-    "vt": 0.59999999999999998, 
-    "display_name": "ChinaWindowlabel_133_U1.80_SHGC0.4176", 
-    "identifier": "ChinaWindowlabel_133_U1.80_SHGC0.4176", 
+    "shgc": 0.47850000000000004, 
+    "vt": 0.45000000000000001, 
+    "display_name": "ChinaWindowlabel_21_U1.80_SHGC0.4785", 
+    "identifier": "ChinaWindowlabel_21_U1.80_SHGC0.4785", 
     "u_factor": 1.8, 
     "type": "EnergyWindowMaterialSimpleGlazSys"
    }
@@ -21,10 +21,25 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_51_U2.20_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_51_U2.20_SHGC0.4524", 
     "u_factor": 2.2000000000000002, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "ChinaWindowlabel_133_U1.80_SHGC0.4176": {
+  "display_name": "ChinaWindowlabel_133_U1.80_SHGC0.4176", 
+  "type": "WindowConstruction", 
+  "identifier": "ChinaWindowlabel_133_U1.80_SHGC0.4176", 
+  "materials": [
+   {
+    "shgc": 0.41759999999999997, 
+    "vt": 0.37, 
+    "display_name": "ChinaWindowlabel_133_U1.80_SHGC0.4176", 
+    "identifier": "ChinaWindowlabel_133_U1.80_SHGC0.4176", 
+    "u_factor": 1.8, 
     "type": "EnergyWindowMaterialSimpleGlazSys"
    }
   ]
@@ -36,40 +51,10 @@
   "materials": [
    {
     "shgc": 0.46110000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.48999999999999999, 
     "display_name": "ChinaWindowlabel_196_U2.80_SHGC0.4611", 
     "identifier": "ChinaWindowlabel_196_U2.80_SHGC0.4611", 
     "u_factor": 2.7999999999999998, 
-    "type": "EnergyWindowMaterialSimpleGlazSys"
-   }
-  ]
- }, 
- "ChinaWindowlabel_21_U1.80_SHGC0.4785": {
-  "display_name": "ChinaWindowlabel_21_U1.80_SHGC0.4785", 
-  "type": "WindowConstruction", 
-  "identifier": "ChinaWindowlabel_21_U1.80_SHGC0.4785", 
-  "materials": [
-   {
-    "shgc": 0.47850000000000004, 
-    "vt": 0.59999999999999998, 
-    "display_name": "ChinaWindowlabel_21_U1.80_SHGC0.4785", 
-    "identifier": "ChinaWindowlabel_21_U1.80_SHGC0.4785", 
-    "u_factor": 1.8, 
-    "type": "EnergyWindowMaterialSimpleGlazSys"
-   }
-  ]
- }, 
- "ChinaWindowlabel_235_U1.90_SHGC0.6612": {
-  "display_name": "ChinaWindowlabel_235_U1.90_SHGC0.6612", 
-  "type": "WindowConstruction", 
-  "identifier": "ChinaWindowlabel_235_U1.90_SHGC0.6612", 
-  "materials": [
-   {
-    "shgc": 0.66120000000000001, 
-    "vt": 0.59999999999999998, 
-    "display_name": "ChinaWindowlabel_235_U1.90_SHGC0.6612", 
-    "identifier": "ChinaWindowlabel_235_U1.90_SHGC0.6612", 
-    "u_factor": 1.8999999999999999, 
     "type": "EnergyWindowMaterialSimpleGlazSys"
    }
   ]
@@ -81,10 +66,25 @@
   "materials": [
    {
     "shgc": 0.53939999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.66400000000000003, 
     "display_name": "ChinaWindowlabel_230_U0.80_SHGC0.5394", 
     "identifier": "ChinaWindowlabel_230_U0.80_SHGC0.5394", 
     "u_factor": 0.80000000000000004, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "ChinaWindowlabel_235_U1.90_SHGC0.6612": {
+  "display_name": "ChinaWindowlabel_235_U1.90_SHGC0.6612", 
+  "type": "WindowConstruction", 
+  "identifier": "ChinaWindowlabel_235_U1.90_SHGC0.6612", 
+  "materials": [
+   {
+    "shgc": 0.66120000000000001, 
+    "vt": 0.73199999999999998, 
+    "display_name": "ChinaWindowlabel_235_U1.90_SHGC0.6612", 
+    "identifier": "ChinaWindowlabel_235_U1.90_SHGC0.6612", 
+    "u_factor": 1.8999999999999999, 
     "type": "EnergyWindowMaterialSimpleGlazSys"
    }
   ]
@@ -96,7 +96,7 @@
   "materials": [
    {
     "shgc": 0.435, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46999999999999997, 
     "display_name": "ChinaWindowlabel_172_U2.40_SHGC0.435", 
     "identifier": "ChinaWindowlabel_172_U2.40_SHGC0.435", 
     "u_factor": 2.3999999999999999, 
@@ -111,7 +111,7 @@
   "materials": [
    {
     "shgc": 0.46110000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_11_U2.00_SHGC0.4611", 
     "identifier": "ChinaWindowlabel_11_U2.00_SHGC0.4611", 
     "u_factor": 2.0, 
@@ -126,7 +126,7 @@
   "materials": [
    {
     "shgc": 0.41759999999999997, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.51000000000000001, 
     "display_name": "ChinaWindowlabel_48_U2.50_SHGC0.4176", 
     "identifier": "ChinaWindowlabel_48_U2.50_SHGC0.4176", 
     "u_factor": 2.5, 
@@ -141,7 +141,7 @@
   "materials": [
    {
     "shgc": 0.435, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.45000000000000001, 
     "display_name": "ChinaWindowlabel_168_U1.80_SHGC0.435", 
     "identifier": "ChinaWindowlabel_168_U1.80_SHGC0.435", 
     "u_factor": 1.8, 
@@ -156,7 +156,7 @@
   "materials": [
    {
     "shgc": 0.48720000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.48999999999999999, 
     "display_name": "ChinaWindowlabel_201_U2.30_SHGC0.4872", 
     "identifier": "ChinaWindowlabel_201_U2.30_SHGC0.4872", 
     "u_factor": 2.2999999999999998, 
@@ -171,54 +171,9 @@
   "materials": [
    {
     "shgc": 0.41759999999999997, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.45000000000000001, 
     "display_name": "ChinaWindowlabel_155_U1.80_SHGC0.4176", 
     "identifier": "ChinaWindowlabel_155_U1.80_SHGC0.4176", 
-    "u_factor": 1.8, 
-    "type": "EnergyWindowMaterialSimpleGlazSys"
-   }
-  ]
- }, 
- "ChinaWindowlabel_178_U2.60_SHGC0.2262": {
-  "display_name": "ChinaWindowlabel_178_U2.60_SHGC0.2262", 
-  "type": "WindowConstruction", 
-  "identifier": "ChinaWindowlabel_178_U2.60_SHGC0.2262", 
-  "materials": [
-   {
-    "shgc": 0.22620000000000001, 
-    "vt": 0.59999999999999998, 
-    "display_name": "ChinaWindowlabel_178_U2.60_SHGC0.2262", 
-    "identifier": "ChinaWindowlabel_178_U2.60_SHGC0.2262", 
-    "u_factor": 2.6000000000000001, 
-    "type": "EnergyWindowMaterialSimpleGlazSys"
-   }
-  ]
- }, 
- "ChinaWindowlabel_146_U1.60_SHGC0.4089": {
-  "display_name": "ChinaWindowlabel_146_U1.60_SHGC0.4089", 
-  "type": "WindowConstruction", 
-  "identifier": "ChinaWindowlabel_146_U1.60_SHGC0.4089", 
-  "materials": [
-   {
-    "shgc": 0.40889999999999999, 
-    "vt": 0.59999999999999998, 
-    "display_name": "ChinaWindowlabel_146_U1.60_SHGC0.4089", 
-    "identifier": "ChinaWindowlabel_146_U1.60_SHGC0.4089", 
-    "u_factor": 1.6000000000000001, 
-    "type": "EnergyWindowMaterialSimpleGlazSys"
-   }
-  ]
- }, 
- "ChinaWindowlabel_125_U1.80_SHGC0.4872": {
-  "display_name": "ChinaWindowlabel_125_U1.80_SHGC0.4872", 
-  "type": "WindowConstruction", 
-  "identifier": "ChinaWindowlabel_125_U1.80_SHGC0.4872", 
-  "materials": [
-   {
-    "shgc": 0.48720000000000002, 
-    "vt": 0.59999999999999998, 
-    "display_name": "ChinaWindowlabel_125_U1.80_SHGC0.4872", 
-    "identifier": "ChinaWindowlabel_125_U1.80_SHGC0.4872", 
     "u_factor": 1.8, 
     "type": "EnergyWindowMaterialSimpleGlazSys"
    }
@@ -231,7 +186,7 @@
   "materials": [
    {
     "shgc": 0.3306, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.41999999999999998, 
     "display_name": "ChinaWindowlabel_82_U1.70_SHGC0.3306", 
     "identifier": "ChinaWindowlabel_82_U1.70_SHGC0.3306", 
     "u_factor": 1.7, 
@@ -246,7 +201,7 @@
   "materials": [
    {
     "shgc": 0.40889999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.41999999999999998, 
     "display_name": "ChinaWindowlabel_67_U1.70_SHGC0.4089", 
     "identifier": "ChinaWindowlabel_67_U1.70_SHGC0.4089", 
     "u_factor": 1.7, 
@@ -254,17 +209,47 @@
    }
   ]
  }, 
- "ChinaWindowlabel_205_U1.80_SHGC0.4263": {
-  "display_name": "ChinaWindowlabel_205_U1.80_SHGC0.4263", 
+ "ChinaWindowlabel_125_U1.80_SHGC0.4872": {
+  "display_name": "ChinaWindowlabel_125_U1.80_SHGC0.4872", 
   "type": "WindowConstruction", 
-  "identifier": "ChinaWindowlabel_205_U1.80_SHGC0.4263", 
+  "identifier": "ChinaWindowlabel_125_U1.80_SHGC0.4872", 
   "materials": [
    {
-    "shgc": 0.42630000000000001, 
-    "vt": 0.59999999999999998, 
-    "display_name": "ChinaWindowlabel_205_U1.80_SHGC0.4263", 
-    "identifier": "ChinaWindowlabel_205_U1.80_SHGC0.4263", 
+    "shgc": 0.48720000000000002, 
+    "vt": 0.48999999999999999, 
+    "display_name": "ChinaWindowlabel_125_U1.80_SHGC0.4872", 
+    "identifier": "ChinaWindowlabel_125_U1.80_SHGC0.4872", 
     "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "ChinaWindowlabel_146_U1.60_SHGC0.4089": {
+  "display_name": "ChinaWindowlabel_146_U1.60_SHGC0.4089", 
+  "type": "WindowConstruction", 
+  "identifier": "ChinaWindowlabel_146_U1.60_SHGC0.4089", 
+  "materials": [
+   {
+    "shgc": 0.40889999999999999, 
+    "vt": 0.44, 
+    "display_name": "ChinaWindowlabel_146_U1.60_SHGC0.4089", 
+    "identifier": "ChinaWindowlabel_146_U1.60_SHGC0.4089", 
+    "u_factor": 1.6000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "ChinaWindowlabel_178_U2.60_SHGC0.2262": {
+  "display_name": "ChinaWindowlabel_178_U2.60_SHGC0.2262", 
+  "type": "WindowConstruction", 
+  "identifier": "ChinaWindowlabel_178_U2.60_SHGC0.2262", 
+  "materials": [
+   {
+    "shgc": 0.22620000000000001, 
+    "vt": 0.27000000000000002, 
+    "display_name": "ChinaWindowlabel_178_U2.60_SHGC0.2262", 
+    "identifier": "ChinaWindowlabel_178_U2.60_SHGC0.2262", 
+    "u_factor": 2.6000000000000001, 
     "type": "EnergyWindowMaterialSimpleGlazSys"
    }
   ]
@@ -276,10 +261,25 @@
   "materials": [
    {
     "shgc": 0.50459999999999994, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.53000000000000003, 
     "display_name": "ChinaWindowlabel_197_U2.00_SHGC0.5046", 
     "identifier": "ChinaWindowlabel_197_U2.00_SHGC0.5046", 
     "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "ChinaWindowlabel_205_U1.80_SHGC0.4263": {
+  "display_name": "ChinaWindowlabel_205_U1.80_SHGC0.4263", 
+  "type": "WindowConstruction", 
+  "identifier": "ChinaWindowlabel_205_U1.80_SHGC0.4263", 
+  "materials": [
+   {
+    "shgc": 0.42630000000000001, 
+    "vt": 0.41999999999999998, 
+    "display_name": "ChinaWindowlabel_205_U1.80_SHGC0.4263", 
+    "identifier": "ChinaWindowlabel_205_U1.80_SHGC0.4263", 
+    "u_factor": 1.8, 
     "type": "EnergyWindowMaterialSimpleGlazSys"
    }
   ]
@@ -291,7 +291,7 @@
   "materials": [
    {
     "shgc": 0.40889999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.41999999999999998, 
     "display_name": "ChinaWindowlabel_167_U1.70_SHGC0.4089", 
     "identifier": "ChinaWindowlabel_167_U1.70_SHGC0.4089", 
     "u_factor": 1.7, 
@@ -306,7 +306,7 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_159_U2.00_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_159_U2.00_SHGC0.4524", 
     "u_factor": 2.0, 
@@ -321,7 +321,7 @@
   "materials": [
    {
     "shgc": 0.37409999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46000000000000002, 
     "display_name": "ChinaWindowlabel_49_U2.00_SHGC0.3741", 
     "identifier": "ChinaWindowlabel_49_U2.00_SHGC0.3741", 
     "u_factor": 2.0, 
@@ -336,7 +336,7 @@
   "materials": [
    {
     "shgc": 0.49589999999999995, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.5, 
     "display_name": "ChinaWindowlabel_53_U1.90_SHGC0.4959", 
     "identifier": "ChinaWindowlabel_53_U1.90_SHGC0.4959", 
     "u_factor": 1.8999999999999999, 
@@ -351,7 +351,7 @@
   "materials": [
    {
     "shgc": 0.26100000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.45000000000000001, 
     "display_name": "ChinaWindowlabel_184_U2.30_SHGC0.261", 
     "identifier": "ChinaWindowlabel_184_U2.30_SHGC0.261", 
     "u_factor": 2.2999999999999998, 
@@ -366,7 +366,7 @@
   "materials": [
    {
     "shgc": 0.23490000000000003, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.34999999999999998, 
     "display_name": "ChinaWindowlabel_171_U2.20_SHGC0.2349", 
     "identifier": "ChinaWindowlabel_171_U2.20_SHGC0.2349", 
     "u_factor": 2.2000000000000002, 
@@ -381,7 +381,7 @@
   "materials": [
    {
     "shgc": 0.51329999999999998, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.53000000000000003, 
     "display_name": "ChinaWindowlabel_16_U2.10_SHGC0.5133", 
     "identifier": "ChinaWindowlabel_16_U2.10_SHGC0.5133", 
     "u_factor": 2.1000000000000001, 
@@ -396,7 +396,7 @@
   "materials": [
    {
     "shgc": 0.52200000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.56999999999999995, 
     "display_name": "ChinaWindowlabel_187_U3.00_SHGC0.522", 
     "identifier": "ChinaWindowlabel_187_U3.00_SHGC0.522", 
     "u_factor": 3.0, 
@@ -411,7 +411,7 @@
   "materials": [
    {
     "shgc": 0.34800000000000003, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_6_U1.50_SHGC0.348", 
     "identifier": "ChinaWindowlabel_6_U1.50_SHGC0.348", 
     "u_factor": 1.5, 
@@ -426,7 +426,7 @@
   "materials": [
    {
     "shgc": 0.2001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.34000000000000002, 
     "display_name": "ChinaWindowlabel_192_U2.00_SHGC0.2001", 
     "identifier": "ChinaWindowlabel_192_U2.00_SHGC0.2001", 
     "u_factor": 2.0, 
@@ -441,7 +441,7 @@
   "materials": [
    {
     "shgc": 0.41759999999999997, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46000000000000002, 
     "display_name": "ChinaWindowlabel_131_U1.80_SHGC0.4176", 
     "identifier": "ChinaWindowlabel_131_U1.80_SHGC0.4176", 
     "u_factor": 1.8, 
@@ -456,7 +456,7 @@
   "materials": [
    {
     "shgc": 0.26100000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.41999999999999998, 
     "display_name": "ChinaWindowlabel_211_U2.00_SHGC0.261", 
     "identifier": "ChinaWindowlabel_211_U2.00_SHGC0.261", 
     "u_factor": 2.0, 
@@ -471,7 +471,7 @@
   "materials": [
    {
     "shgc": 0.435, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.44, 
     "display_name": "ChinaWindowlabel_70_U1.80_SHGC0.435", 
     "identifier": "ChinaWindowlabel_70_U1.80_SHGC0.435", 
     "u_factor": 1.8, 
@@ -486,7 +486,7 @@
   "materials": [
    {
     "shgc": 0.30449999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.34999999999999998, 
     "display_name": "ChinaWindowlabel_119_U1.90_SHGC0.3045", 
     "identifier": "ChinaWindowlabel_119_U1.90_SHGC0.3045", 
     "u_factor": 1.8999999999999999, 
@@ -501,7 +501,7 @@
   "materials": [
    {
     "shgc": 0.435, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46000000000000002, 
     "display_name": "ChinaWindowlabel_89_U2.10_SHGC0.435", 
     "identifier": "ChinaWindowlabel_89_U2.10_SHGC0.435", 
     "u_factor": 2.1000000000000001, 
@@ -516,7 +516,7 @@
   "materials": [
    {
     "shgc": 0.47850000000000004, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_105_U1.80_SHGC0.4785", 
     "identifier": "ChinaWindowlabel_105_U1.80_SHGC0.4785", 
     "u_factor": 1.8, 
@@ -531,7 +531,7 @@
   "materials": [
    {
     "shgc": 0.41759999999999997, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.37, 
     "display_name": "ChinaWindowlabel_7_U1.60_SHGC0.4176", 
     "identifier": "ChinaWindowlabel_7_U1.60_SHGC0.4176", 
     "u_factor": 1.6000000000000001, 
@@ -546,7 +546,7 @@
   "materials": [
    {
     "shgc": 0.435, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.41999999999999998, 
     "display_name": "ChinaWindowlabel_85_U2.10_SHGC0.435", 
     "identifier": "ChinaWindowlabel_85_U2.10_SHGC0.435", 
     "u_factor": 2.1000000000000001, 
@@ -561,7 +561,7 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.5, 
     "display_name": "ChinaWindowlabel_75_U2.10_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_75_U2.10_SHGC0.4524", 
     "u_factor": 2.1000000000000001, 
@@ -576,7 +576,7 @@
   "materials": [
    {
     "shgc": 0.435, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46999999999999997, 
     "display_name": "ChinaWindowlabel_58_U1.80_SHGC0.435", 
     "identifier": "ChinaWindowlabel_58_U1.80_SHGC0.435", 
     "u_factor": 1.8, 
@@ -591,7 +591,7 @@
   "materials": [
    {
     "shgc": 0.66120000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.64300000000000002, 
     "display_name": "ChinaWindowlabel_233_U0.90_SHGC0.6612", 
     "identifier": "ChinaWindowlabel_233_U0.90_SHGC0.6612", 
     "u_factor": 0.90000000000000002, 
@@ -606,7 +606,7 @@
   "materials": [
    {
     "shgc": 0.435, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46000000000000002, 
     "display_name": "ChinaWindowlabel_87_U1.80_SHGC0.435", 
     "identifier": "ChinaWindowlabel_87_U1.80_SHGC0.435", 
     "u_factor": 1.8, 
@@ -621,7 +621,7 @@
   "materials": [
    {
     "shgc": 0.39150000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.45000000000000001, 
     "display_name": "ChinaWindowlabel_115_U1.80_SHGC0.3915", 
     "identifier": "ChinaWindowlabel_115_U1.80_SHGC0.3915", 
     "u_factor": 1.8, 
@@ -636,7 +636,7 @@
   "materials": [
    {
     "shgc": 0.47850000000000004, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.51000000000000001, 
     "display_name": "ChinaWindowlabel_64_U1.50_SHGC0.4785", 
     "identifier": "ChinaWindowlabel_64_U1.50_SHGC0.4785", 
     "u_factor": 1.5, 
@@ -651,7 +651,7 @@
   "materials": [
    {
     "shgc": 0.435, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.44, 
     "display_name": "ChinaWindowlabel_100_U1.80_SHGC0.435", 
     "identifier": "ChinaWindowlabel_100_U1.80_SHGC0.435", 
     "u_factor": 1.8, 
@@ -666,7 +666,7 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_169_U1.80_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_169_U1.80_SHGC0.4524", 
     "u_factor": 1.8, 
@@ -681,7 +681,7 @@
   "materials": [
    {
     "shgc": 0.44369999999999998, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.48999999999999999, 
     "display_name": "ChinaWindowlabel_161_U1.80_SHGC0.4437", 
     "identifier": "ChinaWindowlabel_161_U1.80_SHGC0.4437", 
     "u_factor": 1.8, 
@@ -696,7 +696,7 @@
   "materials": [
    {
     "shgc": 0.49589999999999995, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.48999999999999999, 
     "display_name": "ChinaWindowlabel_153_U2.00_SHGC0.4959", 
     "identifier": "ChinaWindowlabel_153_U2.00_SHGC0.4959", 
     "u_factor": 2.0, 
@@ -711,7 +711,7 @@
   "materials": [
    {
     "shgc": 0.42630000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_139_U1.80_SHGC0.4263", 
     "identifier": "ChinaWindowlabel_139_U1.80_SHGC0.4263", 
     "u_factor": 1.8, 
@@ -726,7 +726,7 @@
   "materials": [
    {
     "shgc": 0.40889999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46999999999999997, 
     "display_name": "ChinaWindowlabel_77_U1.80_SHGC0.4089", 
     "identifier": "ChinaWindowlabel_77_U1.80_SHGC0.4089", 
     "u_factor": 1.8, 
@@ -741,7 +741,7 @@
   "materials": [
    {
     "shgc": 0.46110000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_99_U1.80_SHGC0.4611", 
     "identifier": "ChinaWindowlabel_99_U1.80_SHGC0.4611", 
     "u_factor": 1.8, 
@@ -756,7 +756,7 @@
   "materials": [
    {
     "shgc": 0.47850000000000004, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46000000000000002, 
     "display_name": "ChinaWindowlabel_62_U1.50_SHGC0.4785", 
     "identifier": "ChinaWindowlabel_62_U1.50_SHGC0.4785", 
     "u_factor": 1.5, 
@@ -771,7 +771,7 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.5, 
     "display_name": "ChinaWindowlabel_73_U1.80_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_73_U1.80_SHGC0.4524", 
     "u_factor": 1.8, 
@@ -786,7 +786,7 @@
   "materials": [
    {
     "shgc": 0.67859999999999998, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.69499999999999995, 
     "display_name": "ChinaWindowlabel_228_U1.30_SHGC0.6786", 
     "identifier": "ChinaWindowlabel_228_U1.30_SHGC0.6786", 
     "u_factor": 1.3, 
@@ -801,7 +801,7 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_102_U2.00_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_102_U2.00_SHGC0.4524", 
     "u_factor": 2.0, 
@@ -816,7 +816,7 @@
   "materials": [
    {
     "shgc": 0.26100000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.32000000000000001, 
     "display_name": "ChinaWindowlabel_221_U2.50_SHGC0.261", 
     "identifier": "ChinaWindowlabel_221_U2.50_SHGC0.261", 
     "u_factor": 2.5, 
@@ -831,7 +831,7 @@
   "materials": [
    {
     "shgc": 0.24360000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.35999999999999999, 
     "display_name": "ChinaWindowlabel_214_U1.80_SHGC0.2436", 
     "identifier": "ChinaWindowlabel_214_U1.80_SHGC0.2436", 
     "u_factor": 1.8, 
@@ -846,7 +846,7 @@
   "materials": [
    {
     "shgc": 0.3306, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.41999999999999998, 
     "display_name": "ChinaWindowlabel_81_U1.80_SHGC0.3306", 
     "identifier": "ChinaWindowlabel_81_U1.80_SHGC0.3306", 
     "u_factor": 1.8, 
@@ -861,7 +861,7 @@
   "materials": [
    {
     "shgc": 0.46980000000000005, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46000000000000002, 
     "display_name": "ChinaWindowlabel_98_U1.40_SHGC0.4698", 
     "identifier": "ChinaWindowlabel_98_U1.40_SHGC0.4698", 
     "u_factor": 1.3999999999999999, 
@@ -876,7 +876,7 @@
   "materials": [
    {
     "shgc": 0.41759999999999997, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.41999999999999998, 
     "display_name": "ChinaWindowlabel_122_U1.50_SHGC0.4176", 
     "identifier": "ChinaWindowlabel_122_U1.50_SHGC0.4176", 
     "u_factor": 1.5, 
@@ -891,7 +891,7 @@
   "materials": [
    {
     "shgc": 0.435, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_5_U1.80_SHGC0.435", 
     "identifier": "ChinaWindowlabel_5_U1.80_SHGC0.435", 
     "u_factor": 1.8, 
@@ -906,7 +906,7 @@
   "materials": [
    {
     "shgc": 0.48720000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_86_U1.80_SHGC0.4872", 
     "identifier": "ChinaWindowlabel_86_U1.80_SHGC0.4872", 
     "u_factor": 1.8, 
@@ -921,7 +921,7 @@
   "materials": [
    {
     "shgc": 0.23490000000000003, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.35999999999999999, 
     "display_name": "ChinaWindowlabel_84_U1.10_SHGC0.2349", 
     "identifier": "ChinaWindowlabel_84_U1.10_SHGC0.2349", 
     "u_factor": 1.1000000000000001, 
@@ -936,7 +936,7 @@
   "materials": [
    {
     "shgc": 0.49589999999999995, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.48999999999999999, 
     "display_name": "ChinaWindowlabel_101_U1.80_SHGC0.4959", 
     "identifier": "ChinaWindowlabel_101_U1.80_SHGC0.4959", 
     "u_factor": 1.8, 
@@ -951,7 +951,7 @@
   "materials": [
    {
     "shgc": 0.39150000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.40000000000000002, 
     "display_name": "ChinaWindowlabel_150_U1.70_SHGC0.3915", 
     "identifier": "ChinaWindowlabel_150_U1.70_SHGC0.3915", 
     "u_factor": 1.7, 
@@ -966,7 +966,7 @@
   "materials": [
    {
     "shgc": 0.48720000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.52000000000000002, 
     "display_name": "ChinaWindowlabel_179_U3.10_SHGC0.4872", 
     "identifier": "ChinaWindowlabel_179_U3.10_SHGC0.4872", 
     "u_factor": 3.1000000000000001, 
@@ -981,7 +981,7 @@
   "materials": [
    {
     "shgc": 0.46110000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_123_U1.80_SHGC0.4611", 
     "identifier": "ChinaWindowlabel_123_U1.80_SHGC0.4611", 
     "u_factor": 1.8, 
@@ -996,7 +996,7 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.41999999999999998, 
     "display_name": "ChinaWindowlabel_23_U1.90_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_23_U1.90_SHGC0.4524", 
     "u_factor": 1.8999999999999999, 
@@ -1011,7 +1011,7 @@
   "materials": [
    {
     "shgc": 0.3306, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.40000000000000002, 
     "display_name": "ChinaWindowlabel_175_U2.10_SHGC0.3306", 
     "identifier": "ChinaWindowlabel_175_U2.10_SHGC0.3306", 
     "u_factor": 2.1000000000000001, 
@@ -1026,7 +1026,7 @@
   "materials": [
    {
     "shgc": 0.40889999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.34999999999999998, 
     "display_name": "ChinaWindowlabel_147_U1.80_SHGC0.4089", 
     "identifier": "ChinaWindowlabel_147_U1.80_SHGC0.4089", 
     "u_factor": 1.8, 
@@ -1041,7 +1041,7 @@
   "materials": [
    {
     "shgc": 0.46110000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.5, 
     "display_name": "ChinaWindowlabel_113_U1.90_SHGC0.4611", 
     "identifier": "ChinaWindowlabel_113_U1.90_SHGC0.4611", 
     "u_factor": 1.8999999999999999, 
@@ -1056,25 +1056,10 @@
   "materials": [
    {
     "shgc": 0.4002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.39000000000000001, 
     "display_name": "ChinaWindowlabel_24_U1.90_SHGC0.4002", 
     "identifier": "ChinaWindowlabel_24_U1.90_SHGC0.4002", 
     "u_factor": 1.8999999999999999, 
-    "type": "EnergyWindowMaterialSimpleGlazSys"
-   }
-  ]
- }, 
- "ChinaWindowlabel_164_U1.80_SHGC0.4437": {
-  "display_name": "ChinaWindowlabel_164_U1.80_SHGC0.4437", 
-  "type": "WindowConstruction", 
-  "identifier": "ChinaWindowlabel_164_U1.80_SHGC0.4437", 
-  "materials": [
-   {
-    "shgc": 0.44369999999999998, 
-    "vt": 0.59999999999999998, 
-    "display_name": "ChinaWindowlabel_164_U1.80_SHGC0.4437", 
-    "identifier": "ChinaWindowlabel_164_U1.80_SHGC0.4437", 
-    "u_factor": 1.8, 
     "type": "EnergyWindowMaterialSimpleGlazSys"
    }
   ]
@@ -1086,10 +1071,25 @@
   "materials": [
    {
     "shgc": 0.33929999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.40000000000000002, 
     "display_name": "ChinaWindowlabel_44_U2.20_SHGC0.3393", 
     "identifier": "ChinaWindowlabel_44_U2.20_SHGC0.3393", 
     "u_factor": 2.2000000000000002, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "ChinaWindowlabel_164_U1.80_SHGC0.4437": {
+  "display_name": "ChinaWindowlabel_164_U1.80_SHGC0.4437", 
+  "type": "WindowConstruction", 
+  "identifier": "ChinaWindowlabel_164_U1.80_SHGC0.4437", 
+  "materials": [
+   {
+    "shgc": 0.44369999999999998, 
+    "vt": 0.48999999999999999, 
+    "display_name": "ChinaWindowlabel_164_U1.80_SHGC0.4437", 
+    "identifier": "ChinaWindowlabel_164_U1.80_SHGC0.4437", 
+    "u_factor": 1.8, 
     "type": "EnergyWindowMaterialSimpleGlazSys"
    }
   ]
@@ -1101,40 +1101,10 @@
   "materials": [
    {
     "shgc": 0.46980000000000005, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.48999999999999999, 
     "display_name": "ChinaWindowlabel_78_U1.00_SHGC0.4698", 
     "identifier": "ChinaWindowlabel_78_U1.00_SHGC0.4698", 
     "u_factor": 1.0, 
-    "type": "EnergyWindowMaterialSimpleGlazSys"
-   }
-  ]
- }, 
- "ChinaWindowlabel_229_U1.70_SHGC0.6786": {
-  "display_name": "ChinaWindowlabel_229_U1.70_SHGC0.6786", 
-  "type": "WindowConstruction", 
-  "identifier": "ChinaWindowlabel_229_U1.70_SHGC0.6786", 
-  "materials": [
-   {
-    "shgc": 0.67859999999999998, 
-    "vt": 0.59999999999999998, 
-    "display_name": "ChinaWindowlabel_229_U1.70_SHGC0.6786", 
-    "identifier": "ChinaWindowlabel_229_U1.70_SHGC0.6786", 
-    "u_factor": 1.7, 
-    "type": "EnergyWindowMaterialSimpleGlazSys"
-   }
-  ]
- }, 
- "ChinaWindowlabel_220_U2.10_SHGC0.2958": {
-  "display_name": "ChinaWindowlabel_220_U2.10_SHGC0.2958", 
-  "type": "WindowConstruction", 
-  "identifier": "ChinaWindowlabel_220_U2.10_SHGC0.2958", 
-  "materials": [
-   {
-    "shgc": 0.29580000000000001, 
-    "vt": 0.59999999999999998, 
-    "display_name": "ChinaWindowlabel_220_U2.10_SHGC0.2958", 
-    "identifier": "ChinaWindowlabel_220_U2.10_SHGC0.2958", 
-    "u_factor": 2.1000000000000001, 
     "type": "EnergyWindowMaterialSimpleGlazSys"
    }
   ]
@@ -1146,7 +1116,7 @@
   "materials": [
    {
     "shgc": 0.46980000000000005, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.48999999999999999, 
     "display_name": "ChinaWindowlabel_79_U2.10_SHGC0.4698", 
     "identifier": "ChinaWindowlabel_79_U2.10_SHGC0.4698", 
     "u_factor": 2.1000000000000001, 
@@ -1154,17 +1124,32 @@
    }
   ]
  }, 
- "ChinaWindowlabel_199_U2.10_SHGC0.5046": {
-  "display_name": "ChinaWindowlabel_199_U2.10_SHGC0.5046", 
+ "ChinaWindowlabel_220_U2.10_SHGC0.2958": {
+  "display_name": "ChinaWindowlabel_220_U2.10_SHGC0.2958", 
   "type": "WindowConstruction", 
-  "identifier": "ChinaWindowlabel_199_U2.10_SHGC0.5046", 
+  "identifier": "ChinaWindowlabel_220_U2.10_SHGC0.2958", 
   "materials": [
    {
-    "shgc": 0.50459999999999994, 
-    "vt": 0.59999999999999998, 
-    "display_name": "ChinaWindowlabel_199_U2.10_SHGC0.5046", 
-    "identifier": "ChinaWindowlabel_199_U2.10_SHGC0.5046", 
+    "shgc": 0.29580000000000001, 
+    "vt": 0.35999999999999999, 
+    "display_name": "ChinaWindowlabel_220_U2.10_SHGC0.2958", 
+    "identifier": "ChinaWindowlabel_220_U2.10_SHGC0.2958", 
     "u_factor": 2.1000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "ChinaWindowlabel_229_U1.70_SHGC0.6786": {
+  "display_name": "ChinaWindowlabel_229_U1.70_SHGC0.6786", 
+  "type": "WindowConstruction", 
+  "identifier": "ChinaWindowlabel_229_U1.70_SHGC0.6786", 
+  "materials": [
+   {
+    "shgc": 0.67859999999999998, 
+    "vt": 0.73699999999999999, 
+    "display_name": "ChinaWindowlabel_229_U1.70_SHGC0.6786", 
+    "identifier": "ChinaWindowlabel_229_U1.70_SHGC0.6786", 
+    "u_factor": 1.7, 
     "type": "EnergyWindowMaterialSimpleGlazSys"
    }
   ]
@@ -1176,10 +1161,25 @@
   "materials": [
    {
     "shgc": 0.46110000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.48999999999999999, 
     "display_name": "ChinaWindowlabel_12_U1.90_SHGC0.4611", 
     "identifier": "ChinaWindowlabel_12_U1.90_SHGC0.4611", 
     "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "ChinaWindowlabel_199_U2.10_SHGC0.5046": {
+  "display_name": "ChinaWindowlabel_199_U2.10_SHGC0.5046", 
+  "type": "WindowConstruction", 
+  "identifier": "ChinaWindowlabel_199_U2.10_SHGC0.5046", 
+  "materials": [
+   {
+    "shgc": 0.50459999999999994, 
+    "vt": 0.53000000000000003, 
+    "display_name": "ChinaWindowlabel_199_U2.10_SHGC0.5046", 
+    "identifier": "ChinaWindowlabel_199_U2.10_SHGC0.5046", 
+    "u_factor": 2.1000000000000001, 
     "type": "EnergyWindowMaterialSimpleGlazSys"
    }
   ]
@@ -1191,7 +1191,7 @@
   "materials": [
    {
     "shgc": 0.54810000000000003, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.55000000000000004, 
     "display_name": "ChinaWindowlabel_66_U2.10_SHGC0.5481", 
     "identifier": "ChinaWindowlabel_66_U2.10_SHGC0.5481", 
     "u_factor": 2.1000000000000001, 
@@ -1206,7 +1206,7 @@
   "materials": [
    {
     "shgc": 0.435, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.48999999999999999, 
     "display_name": "ChinaWindowlabel_71_U1.50_SHGC0.435", 
     "identifier": "ChinaWindowlabel_71_U1.50_SHGC0.435", 
     "u_factor": 1.5, 
@@ -1221,25 +1221,10 @@
   "materials": [
    {
     "shgc": 0.50459999999999994, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.48999999999999999, 
     "display_name": "ChinaWindowlabel_14_U2.10_SHGC0.5046", 
     "identifier": "ChinaWindowlabel_14_U2.10_SHGC0.5046", 
     "u_factor": 2.1000000000000001, 
-    "type": "EnergyWindowMaterialSimpleGlazSys"
-   }
-  ]
- }, 
- "ChinaWindowlabel_95_U2.00_SHGC0.4524": {
-  "display_name": "ChinaWindowlabel_95_U2.00_SHGC0.4524", 
-  "type": "WindowConstruction", 
-  "identifier": "ChinaWindowlabel_95_U2.00_SHGC0.4524", 
-  "materials": [
-   {
-    "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
-    "display_name": "ChinaWindowlabel_95_U2.00_SHGC0.4524", 
-    "identifier": "ChinaWindowlabel_95_U2.00_SHGC0.4524", 
-    "u_factor": 2.0, 
     "type": "EnergyWindowMaterialSimpleGlazSys"
    }
   ]
@@ -1251,7 +1236,7 @@
   "materials": [
    {
     "shgc": 0.44369999999999998, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.5, 
     "display_name": "ChinaWindowlabel_72_U1.80_SHGC0.4437", 
     "identifier": "ChinaWindowlabel_72_U1.80_SHGC0.4437", 
     "u_factor": 1.8, 
@@ -1266,10 +1251,40 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_36_U1.90_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_36_U1.90_SHGC0.4524", 
     "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "ChinaWindowlabel_55_U1.50_SHGC0.4176": {
+  "display_name": "ChinaWindowlabel_55_U1.50_SHGC0.4176", 
+  "type": "WindowConstruction", 
+  "identifier": "ChinaWindowlabel_55_U1.50_SHGC0.4176", 
+  "materials": [
+   {
+    "shgc": 0.41759999999999997, 
+    "vt": 0.39000000000000001, 
+    "display_name": "ChinaWindowlabel_55_U1.50_SHGC0.4176", 
+    "identifier": "ChinaWindowlabel_55_U1.50_SHGC0.4176", 
+    "u_factor": 1.5, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "ChinaWindowlabel_95_U2.00_SHGC0.4524": {
+  "display_name": "ChinaWindowlabel_95_U2.00_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "ChinaWindowlabel_95_U2.00_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.47999999999999998, 
+    "display_name": "ChinaWindowlabel_95_U2.00_SHGC0.4524", 
+    "identifier": "ChinaWindowlabel_95_U2.00_SHGC0.4524", 
+    "u_factor": 2.0, 
     "type": "EnergyWindowMaterialSimpleGlazSys"
    }
   ]
@@ -1281,7 +1296,7 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46999999999999997, 
     "display_name": "ChinaWindowlabel_162_U1.90_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_162_U1.90_SHGC0.4524", 
     "u_factor": 1.8999999999999999, 
@@ -1296,25 +1311,10 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46999999999999997, 
     "display_name": "ChinaWindowlabel_166_U1.70_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_166_U1.70_SHGC0.4524", 
     "u_factor": 1.7, 
-    "type": "EnergyWindowMaterialSimpleGlazSys"
-   }
-  ]
- }, 
- "ChinaWindowlabel_55_U1.50_SHGC0.4176": {
-  "display_name": "ChinaWindowlabel_55_U1.50_SHGC0.4176", 
-  "type": "WindowConstruction", 
-  "identifier": "ChinaWindowlabel_55_U1.50_SHGC0.4176", 
-  "materials": [
-   {
-    "shgc": 0.41759999999999997, 
-    "vt": 0.59999999999999998, 
-    "display_name": "ChinaWindowlabel_55_U1.50_SHGC0.4176", 
-    "identifier": "ChinaWindowlabel_55_U1.50_SHGC0.4176", 
-    "u_factor": 1.5, 
     "type": "EnergyWindowMaterialSimpleGlazSys"
    }
   ]
@@ -1326,7 +1326,7 @@
   "materials": [
    {
     "shgc": 0.49589999999999995, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.48999999999999999, 
     "display_name": "ChinaWindowlabel_143_U1.80_SHGC0.4959", 
     "identifier": "ChinaWindowlabel_143_U1.80_SHGC0.4959", 
     "u_factor": 1.8, 
@@ -1341,7 +1341,7 @@
   "materials": [
    {
     "shgc": 0.23490000000000003, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.34999999999999998, 
     "display_name": "ChinaWindowlabel_170_U2.00_SHGC0.2349", 
     "identifier": "ChinaWindowlabel_170_U2.00_SHGC0.2349", 
     "u_factor": 2.0, 
@@ -1356,7 +1356,7 @@
   "materials": [
    {
     "shgc": 0.33929999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46000000000000002, 
     "display_name": "ChinaWindowlabel_3_U1.00_SHGC0.3393", 
     "identifier": "ChinaWindowlabel_3_U1.00_SHGC0.3393", 
     "u_factor": 1.0, 
@@ -1371,7 +1371,7 @@
   "materials": [
    {
     "shgc": 0.39150000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.39000000000000001, 
     "display_name": "ChinaWindowlabel_207_U2.20_SHGC0.3915", 
     "identifier": "ChinaWindowlabel_207_U2.20_SHGC0.3915", 
     "u_factor": 2.2000000000000002, 
@@ -1386,7 +1386,7 @@
   "materials": [
    {
     "shgc": 0.2697, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.33000000000000002, 
     "display_name": "ChinaWindowlabel_195_U2.40_SHGC0.2697", 
     "identifier": "ChinaWindowlabel_195_U2.40_SHGC0.2697", 
     "u_factor": 2.3999999999999999, 
@@ -1401,7 +1401,7 @@
   "materials": [
    {
     "shgc": 0.47850000000000004, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.45000000000000001, 
     "display_name": "ChinaWindowlabel_20_U1.80_SHGC0.4785", 
     "identifier": "ChinaWindowlabel_20_U1.80_SHGC0.4785", 
     "u_factor": 1.8, 
@@ -1416,7 +1416,7 @@
   "materials": [
    {
     "shgc": 0.30449999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.35999999999999999, 
     "display_name": "ChinaWindowlabel_181_U2.00_SHGC0.3045", 
     "identifier": "ChinaWindowlabel_181_U2.00_SHGC0.3045", 
     "u_factor": 2.0, 
@@ -1431,7 +1431,7 @@
   "materials": [
    {
     "shgc": 0.44369999999999998, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.48999999999999999, 
     "display_name": "ChinaWindowlabel_165_U1.80_SHGC0.4437", 
     "identifier": "ChinaWindowlabel_165_U1.80_SHGC0.4437", 
     "u_factor": 1.8, 
@@ -1446,7 +1446,7 @@
   "materials": [
    {
     "shgc": 0.48720000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.5, 
     "display_name": "ChinaWindowlabel_110_U1.80_SHGC0.4872", 
     "identifier": "ChinaWindowlabel_110_U1.80_SHGC0.4872", 
     "u_factor": 1.8, 
@@ -1461,7 +1461,7 @@
   "materials": [
    {
     "shgc": 0.42630000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.44, 
     "display_name": "ChinaWindowlabel_127_U2.00_SHGC0.4263", 
     "identifier": "ChinaWindowlabel_127_U2.00_SHGC0.4263", 
     "u_factor": 2.0, 
@@ -1476,7 +1476,7 @@
   "materials": [
    {
     "shgc": 0.46110000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46999999999999997, 
     "display_name": "ChinaWindowlabel_92_U1.90_SHGC0.4611", 
     "identifier": "ChinaWindowlabel_92_U1.90_SHGC0.4611", 
     "u_factor": 1.8999999999999999, 
@@ -1491,7 +1491,7 @@
   "materials": [
    {
     "shgc": 0.49589999999999995, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.5, 
     "display_name": "ChinaWindowlabel_19_U2.00_SHGC0.4959", 
     "identifier": "ChinaWindowlabel_19_U2.00_SHGC0.4959", 
     "u_factor": 2.0, 
@@ -1506,7 +1506,7 @@
   "materials": [
    {
     "shgc": 0.49589999999999995, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.53000000000000003, 
     "display_name": "ChinaWindowlabel_200_U2.30_SHGC0.4959", 
     "identifier": "ChinaWindowlabel_200_U2.30_SHGC0.4959", 
     "u_factor": 2.2999999999999998, 
@@ -1521,7 +1521,7 @@
   "materials": [
    {
     "shgc": 0.25229999999999997, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.39000000000000001, 
     "display_name": "ChinaWindowlabel_213_U2.10_SHGC0.2523", 
     "identifier": "ChinaWindowlabel_213_U2.10_SHGC0.2523", 
     "u_factor": 2.1000000000000001, 
@@ -1536,7 +1536,7 @@
   "materials": [
    {
     "shgc": 0.24360000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.40999999999999998, 
     "display_name": "ChinaWindowlabel_176_U2.30_SHGC0.2436", 
     "identifier": "ChinaWindowlabel_176_U2.30_SHGC0.2436", 
     "u_factor": 2.2999999999999998, 
@@ -1551,7 +1551,7 @@
   "materials": [
    {
     "shgc": 0.49589999999999995, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.52000000000000002, 
     "display_name": "ChinaWindowlabel_124_U2.30_SHGC0.4959", 
     "identifier": "ChinaWindowlabel_124_U2.30_SHGC0.4959", 
     "u_factor": 2.2999999999999998, 
@@ -1566,7 +1566,7 @@
   "materials": [
    {
     "shgc": 0.42630000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.41999999999999998, 
     "display_name": "ChinaWindowlabel_134_U2.00_SHGC0.4263", 
     "identifier": "ChinaWindowlabel_134_U2.00_SHGC0.4263", 
     "u_factor": 2.0, 
@@ -1581,7 +1581,7 @@
   "materials": [
    {
     "shgc": 0.44369999999999998, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.48999999999999999, 
     "display_name": "ChinaWindowlabel_157_U1.80_SHGC0.4437", 
     "identifier": "ChinaWindowlabel_157_U1.80_SHGC0.4437", 
     "u_factor": 1.8, 
@@ -1596,7 +1596,7 @@
   "materials": [
    {
     "shgc": 0.29580000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.37, 
     "display_name": "ChinaWindowlabel_219_U2.00_SHGC0.2958", 
     "identifier": "ChinaWindowlabel_219_U2.00_SHGC0.2958", 
     "u_factor": 2.0, 
@@ -1611,7 +1611,7 @@
   "materials": [
    {
     "shgc": 0.41759999999999997, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.52000000000000002, 
     "display_name": "ChinaWindowlabel_45_U2.20_SHGC0.4176", 
     "identifier": "ChinaWindowlabel_45_U2.20_SHGC0.4176", 
     "u_factor": 2.2000000000000002, 
@@ -1626,7 +1626,7 @@
   "materials": [
    {
     "shgc": 0.39150000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.45000000000000001, 
     "display_name": "ChinaWindowlabel_137_U1.40_SHGC0.3915", 
     "identifier": "ChinaWindowlabel_137_U1.40_SHGC0.3915", 
     "u_factor": 1.3999999999999999, 
@@ -1641,7 +1641,7 @@
   "materials": [
    {
     "shgc": 0.42630000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.42999999999999999, 
     "display_name": "ChinaWindowlabel_203_U1.80_SHGC0.4263", 
     "identifier": "ChinaWindowlabel_203_U1.80_SHGC0.4263", 
     "u_factor": 1.8, 
@@ -1656,7 +1656,7 @@
   "materials": [
    {
     "shgc": 0.44369999999999998, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_109_U2.00_SHGC0.4437", 
     "identifier": "ChinaWindowlabel_109_U2.00_SHGC0.4437", 
     "u_factor": 2.0, 
@@ -1671,7 +1671,7 @@
   "materials": [
    {
     "shgc": 0.435, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46000000000000002, 
     "display_name": "ChinaWindowlabel_34_U1.90_SHGC0.435", 
     "identifier": "ChinaWindowlabel_34_U1.90_SHGC0.435", 
     "u_factor": 1.8999999999999999, 
@@ -1686,7 +1686,7 @@
   "materials": [
    {
     "shgc": 0.60029999999999994, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.69599999999999995, 
     "display_name": "ChinaWindowlabel_224_U1.20_SHGC0.6003", 
     "identifier": "ChinaWindowlabel_224_U1.20_SHGC0.6003", 
     "u_factor": 1.2, 
@@ -1701,7 +1701,7 @@
   "materials": [
    {
     "shgc": 0.67859999999999998, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.73699999999999999, 
     "display_name": "ChinaWindowlabel_226_U1.70_SHGC0.6786", 
     "identifier": "ChinaWindowlabel_226_U1.70_SHGC0.6786", 
     "u_factor": 1.7, 
@@ -1716,7 +1716,7 @@
   "materials": [
    {
     "shgc": 0.2175, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.23999999999999999, 
     "display_name": "ChinaWindowlabel_190_U2.70_SHGC0.2175", 
     "identifier": "ChinaWindowlabel_190_U2.70_SHGC0.2175", 
     "u_factor": 2.7000000000000002, 
@@ -1731,7 +1731,7 @@
   "materials": [
    {
     "shgc": 0.46980000000000005, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.5, 
     "display_name": "ChinaWindowlabel_160_U1.70_SHGC0.4698", 
     "identifier": "ChinaWindowlabel_160_U1.70_SHGC0.4698", 
     "u_factor": 1.7, 
@@ -1746,7 +1746,7 @@
   "materials": [
    {
     "shgc": 0.23490000000000003, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.27000000000000002, 
     "display_name": "ChinaWindowlabel_182_U2.00_SHGC0.2349", 
     "identifier": "ChinaWindowlabel_182_U2.00_SHGC0.2349", 
     "u_factor": 2.0, 
@@ -1761,7 +1761,7 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_145_U1.90_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_145_U1.90_SHGC0.4524", 
     "u_factor": 1.8999999999999999, 
@@ -1776,7 +1776,7 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_38_U1.70_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_38_U1.70_SHGC0.4524", 
     "u_factor": 1.7, 
@@ -1791,7 +1791,7 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46999999999999997, 
     "display_name": "ChinaWindowlabel_94_U1.80_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_94_U1.80_SHGC0.4524", 
     "u_factor": 1.8, 
@@ -1806,7 +1806,7 @@
   "materials": [
    {
     "shgc": 0.27839999999999998, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.32000000000000001, 
     "display_name": "ChinaWindowlabel_189_U2.70_SHGC0.2784", 
     "identifier": "ChinaWindowlabel_189_U2.70_SHGC0.2784", 
     "u_factor": 2.7000000000000002, 
@@ -1821,7 +1821,7 @@
   "materials": [
    {
     "shgc": 0.46110000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.45000000000000001, 
     "display_name": "ChinaWindowlabel_93_U1.80_SHGC0.4611", 
     "identifier": "ChinaWindowlabel_93_U1.80_SHGC0.4611", 
     "u_factor": 1.8, 
@@ -1836,7 +1836,7 @@
   "materials": [
    {
     "shgc": 0.46110000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46000000000000002, 
     "display_name": "ChinaWindowlabel_57_U2.00_SHGC0.4611", 
     "identifier": "ChinaWindowlabel_57_U2.00_SHGC0.4611", 
     "u_factor": 2.0, 
@@ -1851,7 +1851,7 @@
   "materials": [
    {
     "shgc": 0.50459999999999994, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.53000000000000003, 
     "display_name": "ChinaWindowlabel_17_U2.30_SHGC0.5046", 
     "identifier": "ChinaWindowlabel_17_U2.30_SHGC0.5046", 
     "u_factor": 2.2999999999999998, 
@@ -1866,7 +1866,7 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_103_U1.90_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_103_U1.90_SHGC0.4524", 
     "u_factor": 1.8999999999999999, 
@@ -1881,7 +1881,7 @@
   "materials": [
    {
     "shgc": 0.25229999999999997, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.40999999999999998, 
     "display_name": "ChinaWindowlabel_180_U1.80_SHGC0.2523", 
     "identifier": "ChinaWindowlabel_180_U1.80_SHGC0.2523", 
     "u_factor": 1.8, 
@@ -1896,7 +1896,7 @@
   "materials": [
    {
     "shgc": 0.30449999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.38, 
     "display_name": "ChinaWindowlabel_215_U2.30_SHGC0.3045", 
     "identifier": "ChinaWindowlabel_215_U2.30_SHGC0.3045", 
     "u_factor": 2.2999999999999998, 
@@ -1911,7 +1911,7 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_26_U2.00_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_26_U2.00_SHGC0.4524", 
     "u_factor": 2.0, 
@@ -1926,7 +1926,7 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_39_U1.80_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_39_U1.80_SHGC0.4524", 
     "u_factor": 1.8, 
@@ -1941,7 +1941,7 @@
   "materials": [
    {
     "shgc": 0.2697, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.33000000000000002, 
     "display_name": "ChinaWindowlabel_194_U2.10_SHGC0.2697", 
     "identifier": "ChinaWindowlabel_194_U2.10_SHGC0.2697", 
     "u_factor": 2.1000000000000001, 
@@ -1956,7 +1956,7 @@
   "materials": [
    {
     "shgc": 0.59160000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.69599999999999995, 
     "display_name": "ChinaWindowlabel_223_U1.30_SHGC0.5916", 
     "identifier": "ChinaWindowlabel_223_U1.30_SHGC0.5916", 
     "u_factor": 1.3, 
@@ -1971,7 +1971,7 @@
   "materials": [
    {
     "shgc": 0.54810000000000003, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.55000000000000004, 
     "display_name": "ChinaWindowlabel_76_U2.30_SHGC0.5481", 
     "identifier": "ChinaWindowlabel_76_U2.30_SHGC0.5481", 
     "u_factor": 2.2999999999999998, 
@@ -1986,7 +1986,7 @@
   "materials": [
    {
     "shgc": 0.4002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.44, 
     "display_name": "ChinaWindowlabel_144_U2.00_SHGC0.4002", 
     "identifier": "ChinaWindowlabel_144_U2.00_SHGC0.4002", 
     "u_factor": 2.0, 
@@ -2001,7 +2001,7 @@
   "materials": [
    {
     "shgc": 0.33929999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.40000000000000002, 
     "display_name": "ChinaWindowlabel_42_U2.10_SHGC0.3393", 
     "identifier": "ChinaWindowlabel_42_U2.10_SHGC0.3393", 
     "u_factor": 2.1000000000000001, 
@@ -2016,7 +2016,7 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46999999999999997, 
     "display_name": "ChinaWindowlabel_148_U1.80_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_148_U1.80_SHGC0.4524", 
     "u_factor": 1.8, 
@@ -2031,7 +2031,7 @@
   "materials": [
    {
     "shgc": 0.42630000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.34000000000000002, 
     "display_name": "ChinaWindowlabel_25_U2.00_SHGC0.4263", 
     "identifier": "ChinaWindowlabel_25_U2.00_SHGC0.4263", 
     "u_factor": 2.0, 
@@ -2046,7 +2046,7 @@
   "materials": [
    {
     "shgc": 0.49589999999999995, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.52000000000000002, 
     "display_name": "ChinaWindowlabel_18_U2.30_SHGC0.4959", 
     "identifier": "ChinaWindowlabel_18_U2.30_SHGC0.4959", 
     "u_factor": 2.2999999999999998, 
@@ -2061,7 +2061,7 @@
   "materials": [
    {
     "shgc": 0.48720000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46999999999999997, 
     "display_name": "ChinaWindowlabel_63_U1.70_SHGC0.4872", 
     "identifier": "ChinaWindowlabel_63_U1.70_SHGC0.4872", 
     "u_factor": 1.7, 
@@ -2076,7 +2076,7 @@
   "materials": [
    {
     "shgc": 0.3306, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.40000000000000002, 
     "display_name": "ChinaWindowlabel_174_U1.80_SHGC0.3306", 
     "identifier": "ChinaWindowlabel_174_U1.80_SHGC0.3306", 
     "u_factor": 1.8, 
@@ -2091,7 +2091,7 @@
   "materials": [
    {
     "shgc": 0.49589999999999995, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.52000000000000002, 
     "display_name": "ChinaWindowlabel_30_U3.30_SHGC0.4959", 
     "identifier": "ChinaWindowlabel_30_U3.30_SHGC0.4959", 
     "u_factor": 3.2999999999999998, 
@@ -2106,7 +2106,7 @@
   "materials": [
    {
     "shgc": 0.435, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46000000000000002, 
     "display_name": "ChinaWindowlabel_91_U1.90_SHGC0.435", 
     "identifier": "ChinaWindowlabel_91_U1.90_SHGC0.435", 
     "u_factor": 1.8999999999999999, 
@@ -2121,7 +2121,7 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_104_U2.00_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_104_U2.00_SHGC0.4524", 
     "u_factor": 2.0, 
@@ -2136,7 +2136,7 @@
   "materials": [
    {
     "shgc": 0.50459999999999994, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.52000000000000002, 
     "display_name": "ChinaWindowlabel_183_U2.50_SHGC0.5046", 
     "identifier": "ChinaWindowlabel_183_U2.50_SHGC0.5046", 
     "u_factor": 2.5, 
@@ -2151,7 +2151,7 @@
   "materials": [
    {
     "shgc": 0.66120000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.64300000000000002, 
     "display_name": "ChinaWindowlabel_232_U0.90_SHGC0.6612", 
     "identifier": "ChinaWindowlabel_232_U0.90_SHGC0.6612", 
     "u_factor": 0.90000000000000002, 
@@ -2166,7 +2166,7 @@
   "materials": [
    {
     "shgc": 0.48720000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_108_U2.00_SHGC0.4872", 
     "identifier": "ChinaWindowlabel_108_U2.00_SHGC0.4872", 
     "u_factor": 2.0, 
@@ -2181,7 +2181,7 @@
   "materials": [
    {
     "shgc": 0.40889999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.42999999999999999, 
     "display_name": "ChinaWindowlabel_1_U1.60_SHGC0.4089", 
     "identifier": "ChinaWindowlabel_1_U1.60_SHGC0.4089", 
     "u_factor": 1.6000000000000001, 
@@ -2196,7 +2196,7 @@
   "materials": [
    {
     "shgc": 0.46110000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.5, 
     "display_name": "ChinaWindowlabel_114_U1.60_SHGC0.4611", 
     "identifier": "ChinaWindowlabel_114_U1.60_SHGC0.4611", 
     "u_factor": 1.6000000000000001, 
@@ -2211,7 +2211,7 @@
   "materials": [
    {
     "shgc": 0.42630000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.39000000000000001, 
     "display_name": "ChinaWindowlabel_54_U1.50_SHGC0.4263", 
     "identifier": "ChinaWindowlabel_54_U1.50_SHGC0.4263", 
     "u_factor": 1.5, 
@@ -2226,7 +2226,7 @@
   "materials": [
    {
     "shgc": 0.50459999999999994, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.5, 
     "display_name": "ChinaWindowlabel_198_U2.00_SHGC0.5046", 
     "identifier": "ChinaWindowlabel_198_U2.00_SHGC0.5046", 
     "u_factor": 2.0, 
@@ -2241,7 +2241,7 @@
   "materials": [
    {
     "shgc": 0.42630000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46000000000000002, 
     "display_name": "ChinaWindowlabel_208_U2.00_SHGC0.4263", 
     "identifier": "ChinaWindowlabel_208_U2.00_SHGC0.4263", 
     "u_factor": 2.0, 
@@ -2256,7 +2256,7 @@
   "materials": [
    {
     "shgc": 0.47850000000000004, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46999999999999997, 
     "display_name": "ChinaWindowlabel_22_U1.70_SHGC0.4785", 
     "identifier": "ChinaWindowlabel_22_U1.70_SHGC0.4785", 
     "u_factor": 1.7, 
@@ -2271,7 +2271,7 @@
   "materials": [
    {
     "shgc": 0.30449999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.38, 
     "display_name": "ChinaWindowlabel_216_U2.50_SHGC0.3045", 
     "identifier": "ChinaWindowlabel_216_U2.50_SHGC0.3045", 
     "u_factor": 2.5, 
@@ -2286,7 +2286,7 @@
   "materials": [
    {
     "shgc": 0.40889999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.42999999999999999, 
     "display_name": "ChinaWindowlabel_61_U1.40_SHGC0.4089", 
     "identifier": "ChinaWindowlabel_61_U1.40_SHGC0.4089", 
     "u_factor": 1.3999999999999999, 
@@ -2301,7 +2301,7 @@
   "materials": [
    {
     "shgc": 0.37409999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46000000000000002, 
     "display_name": "ChinaWindowlabel_50_U2.00_SHGC0.3741", 
     "identifier": "ChinaWindowlabel_50_U2.00_SHGC0.3741", 
     "u_factor": 2.0, 
@@ -2316,7 +2316,7 @@
   "materials": [
    {
     "shgc": 0.435, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46999999999999997, 
     "display_name": "ChinaWindowlabel_59_U1.90_SHGC0.435", 
     "identifier": "ChinaWindowlabel_59_U1.90_SHGC0.435", 
     "u_factor": 1.8999999999999999, 
@@ -2331,7 +2331,7 @@
   "materials": [
    {
     "shgc": 0.47850000000000004, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.51000000000000001, 
     "display_name": "ChinaWindowlabel_141_U1.80_SHGC0.4785", 
     "identifier": "ChinaWindowlabel_141_U1.80_SHGC0.4785", 
     "u_factor": 1.8, 
@@ -2346,7 +2346,7 @@
   "materials": [
    {
     "shgc": 0.38279999999999997, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.39000000000000001, 
     "display_name": "ChinaWindowlabel_33_U1.60_SHGC0.3828", 
     "identifier": "ChinaWindowlabel_33_U1.60_SHGC0.3828", 
     "u_factor": 1.6000000000000001, 
@@ -2361,7 +2361,7 @@
   "materials": [
    {
     "shgc": 0.49589999999999995, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.52000000000000002, 
     "display_name": "ChinaWindowlabel_158_U2.20_SHGC0.4959", 
     "identifier": "ChinaWindowlabel_158_U2.20_SHGC0.4959", 
     "u_factor": 2.2000000000000002, 
@@ -2376,7 +2376,7 @@
   "materials": [
    {
     "shgc": 0.4002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.44, 
     "display_name": "ChinaWindowlabel_140_U1.60_SHGC0.4002", 
     "identifier": "ChinaWindowlabel_140_U1.60_SHGC0.4002", 
     "u_factor": 1.6000000000000001, 
@@ -2391,7 +2391,7 @@
   "materials": [
    {
     "shgc": 0.41759999999999997, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.45000000000000001, 
     "display_name": "ChinaWindowlabel_136_U1.90_SHGC0.4176", 
     "identifier": "ChinaWindowlabel_136_U1.90_SHGC0.4176", 
     "u_factor": 1.8999999999999999, 
@@ -2406,7 +2406,7 @@
   "materials": [
    {
     "shgc": 0.24360000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.29999999999999999, 
     "display_name": "ChinaWindowlabel_222_U1.90_SHGC0.2436", 
     "identifier": "ChinaWindowlabel_222_U1.90_SHGC0.2436", 
     "u_factor": 1.8999999999999999, 
@@ -2421,7 +2421,7 @@
   "materials": [
    {
     "shgc": 0.40889999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.40000000000000002, 
     "display_name": "ChinaWindowlabel_8_U1.50_SHGC0.4089", 
     "identifier": "ChinaWindowlabel_8_U1.50_SHGC0.4089", 
     "u_factor": 1.5, 
@@ -2436,7 +2436,7 @@
   "materials": [
    {
     "shgc": 0.46980000000000005, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_209_U2.00_SHGC0.4698", 
     "identifier": "ChinaWindowlabel_209_U2.00_SHGC0.4698", 
     "u_factor": 2.0, 
@@ -2451,7 +2451,7 @@
   "materials": [
    {
     "shgc": 0.47850000000000004, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.51000000000000001, 
     "display_name": "ChinaWindowlabel_65_U1.70_SHGC0.4785", 
     "identifier": "ChinaWindowlabel_65_U1.70_SHGC0.4785", 
     "u_factor": 1.7, 
@@ -2466,7 +2466,7 @@
   "materials": [
    {
     "shgc": 0.67859999999999998, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.69499999999999995, 
     "display_name": "ChinaWindowlabel_227_U1.10_SHGC0.6786", 
     "identifier": "ChinaWindowlabel_227_U1.10_SHGC0.6786", 
     "u_factor": 1.1000000000000001, 
@@ -2481,7 +2481,7 @@
   "materials": [
    {
     "shgc": 0.44369999999999998, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46000000000000002, 
     "display_name": "ChinaWindowlabel_116_U1.70_SHGC0.4437", 
     "identifier": "ChinaWindowlabel_116_U1.70_SHGC0.4437", 
     "u_factor": 1.7, 
@@ -2496,7 +2496,7 @@
   "materials": [
    {
     "shgc": 0.53939999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.51800000000000002, 
     "display_name": "ChinaWindowlabel_236_U0.90_SHGC0.5394", 
     "identifier": "ChinaWindowlabel_236_U0.90_SHGC0.5394", 
     "u_factor": 0.90000000000000002, 
@@ -2511,7 +2511,7 @@
   "materials": [
    {
     "shgc": 0.46110000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.42999999999999999, 
     "display_name": "ChinaWindowlabel_121_U1.50_SHGC0.4611", 
     "identifier": "ChinaWindowlabel_121_U1.50_SHGC0.4611", 
     "u_factor": 1.5, 
@@ -2526,7 +2526,7 @@
   "materials": [
    {
     "shgc": 0.46110000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.42999999999999999, 
     "display_name": "ChinaWindowlabel_142_U1.80_SHGC0.4611", 
     "identifier": "ChinaWindowlabel_142_U1.80_SHGC0.4611", 
     "u_factor": 1.8, 
@@ -2541,7 +2541,7 @@
   "materials": [
    {
     "shgc": 0.40889999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.40999999999999998, 
     "display_name": "ChinaWindowlabel_154_U1.80_SHGC0.4089", 
     "identifier": "ChinaWindowlabel_154_U1.80_SHGC0.4089", 
     "u_factor": 1.8, 
@@ -2556,7 +2556,7 @@
   "materials": [
    {
     "shgc": 0.29580000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.35999999999999999, 
     "display_name": "ChinaWindowlabel_177_U2.60_SHGC0.2958", 
     "identifier": "ChinaWindowlabel_177_U2.60_SHGC0.2958", 
     "u_factor": 2.6000000000000001, 
@@ -2571,7 +2571,7 @@
   "materials": [
    {
     "shgc": 0.28710000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.35999999999999999, 
     "display_name": "ChinaWindowlabel_218_U1.80_SHGC0.2871", 
     "identifier": "ChinaWindowlabel_218_U1.80_SHGC0.2871", 
     "u_factor": 1.8, 
@@ -2586,7 +2586,7 @@
   "materials": [
    {
     "shgc": 0.435, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.48999999999999999, 
     "display_name": "ChinaWindowlabel_29_U2.10_SHGC0.435", 
     "identifier": "ChinaWindowlabel_29_U2.10_SHGC0.435", 
     "u_factor": 2.1000000000000001, 
@@ -2601,7 +2601,7 @@
   "materials": [
    {
     "shgc": 0.39150000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.38, 
     "display_name": "ChinaWindowlabel_135_U1.70_SHGC0.3915", 
     "identifier": "ChinaWindowlabel_135_U1.70_SHGC0.3915", 
     "u_factor": 1.7, 
@@ -2616,7 +2616,7 @@
   "materials": [
    {
     "shgc": 0.49589999999999995, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.52000000000000002, 
     "display_name": "ChinaWindowlabel_15_U2.30_SHGC0.4959", 
     "identifier": "ChinaWindowlabel_15_U2.30_SHGC0.4959", 
     "u_factor": 2.2999999999999998, 
@@ -2631,7 +2631,7 @@
   "materials": [
    {
     "shgc": 0.40889999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.34000000000000002, 
     "display_name": "ChinaWindowlabel_129_U1.70_SHGC0.4089", 
     "identifier": "ChinaWindowlabel_129_U1.70_SHGC0.4089", 
     "u_factor": 1.7, 
@@ -2646,7 +2646,7 @@
   "materials": [
    {
     "shgc": 0.42630000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.44, 
     "display_name": "ChinaWindowlabel_132_U1.80_SHGC0.4263", 
     "identifier": "ChinaWindowlabel_132_U1.80_SHGC0.4263", 
     "u_factor": 1.8, 
@@ -2661,7 +2661,7 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_37_U2.00_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_37_U2.00_SHGC0.4524", 
     "u_factor": 2.0, 
@@ -2676,7 +2676,7 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_40_U1.90_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_40_U1.90_SHGC0.4524", 
     "u_factor": 1.8999999999999999, 
@@ -2691,7 +2691,7 @@
   "materials": [
    {
     "shgc": 0.435, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.41999999999999998, 
     "display_name": "ChinaWindowlabel_151_U1.80_SHGC0.435", 
     "identifier": "ChinaWindowlabel_151_U1.80_SHGC0.435", 
     "u_factor": 1.8, 
@@ -2706,7 +2706,7 @@
   "materials": [
    {
     "shgc": 0.44369999999999998, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46000000000000002, 
     "display_name": "ChinaWindowlabel_117_U1.70_SHGC0.4437", 
     "identifier": "ChinaWindowlabel_117_U1.70_SHGC0.4437", 
     "u_factor": 1.7, 
@@ -2721,7 +2721,7 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.45000000000000001, 
     "display_name": "ChinaWindowlabel_126_U1.70_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_126_U1.70_SHGC0.4524", 
     "u_factor": 1.7, 
@@ -2736,7 +2736,7 @@
   "materials": [
    {
     "shgc": 0.40889999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46999999999999997, 
     "display_name": "ChinaWindowlabel_138_U1.60_SHGC0.4089", 
     "identifier": "ChinaWindowlabel_138_U1.60_SHGC0.4089", 
     "u_factor": 1.6000000000000001, 
@@ -2751,7 +2751,7 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46999999999999997, 
     "display_name": "ChinaWindowlabel_97_U1.80_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_97_U1.80_SHGC0.4524", 
     "u_factor": 1.8, 
@@ -2766,7 +2766,7 @@
   "materials": [
    {
     "shgc": 0.40889999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46999999999999997, 
     "display_name": "ChinaWindowlabel_27_U1.80_SHGC0.4089", 
     "identifier": "ChinaWindowlabel_27_U1.80_SHGC0.4089", 
     "u_factor": 1.8, 
@@ -2781,7 +2781,7 @@
   "materials": [
    {
     "shgc": 0.30449999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.38, 
     "display_name": "ChinaWindowlabel_217_U2.60_SHGC0.3045", 
     "identifier": "ChinaWindowlabel_217_U2.60_SHGC0.3045", 
     "u_factor": 2.6000000000000001, 
@@ -2796,7 +2796,7 @@
   "materials": [
    {
     "shgc": 0.42630000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.44, 
     "display_name": "ChinaWindowlabel_35_U1.70_SHGC0.4263", 
     "identifier": "ChinaWindowlabel_35_U1.70_SHGC0.4263", 
     "u_factor": 1.7, 
@@ -2811,7 +2811,7 @@
   "materials": [
    {
     "shgc": 0.41759999999999997, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.51000000000000001, 
     "display_name": "ChinaWindowlabel_47_U2.40_SHGC0.4176", 
     "identifier": "ChinaWindowlabel_47_U2.40_SHGC0.4176", 
     "u_factor": 2.3999999999999999, 
@@ -2826,7 +2826,7 @@
   "materials": [
    {
     "shgc": 0.48720000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_107_U2.00_SHGC0.4872", 
     "identifier": "ChinaWindowlabel_107_U2.00_SHGC0.4872", 
     "u_factor": 2.0, 
@@ -2841,7 +2841,7 @@
   "materials": [
    {
     "shgc": 0.27839999999999998, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.35999999999999999, 
     "display_name": "ChinaWindowlabel_173_U1.70_SHGC0.2784", 
     "identifier": "ChinaWindowlabel_173_U1.70_SHGC0.2784", 
     "u_factor": 1.7, 
@@ -2856,7 +2856,7 @@
   "materials": [
    {
     "shgc": 0.46980000000000005, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46000000000000002, 
     "display_name": "ChinaWindowlabel_96_U1.40_SHGC0.4698", 
     "identifier": "ChinaWindowlabel_96_U1.40_SHGC0.4698", 
     "u_factor": 1.3999999999999999, 
@@ -2871,7 +2871,7 @@
   "materials": [
    {
     "shgc": 0.60899999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.66700000000000004, 
     "display_name": "ChinaWindowlabel_234_U1.30_SHGC0.609", 
     "identifier": "ChinaWindowlabel_234_U1.30_SHGC0.609", 
     "u_factor": 1.3, 
@@ -2886,7 +2886,7 @@
   "materials": [
    {
     "shgc": 0.49589999999999995, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.5, 
     "display_name": "ChinaWindowlabel_202_U2.00_SHGC0.4959", 
     "identifier": "ChinaWindowlabel_202_U2.00_SHGC0.4959", 
     "u_factor": 2.0, 
@@ -2901,7 +2901,7 @@
   "materials": [
    {
     "shgc": 0.32190000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.39000000000000001, 
     "display_name": "ChinaWindowlabel_185_U2.50_SHGC0.3219", 
     "identifier": "ChinaWindowlabel_185_U2.50_SHGC0.3219", 
     "u_factor": 2.5, 
@@ -2916,7 +2916,7 @@
   "materials": [
    {
     "shgc": 0.30449999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.34999999999999998, 
     "display_name": "ChinaWindowlabel_118_U1.80_SHGC0.3045", 
     "identifier": "ChinaWindowlabel_118_U1.80_SHGC0.3045", 
     "u_factor": 1.8, 
@@ -2931,7 +2931,7 @@
   "materials": [
    {
     "shgc": 0.59160000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.622, 
     "display_name": "ChinaWindowlabel_225_U1.20_SHGC0.5916", 
     "identifier": "ChinaWindowlabel_225_U1.20_SHGC0.5916", 
     "u_factor": 1.2, 
@@ -2946,7 +2946,7 @@
   "materials": [
    {
     "shgc": 0.435, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.48999999999999999, 
     "display_name": "ChinaWindowlabel_28_U1.90_SHGC0.435", 
     "identifier": "ChinaWindowlabel_28_U1.90_SHGC0.435", 
     "u_factor": 1.8999999999999999, 
@@ -2961,7 +2961,7 @@
   "materials": [
    {
     "shgc": 0.435, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_128_U2.00_SHGC0.435", 
     "identifier": "ChinaWindowlabel_128_U2.00_SHGC0.435", 
     "u_factor": 2.0, 
@@ -2976,7 +2976,7 @@
   "materials": [
    {
     "shgc": 0.435, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.44, 
     "display_name": "ChinaWindowlabel_4_U1.80_SHGC0.435", 
     "identifier": "ChinaWindowlabel_4_U1.80_SHGC0.435", 
     "u_factor": 1.8, 
@@ -2991,7 +2991,7 @@
   "materials": [
    {
     "shgc": 0.42630000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.52000000000000002, 
     "display_name": "ChinaWindowlabel_46_U2.30_SHGC0.4263", 
     "identifier": "ChinaWindowlabel_46_U2.30_SHGC0.4263", 
     "u_factor": 2.2999999999999998, 
@@ -3006,7 +3006,7 @@
   "materials": [
    {
     "shgc": 0.48720000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.48999999999999999, 
     "display_name": "ChinaWindowlabel_13_U1.80_SHGC0.4872", 
     "identifier": "ChinaWindowlabel_13_U1.80_SHGC0.4872", 
     "u_factor": 1.8, 
@@ -3021,7 +3021,7 @@
   "materials": [
    {
     "shgc": 0.46110000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46999999999999997, 
     "display_name": "ChinaWindowlabel_88_U1.90_SHGC0.4611", 
     "identifier": "ChinaWindowlabel_88_U1.90_SHGC0.4611", 
     "u_factor": 1.8999999999999999, 
@@ -3036,7 +3036,7 @@
   "materials": [
    {
     "shgc": 0.435, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46999999999999997, 
     "display_name": "ChinaWindowlabel_60_U2.00_SHGC0.435", 
     "identifier": "ChinaWindowlabel_60_U2.00_SHGC0.435", 
     "u_factor": 2.0, 
@@ -3051,7 +3051,7 @@
   "materials": [
    {
     "shgc": 0.46110000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.48999999999999999, 
     "display_name": "ChinaWindowlabel_111_U1.80_SHGC0.4611", 
     "identifier": "ChinaWindowlabel_111_U1.80_SHGC0.4611", 
     "u_factor": 1.8, 
@@ -3066,7 +3066,7 @@
   "materials": [
    {
     "shgc": 0.41759999999999997, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.45000000000000001, 
     "display_name": "ChinaWindowlabel_156_U1.80_SHGC0.4176", 
     "identifier": "ChinaWindowlabel_156_U1.80_SHGC0.4176", 
     "u_factor": 1.8, 
@@ -3081,7 +3081,7 @@
   "materials": [
    {
     "shgc": 0.4002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.40000000000000002, 
     "display_name": "ChinaWindowlabel_10_U1.80_SHGC0.4002", 
     "identifier": "ChinaWindowlabel_10_U1.80_SHGC0.4002", 
     "u_factor": 1.8, 
@@ -3096,7 +3096,7 @@
   "materials": [
    {
     "shgc": 0.46110000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.48999999999999999, 
     "display_name": "ChinaWindowlabel_120_U1.80_SHGC0.4611", 
     "identifier": "ChinaWindowlabel_120_U1.80_SHGC0.4611", 
     "u_factor": 1.8, 
@@ -3111,7 +3111,7 @@
   "materials": [
    {
     "shgc": 0.48720000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_106_U1.90_SHGC0.4872", 
     "identifier": "ChinaWindowlabel_106_U1.90_SHGC0.4872", 
     "u_factor": 1.8999999999999999, 
@@ -3126,7 +3126,7 @@
   "materials": [
    {
     "shgc": 0.435, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_112_U1.80_SHGC0.435", 
     "identifier": "ChinaWindowlabel_112_U1.80_SHGC0.435", 
     "u_factor": 1.8, 
@@ -3141,7 +3141,7 @@
   "materials": [
    {
     "shgc": 0.435, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.41999999999999998, 
     "display_name": "ChinaWindowlabel_130_U1.90_SHGC0.435", 
     "identifier": "ChinaWindowlabel_130_U1.90_SHGC0.435", 
     "u_factor": 1.8999999999999999, 
@@ -3156,7 +3156,7 @@
   "materials": [
    {
     "shgc": 0.47850000000000004, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46000000000000002, 
     "display_name": "ChinaWindowlabel_56_U1.80_SHGC0.4785", 
     "identifier": "ChinaWindowlabel_56_U1.80_SHGC0.4785", 
     "u_factor": 1.8, 
@@ -3171,7 +3171,7 @@
   "materials": [
    {
     "shgc": 0.40889999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.41999999999999998, 
     "display_name": "ChinaWindowlabel_68_U2.00_SHGC0.4089", 
     "identifier": "ChinaWindowlabel_68_U2.00_SHGC0.4089", 
     "u_factor": 2.0, 
@@ -3186,7 +3186,7 @@
   "materials": [
    {
     "shgc": 0.50459999999999994, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.5, 
     "display_name": "ChinaWindowlabel_152_U2.00_SHGC0.5046", 
     "identifier": "ChinaWindowlabel_152_U2.00_SHGC0.5046", 
     "u_factor": 2.0, 
@@ -3201,7 +3201,7 @@
   "materials": [
    {
     "shgc": 0.46980000000000005, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.48999999999999999, 
     "display_name": "ChinaWindowlabel_80_U2.00_SHGC0.4698", 
     "identifier": "ChinaWindowlabel_80_U2.00_SHGC0.4698", 
     "u_factor": 2.0, 
@@ -3216,7 +3216,7 @@
   "materials": [
    {
     "shgc": 0.24360000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.39000000000000001, 
     "display_name": "ChinaWindowlabel_212_U1.70_SHGC0.2436", 
     "identifier": "ChinaWindowlabel_212_U1.70_SHGC0.2436", 
     "u_factor": 1.7, 
@@ -3231,7 +3231,7 @@
   "materials": [
    {
     "shgc": 0.60029999999999994, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.61399999999999999, 
     "display_name": "ChinaWindowlabel_237_U1.20_SHGC0.6003", 
     "identifier": "ChinaWindowlabel_237_U1.20_SHGC0.6003", 
     "u_factor": 1.2, 
@@ -3246,7 +3246,7 @@
   "materials": [
    {
     "shgc": 0.48720000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.52000000000000002, 
     "display_name": "ChinaWindowlabel_204_U2.30_SHGC0.4872", 
     "identifier": "ChinaWindowlabel_204_U2.30_SHGC0.4872", 
     "u_factor": 2.2999999999999998, 
@@ -3261,7 +3261,7 @@
   "materials": [
    {
     "shgc": 0.38279999999999997, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.42999999999999999, 
     "display_name": "ChinaWindowlabel_31_U1.50_SHGC0.3828", 
     "identifier": "ChinaWindowlabel_31_U1.50_SHGC0.3828", 
     "u_factor": 1.5, 
@@ -3276,7 +3276,7 @@
   "materials": [
    {
     "shgc": 0.40889999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46000000000000002, 
     "display_name": "ChinaWindowlabel_90_U2.00_SHGC0.4089", 
     "identifier": "ChinaWindowlabel_90_U2.00_SHGC0.4089", 
     "u_factor": 2.0, 
@@ -3291,7 +3291,7 @@
   "materials": [
    {
     "shgc": 0.23490000000000003, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.35999999999999999, 
     "display_name": "ChinaWindowlabel_188_U2.50_SHGC0.2349", 
     "identifier": "ChinaWindowlabel_188_U2.50_SHGC0.2349", 
     "u_factor": 2.5, 
@@ -3306,7 +3306,7 @@
   "materials": [
    {
     "shgc": 0.40889999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.40000000000000002, 
     "display_name": "ChinaWindowlabel_9_U1.60_SHGC0.4089", 
     "identifier": "ChinaWindowlabel_9_U1.60_SHGC0.4089", 
     "u_factor": 1.6000000000000001, 
@@ -3321,7 +3321,7 @@
   "materials": [
    {
     "shgc": 0.49589999999999995, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.51000000000000001, 
     "display_name": "ChinaWindowlabel_2_U2.20_SHGC0.4959", 
     "identifier": "ChinaWindowlabel_2_U2.20_SHGC0.4959", 
     "u_factor": 2.2000000000000002, 
@@ -3336,7 +3336,7 @@
   "materials": [
    {
     "shgc": 0.42630000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.40000000000000002, 
     "display_name": "ChinaWindowlabel_41_U1.80_SHGC0.4263", 
     "identifier": "ChinaWindowlabel_41_U1.80_SHGC0.4263", 
     "u_factor": 1.8, 
@@ -3351,7 +3351,7 @@
   "materials": [
    {
     "shgc": 0.40889999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.42999999999999999, 
     "display_name": "ChinaWindowlabel_52_U1.80_SHGC0.4089", 
     "identifier": "ChinaWindowlabel_52_U1.80_SHGC0.4089", 
     "u_factor": 1.8, 
@@ -3366,7 +3366,7 @@
   "materials": [
    {
     "shgc": 0.33929999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.40000000000000002, 
     "display_name": "ChinaWindowlabel_43_U2.00_SHGC0.3393", 
     "identifier": "ChinaWindowlabel_43_U2.00_SHGC0.3393", 
     "u_factor": 2.0, 
@@ -3381,7 +3381,7 @@
   "materials": [
    {
     "shgc": 0.44369999999999998, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.46000000000000002, 
     "display_name": "ChinaWindowlabel_191_U3.10_SHGC0.4437", 
     "identifier": "ChinaWindowlabel_191_U3.10_SHGC0.4437", 
     "u_factor": 3.1000000000000001, 
@@ -3396,7 +3396,7 @@
   "materials": [
    {
     "shgc": 0.44369999999999998, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.48999999999999999, 
     "display_name": "ChinaWindowlabel_210_U1.80_SHGC0.4437", 
     "identifier": "ChinaWindowlabel_210_U1.80_SHGC0.4437", 
     "u_factor": 1.8, 
@@ -3411,7 +3411,7 @@
   "materials": [
    {
     "shgc": 0.35669999999999996, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.28999999999999998, 
     "display_name": "ChinaWindowlabel_206_U2.00_SHGC0.3567", 
     "identifier": "ChinaWindowlabel_206_U2.00_SHGC0.3567", 
     "u_factor": 2.0, 
@@ -3426,7 +3426,7 @@
   "materials": [
    {
     "shgc": 0.2001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.34000000000000002, 
     "display_name": "ChinaWindowlabel_193_U2.30_SHGC0.2001", 
     "identifier": "ChinaWindowlabel_193_U2.30_SHGC0.2001", 
     "u_factor": 2.2999999999999998, 
@@ -3441,7 +3441,7 @@
   "materials": [
    {
     "shgc": 0.33929999999999999, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.28999999999999998, 
     "display_name": "ChinaWindowlabel_83_U1.70_SHGC0.3393", 
     "identifier": "ChinaWindowlabel_83_U1.70_SHGC0.3393", 
     "u_factor": 1.7, 
@@ -3456,7 +3456,7 @@
   "materials": [
    {
     "shgc": 0.24360000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.29999999999999999, 
     "display_name": "ChinaWindowlabel_186_U2.50_SHGC0.2436", 
     "identifier": "ChinaWindowlabel_186_U2.50_SHGC0.2436", 
     "u_factor": 2.5, 
@@ -3471,7 +3471,7 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.45000000000000001, 
     "display_name": "ChinaWindowlabel_69_U1.80_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_69_U1.80_SHGC0.4524", 
     "u_factor": 1.8, 
@@ -3486,7 +3486,7 @@
   "materials": [
    {
     "shgc": 0.45240000000000002, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.5, 
     "display_name": "ChinaWindowlabel_74_U2.00_SHGC0.4524", 
     "identifier": "ChinaWindowlabel_74_U2.00_SHGC0.4524", 
     "u_factor": 2.0, 
@@ -3501,7 +3501,7 @@
   "materials": [
    {
     "shgc": 0.38279999999999997, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.42999999999999999, 
     "display_name": "ChinaWindowlabel_32_U1.60_SHGC0.3828", 
     "identifier": "ChinaWindowlabel_32_U1.60_SHGC0.3828", 
     "u_factor": 1.6000000000000001, 
@@ -3516,7 +3516,7 @@
   "materials": [
    {
     "shgc": 0.47850000000000004, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.5, 
     "display_name": "ChinaWindowlabel_163_U1.70_SHGC0.4785", 
     "identifier": "ChinaWindowlabel_163_U1.70_SHGC0.4785", 
     "u_factor": 1.7, 
@@ -3531,7 +3531,7 @@
   "materials": [
    {
     "shgc": 0.66120000000000001, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.65000000000000002, 
     "display_name": "ChinaWindowlabel_231_U0.90_SHGC0.6612", 
     "identifier": "ChinaWindowlabel_231_U0.90_SHGC0.6612", 
     "u_factor": 0.90000000000000002, 
@@ -3546,7 +3546,7 @@
   "materials": [
    {
     "shgc": 0.47850000000000004, 
-    "vt": 0.59999999999999998, 
+    "vt": 0.47999999999999998, 
     "display_name": "ChinaWindowlabel_149_U1.80_SHGC0.4785", 
     "identifier": "ChinaWindowlabel_149_U1.80_SHGC0.4785", 
     "u_factor": 1.8, 
