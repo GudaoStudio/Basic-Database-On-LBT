@@ -98,3 +98,7 @@
 
 
 # 6 已知但无法解决的问题
+
+## 6.1  游泳馆冬季设定温度大于夏季设定温度
+《民用建筑绿色性能计算标准》JGJ/T 449-2018 附录 C 第60页出现了Energyplus计算不允许的情况，但该情况不能通过标准化的 Program Type 进行修正。
+![image](https://github.com/GudaoStudio/Basic-Database-On-LBT/assets/51848364/41f6cb7f-9158-4edf-a9a1-337728e95182)
