@@ -48,7 +48,7 @@
 - [x] ~~符合《民用建筑绿色性能计算标准》JGJ/T 449-2018 附录 C 的 Program Type（除居住建筑）~~
 - [x] ~~符合《建筑围护结构节能工程做法及数据》09J908-3 的标准做法的 Construction（大部分，鄙人数据库资源有限）~~
 - [x] ~~建筑门窗节能性能标识网中标识产品目录中的提供节能门窗参数，按U值、SHGC值以及标签序号排列（详尽名称无法填写，允许字符有限）~~
-- [ ] 符合《近零能耗建筑技术标准》JGJ/T 449-2018 附录 A 的 Program Type
+- [ ] 符合《近零能耗建筑技术标准》GB/T 51350-2019 附录 A 的 Program Type
 
 期望有人和我来进行这些内容的补充，欢迎在Issue中讨论如何做这些内容：
 
@@ -64,23 +64,27 @@
 
 `C:\Users\[Username]\AppData\Roaming\ladybug_tools\standards`
 
-<center>这里应该有图，有机会就加<center>
+![image](https://github.com/GudaoStudio/Basic-Database-On-LBT/assets/51848364/5575bb35-3c18-464c-8568-4fbbe2ad30f1)
+
 
 用户可以将库中的文件拉取至本地后放入`standards`目录下的对应子目录中，即可通过文本输入（需要名称完备）或通过HB Search相关组件输入关键词搜索调用（强烈推荐！）。
 
-<center>这里应该有图，有机会就加<center>
+![image](https://github.com/GudaoStudio/Basic-Database-On-LBT/assets/51848364/7078bd8e-d510-4358-a0a8-750e723ed97a)
+
 
 ## 4.2  通过本地加载库文件进行调用
 
 由于库中文件均是符合Honeybee文件标准的.hbjson文件，所以可以通过HB Load Objects 组件通过给定Honeybee File路径的形式进行读取使用。
 
-<center>这里应该有图，有机会就加<center>
+![image](https://github.com/GudaoStudio/Basic-Database-On-LBT/assets/51848364/2d32ee07-8fde-452c-b8c7-0f138e87b5fd)
+
 
 ## 4.3  通过复制字符串进行调用
 
 如果特别懒，或不会下载文件的用户（真的有）。可以使用 HB String To Object 组件通过在Panel中粘贴仓库中公开的代码来获得HB Objects。但是Grasshopper中，在Panel中的直接复制粘贴有行数限制，如果超出限制则会被截断，导致数据丢失。此法仅小案例应急用。
 
-<center>这里应该有图，有机会就加<center>
+![image](https://github.com/GudaoStudio/Basic-Database-On-LBT/assets/51848364/3822a633-d1a5-43a6-a065-3640575def34)
+
 
 # 5 如何参与这个库的维护
 
