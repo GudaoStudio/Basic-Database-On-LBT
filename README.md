@@ -1,5 +1,3 @@
-![image](https://github.com/GudaoStudio/Basic-Database-On-LBT/assets/51848364/1e14d227-0331-45d5-a67d-bb0fdea6b20c)![image](https://github.com/GudaoStudio/Basic-Database-On-LBT/assets/51848364/45164dbb-bd5c-4e66-a38a-f5930b0ac6e1)# Basic-Database-On-LBT
-
 欢迎！此仓库主要储存执行Ladybug、Honeybee-Energy、Honeybee-Radiance、Dragonfly时必不可少的可复用参数信息。  
 
 它可以是Program Type、Loads、Schedule、Construction-Set、Construction、Modifie Set 以及 Modifie 等复用率较高的内容。也可以是明确了来源和具体使用范围的气象数据文件（.EPW File）及设计日文件（.DDY File）。
