@@ -1,4 +1,4 @@
-# Basic-Database-On-LBT
+![image](https://github.com/GudaoStudio/Basic-Database-On-LBT/assets/51848364/1e14d227-0331-45d5-a67d-bb0fdea6b20c)![image](https://github.com/GudaoStudio/Basic-Database-On-LBT/assets/51848364/45164dbb-bd5c-4e66-a38a-f5930b0ac6e1)# Basic-Database-On-LBT
 
 欢迎！此仓库主要储存执行Ladybug、Honeybee-Energy、Honeybee-Radiance、Dragonfly时必不可少的可复用参数信息。  
 
@@ -88,14 +88,25 @@
 
 # 5 如何参与这个库的维护
 
-先留空，有空再补充。
+维护这个库可以通过发PR(Pull requests)，提 Issues 和群聊互动几个渠道参与库的维护。
 
-## 5.1  正确的提issue和做意见分享
+## 5.1  提issue
+1.注册 Github 账户
+2.在 Basic-Database-On-LBT 项目仓库中的左上角点击Issues。
+3.在Issues界面的右上角点击 New Issue。
+4.填写你遇到的问题或想交流的问题乃至你想要我为你做的事情（如果我能力足够且精力允许）
+5.点击Submit new issue 发送Issues，此时这个问题会像一个正式的帖子一样被所有人浏览。
 
 ## 5.2  Pull requests
+1.注册 Github 账户
+2.Fork Basic-Database-On-LBT 项目中的内容，同时可以使用 Git 或者 Github Desktop 克隆仓库中的内容到本地并建立同步。
+3.使用任意顺手的编辑器直接修改源文件 或 使用HB Dump Objects的组件将任意HB Object翻译成JSON文件并放置于仓库的本地文件夹中（当然，这可以是任意符合该仓库需要的东西）。
+4.使用 Git 命令或者 Github Desktop填写 Commit Message，并进行Pull requests提交你的修改或贡献。
+5.等待审核，审核通过后我会进行合并，届时可以在主库中查看您的修改与贡献。
+注意：一般情况下审核者会是我，只要你能写清楚你提交的东西是什么，我不在乎你写的是中文还是英文
 
 ## 5.3  群聊互动
-
+登录Fly！Ladybug&Honeybee 的交流QQ群或微信群，向我提出你的疑问或问题（切勿@我）
 
 # 6 已知但无法解决的问题
 
