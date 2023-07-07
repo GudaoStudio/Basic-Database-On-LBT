@@ -66,7 +66,7 @@
 ![image](https://github.com/GudaoStudio/Basic-Database-On-LBT/assets/51848364/5575bb35-3c18-464c-8568-4fbbe2ad30f1)
 
 
-用户可以将库中的文件拉取至本地后放入`standards`目录下的对应子目录中，即可通过文本输入（需要名称完备）或通过HB Search相关组件输入关键词搜索调用（强烈推荐！）。
+用户可以将库中的文件拉取至本地后放入`standards`目录下的对应子目录中，重新启动Rhino及Grasshooper，即可通过文本输入（需要名称完备）或通过HB Search相关组件输入关键词搜索调用（强烈推荐！）。
 
 ![image](https://github.com/GudaoStudio/Basic-Database-On-LBT/assets/51848364/7078bd8e-d510-4358-a0a8-750e723ed97a)
 
