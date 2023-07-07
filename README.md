@@ -1,7 +1,7 @@
 # Basic-Database-On-LBT
 欢迎！此仓库主要储存执行Ladybug、Honeybee-Energy、Honeybee-Radiance、Dragonfly时必不可少的可复用参数信息。  
 
-它可以是Program Type、Loads、Schedule、Construction-Set、Construction、Modifie Set 以及 Modifie 等复用率较高的内容。也可以是明确了来源和具体使用范围的气象数据文件（.EPW File）及设计日文件（.DDY File）。
+它可以是 Program Type、Loads、Schedule、Construction-Set、Construction、Modifie Set 以及 Modifie 等复用率较高的内容。也可以是明确了来源和具体使用范围的气象数据文件（.EPW File）及设计日文件（.DDY File）。
 
 目前，更新主要以Program Type为主，并拆分Loads与Schedule分发至其他文件下。Construction-Set、Construction会随机更新，这取决于鄙人怨种妹妹的工作热情，不可催。
 
