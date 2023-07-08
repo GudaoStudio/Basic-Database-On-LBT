@@ -1,0 +1,3557 @@
+{
+ "RISN-TG013-2012_21_U1.80_SHGC0.4785": {
+  "display_name": "RISN-TG013-2012_21_U1.80_SHGC0.4785", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_21_U1.80_SHGC0.4785", 
+  "materials": [
+   {
+    "shgc": 0.47850000000000004, 
+    "vt": 0.45000000000000001, 
+    "display_name": "RISN-TG013-2012_21_U1.80_SHGC0.4785", 
+    "identifier": "RISN-TG013-2012_21_U1.80_SHGC0.4785", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_51_U2.20_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_51_U2.20_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_51_U2.20_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_51_U2.20_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_51_U2.20_SHGC0.4524", 
+    "u_factor": 2.2000000000000002, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_133_U1.80_SHGC0.4176": {
+  "display_name": "RISN-TG013-2012_133_U1.80_SHGC0.4176", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_133_U1.80_SHGC0.4176", 
+  "materials": [
+   {
+    "shgc": 0.41759999999999997, 
+    "vt": 0.37, 
+    "display_name": "RISN-TG013-2012_133_U1.80_SHGC0.4176", 
+    "identifier": "RISN-TG013-2012_133_U1.80_SHGC0.4176", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_196_U2.80_SHGC0.4611": {
+  "display_name": "RISN-TG013-2012_196_U2.80_SHGC0.4611", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_196_U2.80_SHGC0.4611", 
+  "materials": [
+   {
+    "shgc": 0.46110000000000001, 
+    "vt": 0.48999999999999999, 
+    "display_name": "RISN-TG013-2012_196_U2.80_SHGC0.4611", 
+    "identifier": "RISN-TG013-2012_196_U2.80_SHGC0.4611", 
+    "u_factor": 2.7999999999999998, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_230_U0.80_SHGC0.5394": {
+  "display_name": "RISN-TG013-2012_230_U0.80_SHGC0.5394", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_230_U0.80_SHGC0.5394", 
+  "materials": [
+   {
+    "shgc": 0.53939999999999999, 
+    "vt": 0.66400000000000003, 
+    "display_name": "RISN-TG013-2012_230_U0.80_SHGC0.5394", 
+    "identifier": "RISN-TG013-2012_230_U0.80_SHGC0.5394", 
+    "u_factor": 0.80000000000000004, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_235_U1.90_SHGC0.6612": {
+  "display_name": "RISN-TG013-2012_235_U1.90_SHGC0.6612", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_235_U1.90_SHGC0.6612", 
+  "materials": [
+   {
+    "shgc": 0.66120000000000001, 
+    "vt": 0.73199999999999998, 
+    "display_name": "RISN-TG013-2012_235_U1.90_SHGC0.6612", 
+    "identifier": "RISN-TG013-2012_235_U1.90_SHGC0.6612", 
+    "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_172_U2.40_SHGC0.435": {
+  "display_name": "RISN-TG013-2012_172_U2.40_SHGC0.435", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_172_U2.40_SHGC0.435", 
+  "materials": [
+   {
+    "shgc": 0.435, 
+    "vt": 0.46999999999999997, 
+    "display_name": "RISN-TG013-2012_172_U2.40_SHGC0.435", 
+    "identifier": "RISN-TG013-2012_172_U2.40_SHGC0.435", 
+    "u_factor": 2.3999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_11_U2.00_SHGC0.4611": {
+  "display_name": "RISN-TG013-2012_11_U2.00_SHGC0.4611", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_11_U2.00_SHGC0.4611", 
+  "materials": [
+   {
+    "shgc": 0.46110000000000001, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_11_U2.00_SHGC0.4611", 
+    "identifier": "RISN-TG013-2012_11_U2.00_SHGC0.4611", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_48_U2.50_SHGC0.4176": {
+  "display_name": "RISN-TG013-2012_48_U2.50_SHGC0.4176", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_48_U2.50_SHGC0.4176", 
+  "materials": [
+   {
+    "shgc": 0.41759999999999997, 
+    "vt": 0.51000000000000001, 
+    "display_name": "RISN-TG013-2012_48_U2.50_SHGC0.4176", 
+    "identifier": "RISN-TG013-2012_48_U2.50_SHGC0.4176", 
+    "u_factor": 2.5, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_168_U1.80_SHGC0.435": {
+  "display_name": "RISN-TG013-2012_168_U1.80_SHGC0.435", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_168_U1.80_SHGC0.435", 
+  "materials": [
+   {
+    "shgc": 0.435, 
+    "vt": 0.45000000000000001, 
+    "display_name": "RISN-TG013-2012_168_U1.80_SHGC0.435", 
+    "identifier": "RISN-TG013-2012_168_U1.80_SHGC0.435", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_201_U2.30_SHGC0.4872": {
+  "display_name": "RISN-TG013-2012_201_U2.30_SHGC0.4872", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_201_U2.30_SHGC0.4872", 
+  "materials": [
+   {
+    "shgc": 0.48720000000000002, 
+    "vt": 0.48999999999999999, 
+    "display_name": "RISN-TG013-2012_201_U2.30_SHGC0.4872", 
+    "identifier": "RISN-TG013-2012_201_U2.30_SHGC0.4872", 
+    "u_factor": 2.2999999999999998, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_155_U1.80_SHGC0.4176": {
+  "display_name": "RISN-TG013-2012_155_U1.80_SHGC0.4176", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_155_U1.80_SHGC0.4176", 
+  "materials": [
+   {
+    "shgc": 0.41759999999999997, 
+    "vt": 0.45000000000000001, 
+    "display_name": "RISN-TG013-2012_155_U1.80_SHGC0.4176", 
+    "identifier": "RISN-TG013-2012_155_U1.80_SHGC0.4176", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_82_U1.70_SHGC0.3306": {
+  "display_name": "RISN-TG013-2012_82_U1.70_SHGC0.3306", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_82_U1.70_SHGC0.3306", 
+  "materials": [
+   {
+    "shgc": 0.3306, 
+    "vt": 0.41999999999999998, 
+    "display_name": "RISN-TG013-2012_82_U1.70_SHGC0.3306", 
+    "identifier": "RISN-TG013-2012_82_U1.70_SHGC0.3306", 
+    "u_factor": 1.7, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_67_U1.70_SHGC0.4089": {
+  "display_name": "RISN-TG013-2012_67_U1.70_SHGC0.4089", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_67_U1.70_SHGC0.4089", 
+  "materials": [
+   {
+    "shgc": 0.40889999999999999, 
+    "vt": 0.41999999999999998, 
+    "display_name": "RISN-TG013-2012_67_U1.70_SHGC0.4089", 
+    "identifier": "RISN-TG013-2012_67_U1.70_SHGC0.4089", 
+    "u_factor": 1.7, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_125_U1.80_SHGC0.4872": {
+  "display_name": "RISN-TG013-2012_125_U1.80_SHGC0.4872", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_125_U1.80_SHGC0.4872", 
+  "materials": [
+   {
+    "shgc": 0.48720000000000002, 
+    "vt": 0.48999999999999999, 
+    "display_name": "RISN-TG013-2012_125_U1.80_SHGC0.4872", 
+    "identifier": "RISN-TG013-2012_125_U1.80_SHGC0.4872", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_146_U1.60_SHGC0.4089": {
+  "display_name": "RISN-TG013-2012_146_U1.60_SHGC0.4089", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_146_U1.60_SHGC0.4089", 
+  "materials": [
+   {
+    "shgc": 0.40889999999999999, 
+    "vt": 0.44, 
+    "display_name": "RISN-TG013-2012_146_U1.60_SHGC0.4089", 
+    "identifier": "RISN-TG013-2012_146_U1.60_SHGC0.4089", 
+    "u_factor": 1.6000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_178_U2.60_SHGC0.2262": {
+  "display_name": "RISN-TG013-2012_178_U2.60_SHGC0.2262", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_178_U2.60_SHGC0.2262", 
+  "materials": [
+   {
+    "shgc": 0.22620000000000001, 
+    "vt": 0.27000000000000002, 
+    "display_name": "RISN-TG013-2012_178_U2.60_SHGC0.2262", 
+    "identifier": "RISN-TG013-2012_178_U2.60_SHGC0.2262", 
+    "u_factor": 2.6000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_197_U2.00_SHGC0.5046": {
+  "display_name": "RISN-TG013-2012_197_U2.00_SHGC0.5046", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_197_U2.00_SHGC0.5046", 
+  "materials": [
+   {
+    "shgc": 0.50459999999999994, 
+    "vt": 0.53000000000000003, 
+    "display_name": "RISN-TG013-2012_197_U2.00_SHGC0.5046", 
+    "identifier": "RISN-TG013-2012_197_U2.00_SHGC0.5046", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_205_U1.80_SHGC0.4263": {
+  "display_name": "RISN-TG013-2012_205_U1.80_SHGC0.4263", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_205_U1.80_SHGC0.4263", 
+  "materials": [
+   {
+    "shgc": 0.42630000000000001, 
+    "vt": 0.41999999999999998, 
+    "display_name": "RISN-TG013-2012_205_U1.80_SHGC0.4263", 
+    "identifier": "RISN-TG013-2012_205_U1.80_SHGC0.4263", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_167_U1.70_SHGC0.4089": {
+  "display_name": "RISN-TG013-2012_167_U1.70_SHGC0.4089", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_167_U1.70_SHGC0.4089", 
+  "materials": [
+   {
+    "shgc": 0.40889999999999999, 
+    "vt": 0.41999999999999998, 
+    "display_name": "RISN-TG013-2012_167_U1.70_SHGC0.4089", 
+    "identifier": "RISN-TG013-2012_167_U1.70_SHGC0.4089", 
+    "u_factor": 1.7, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_159_U2.00_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_159_U2.00_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_159_U2.00_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_159_U2.00_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_159_U2.00_SHGC0.4524", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_49_U2.00_SHGC0.3741": {
+  "display_name": "RISN-TG013-2012_49_U2.00_SHGC0.3741", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_49_U2.00_SHGC0.3741", 
+  "materials": [
+   {
+    "shgc": 0.37409999999999999, 
+    "vt": 0.46000000000000002, 
+    "display_name": "RISN-TG013-2012_49_U2.00_SHGC0.3741", 
+    "identifier": "RISN-TG013-2012_49_U2.00_SHGC0.3741", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_53_U1.90_SHGC0.4959": {
+  "display_name": "RISN-TG013-2012_53_U1.90_SHGC0.4959", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_53_U1.90_SHGC0.4959", 
+  "materials": [
+   {
+    "shgc": 0.49589999999999995, 
+    "vt": 0.5, 
+    "display_name": "RISN-TG013-2012_53_U1.90_SHGC0.4959", 
+    "identifier": "RISN-TG013-2012_53_U1.90_SHGC0.4959", 
+    "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_184_U2.30_SHGC0.261": {
+  "display_name": "RISN-TG013-2012_184_U2.30_SHGC0.261", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_184_U2.30_SHGC0.261", 
+  "materials": [
+   {
+    "shgc": 0.26100000000000001, 
+    "vt": 0.45000000000000001, 
+    "display_name": "RISN-TG013-2012_184_U2.30_SHGC0.261", 
+    "identifier": "RISN-TG013-2012_184_U2.30_SHGC0.261", 
+    "u_factor": 2.2999999999999998, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_171_U2.20_SHGC0.2349": {
+  "display_name": "RISN-TG013-2012_171_U2.20_SHGC0.2349", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_171_U2.20_SHGC0.2349", 
+  "materials": [
+   {
+    "shgc": 0.23490000000000003, 
+    "vt": 0.34999999999999998, 
+    "display_name": "RISN-TG013-2012_171_U2.20_SHGC0.2349", 
+    "identifier": "RISN-TG013-2012_171_U2.20_SHGC0.2349", 
+    "u_factor": 2.2000000000000002, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_16_U2.10_SHGC0.5133": {
+  "display_name": "RISN-TG013-2012_16_U2.10_SHGC0.5133", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_16_U2.10_SHGC0.5133", 
+  "materials": [
+   {
+    "shgc": 0.51329999999999998, 
+    "vt": 0.53000000000000003, 
+    "display_name": "RISN-TG013-2012_16_U2.10_SHGC0.5133", 
+    "identifier": "RISN-TG013-2012_16_U2.10_SHGC0.5133", 
+    "u_factor": 2.1000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_187_U3.00_SHGC0.522": {
+  "display_name": "RISN-TG013-2012_187_U3.00_SHGC0.522", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_187_U3.00_SHGC0.522", 
+  "materials": [
+   {
+    "shgc": 0.52200000000000002, 
+    "vt": 0.56999999999999995, 
+    "display_name": "RISN-TG013-2012_187_U3.00_SHGC0.522", 
+    "identifier": "RISN-TG013-2012_187_U3.00_SHGC0.522", 
+    "u_factor": 3.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_6_U1.50_SHGC0.348": {
+  "display_name": "RISN-TG013-2012_6_U1.50_SHGC0.348", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_6_U1.50_SHGC0.348", 
+  "materials": [
+   {
+    "shgc": 0.34800000000000003, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_6_U1.50_SHGC0.348", 
+    "identifier": "RISN-TG013-2012_6_U1.50_SHGC0.348", 
+    "u_factor": 1.5, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_192_U2.00_SHGC0.2001": {
+  "display_name": "RISN-TG013-2012_192_U2.00_SHGC0.2001", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_192_U2.00_SHGC0.2001", 
+  "materials": [
+   {
+    "shgc": 0.2001, 
+    "vt": 0.34000000000000002, 
+    "display_name": "RISN-TG013-2012_192_U2.00_SHGC0.2001", 
+    "identifier": "RISN-TG013-2012_192_U2.00_SHGC0.2001", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_131_U1.80_SHGC0.4176": {
+  "display_name": "RISN-TG013-2012_131_U1.80_SHGC0.4176", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_131_U1.80_SHGC0.4176", 
+  "materials": [
+   {
+    "shgc": 0.41759999999999997, 
+    "vt": 0.46000000000000002, 
+    "display_name": "RISN-TG013-2012_131_U1.80_SHGC0.4176", 
+    "identifier": "RISN-TG013-2012_131_U1.80_SHGC0.4176", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_211_U2.00_SHGC0.261": {
+  "display_name": "RISN-TG013-2012_211_U2.00_SHGC0.261", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_211_U2.00_SHGC0.261", 
+  "materials": [
+   {
+    "shgc": 0.26100000000000001, 
+    "vt": 0.41999999999999998, 
+    "display_name": "RISN-TG013-2012_211_U2.00_SHGC0.261", 
+    "identifier": "RISN-TG013-2012_211_U2.00_SHGC0.261", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_70_U1.80_SHGC0.435": {
+  "display_name": "RISN-TG013-2012_70_U1.80_SHGC0.435", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_70_U1.80_SHGC0.435", 
+  "materials": [
+   {
+    "shgc": 0.435, 
+    "vt": 0.44, 
+    "display_name": "RISN-TG013-2012_70_U1.80_SHGC0.435", 
+    "identifier": "RISN-TG013-2012_70_U1.80_SHGC0.435", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_119_U1.90_SHGC0.3045": {
+  "display_name": "RISN-TG013-2012_119_U1.90_SHGC0.3045", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_119_U1.90_SHGC0.3045", 
+  "materials": [
+   {
+    "shgc": 0.30449999999999999, 
+    "vt": 0.34999999999999998, 
+    "display_name": "RISN-TG013-2012_119_U1.90_SHGC0.3045", 
+    "identifier": "RISN-TG013-2012_119_U1.90_SHGC0.3045", 
+    "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_89_U2.10_SHGC0.435": {
+  "display_name": "RISN-TG013-2012_89_U2.10_SHGC0.435", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_89_U2.10_SHGC0.435", 
+  "materials": [
+   {
+    "shgc": 0.435, 
+    "vt": 0.46000000000000002, 
+    "display_name": "RISN-TG013-2012_89_U2.10_SHGC0.435", 
+    "identifier": "RISN-TG013-2012_89_U2.10_SHGC0.435", 
+    "u_factor": 2.1000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_105_U1.80_SHGC0.4785": {
+  "display_name": "RISN-TG013-2012_105_U1.80_SHGC0.4785", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_105_U1.80_SHGC0.4785", 
+  "materials": [
+   {
+    "shgc": 0.47850000000000004, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_105_U1.80_SHGC0.4785", 
+    "identifier": "RISN-TG013-2012_105_U1.80_SHGC0.4785", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_7_U1.60_SHGC0.4176": {
+  "display_name": "RISN-TG013-2012_7_U1.60_SHGC0.4176", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_7_U1.60_SHGC0.4176", 
+  "materials": [
+   {
+    "shgc": 0.41759999999999997, 
+    "vt": 0.37, 
+    "display_name": "RISN-TG013-2012_7_U1.60_SHGC0.4176", 
+    "identifier": "RISN-TG013-2012_7_U1.60_SHGC0.4176", 
+    "u_factor": 1.6000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_85_U2.10_SHGC0.435": {
+  "display_name": "RISN-TG013-2012_85_U2.10_SHGC0.435", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_85_U2.10_SHGC0.435", 
+  "materials": [
+   {
+    "shgc": 0.435, 
+    "vt": 0.41999999999999998, 
+    "display_name": "RISN-TG013-2012_85_U2.10_SHGC0.435", 
+    "identifier": "RISN-TG013-2012_85_U2.10_SHGC0.435", 
+    "u_factor": 2.1000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_75_U2.10_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_75_U2.10_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_75_U2.10_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.5, 
+    "display_name": "RISN-TG013-2012_75_U2.10_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_75_U2.10_SHGC0.4524", 
+    "u_factor": 2.1000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_58_U1.80_SHGC0.435": {
+  "display_name": "RISN-TG013-2012_58_U1.80_SHGC0.435", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_58_U1.80_SHGC0.435", 
+  "materials": [
+   {
+    "shgc": 0.435, 
+    "vt": 0.46999999999999997, 
+    "display_name": "RISN-TG013-2012_58_U1.80_SHGC0.435", 
+    "identifier": "RISN-TG013-2012_58_U1.80_SHGC0.435", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_233_U0.90_SHGC0.6612": {
+  "display_name": "RISN-TG013-2012_233_U0.90_SHGC0.6612", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_233_U0.90_SHGC0.6612", 
+  "materials": [
+   {
+    "shgc": 0.66120000000000001, 
+    "vt": 0.64300000000000002, 
+    "display_name": "RISN-TG013-2012_233_U0.90_SHGC0.6612", 
+    "identifier": "RISN-TG013-2012_233_U0.90_SHGC0.6612", 
+    "u_factor": 0.90000000000000002, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_87_U1.80_SHGC0.435": {
+  "display_name": "RISN-TG013-2012_87_U1.80_SHGC0.435", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_87_U1.80_SHGC0.435", 
+  "materials": [
+   {
+    "shgc": 0.435, 
+    "vt": 0.46000000000000002, 
+    "display_name": "RISN-TG013-2012_87_U1.80_SHGC0.435", 
+    "identifier": "RISN-TG013-2012_87_U1.80_SHGC0.435", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_115_U1.80_SHGC0.3915": {
+  "display_name": "RISN-TG013-2012_115_U1.80_SHGC0.3915", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_115_U1.80_SHGC0.3915", 
+  "materials": [
+   {
+    "shgc": 0.39150000000000001, 
+    "vt": 0.45000000000000001, 
+    "display_name": "RISN-TG013-2012_115_U1.80_SHGC0.3915", 
+    "identifier": "RISN-TG013-2012_115_U1.80_SHGC0.3915", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_64_U1.50_SHGC0.4785": {
+  "display_name": "RISN-TG013-2012_64_U1.50_SHGC0.4785", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_64_U1.50_SHGC0.4785", 
+  "materials": [
+   {
+    "shgc": 0.47850000000000004, 
+    "vt": 0.51000000000000001, 
+    "display_name": "RISN-TG013-2012_64_U1.50_SHGC0.4785", 
+    "identifier": "RISN-TG013-2012_64_U1.50_SHGC0.4785", 
+    "u_factor": 1.5, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_100_U1.80_SHGC0.435": {
+  "display_name": "RISN-TG013-2012_100_U1.80_SHGC0.435", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_100_U1.80_SHGC0.435", 
+  "materials": [
+   {
+    "shgc": 0.435, 
+    "vt": 0.44, 
+    "display_name": "RISN-TG013-2012_100_U1.80_SHGC0.435", 
+    "identifier": "RISN-TG013-2012_100_U1.80_SHGC0.435", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_169_U1.80_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_169_U1.80_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_169_U1.80_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_169_U1.80_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_169_U1.80_SHGC0.4524", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_161_U1.80_SHGC0.4437": {
+  "display_name": "RISN-TG013-2012_161_U1.80_SHGC0.4437", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_161_U1.80_SHGC0.4437", 
+  "materials": [
+   {
+    "shgc": 0.44369999999999998, 
+    "vt": 0.48999999999999999, 
+    "display_name": "RISN-TG013-2012_161_U1.80_SHGC0.4437", 
+    "identifier": "RISN-TG013-2012_161_U1.80_SHGC0.4437", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_153_U2.00_SHGC0.4959": {
+  "display_name": "RISN-TG013-2012_153_U2.00_SHGC0.4959", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_153_U2.00_SHGC0.4959", 
+  "materials": [
+   {
+    "shgc": 0.49589999999999995, 
+    "vt": 0.48999999999999999, 
+    "display_name": "RISN-TG013-2012_153_U2.00_SHGC0.4959", 
+    "identifier": "RISN-TG013-2012_153_U2.00_SHGC0.4959", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_139_U1.80_SHGC0.4263": {
+  "display_name": "RISN-TG013-2012_139_U1.80_SHGC0.4263", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_139_U1.80_SHGC0.4263", 
+  "materials": [
+   {
+    "shgc": 0.42630000000000001, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_139_U1.80_SHGC0.4263", 
+    "identifier": "RISN-TG013-2012_139_U1.80_SHGC0.4263", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_77_U1.80_SHGC0.4089": {
+  "display_name": "RISN-TG013-2012_77_U1.80_SHGC0.4089", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_77_U1.80_SHGC0.4089", 
+  "materials": [
+   {
+    "shgc": 0.40889999999999999, 
+    "vt": 0.46999999999999997, 
+    "display_name": "RISN-TG013-2012_77_U1.80_SHGC0.4089", 
+    "identifier": "RISN-TG013-2012_77_U1.80_SHGC0.4089", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_99_U1.80_SHGC0.4611": {
+  "display_name": "RISN-TG013-2012_99_U1.80_SHGC0.4611", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_99_U1.80_SHGC0.4611", 
+  "materials": [
+   {
+    "shgc": 0.46110000000000001, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_99_U1.80_SHGC0.4611", 
+    "identifier": "RISN-TG013-2012_99_U1.80_SHGC0.4611", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_62_U1.50_SHGC0.4785": {
+  "display_name": "RISN-TG013-2012_62_U1.50_SHGC0.4785", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_62_U1.50_SHGC0.4785", 
+  "materials": [
+   {
+    "shgc": 0.47850000000000004, 
+    "vt": 0.46000000000000002, 
+    "display_name": "RISN-TG013-2012_62_U1.50_SHGC0.4785", 
+    "identifier": "RISN-TG013-2012_62_U1.50_SHGC0.4785", 
+    "u_factor": 1.5, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_73_U1.80_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_73_U1.80_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_73_U1.80_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.5, 
+    "display_name": "RISN-TG013-2012_73_U1.80_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_73_U1.80_SHGC0.4524", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_228_U1.30_SHGC0.6786": {
+  "display_name": "RISN-TG013-2012_228_U1.30_SHGC0.6786", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_228_U1.30_SHGC0.6786", 
+  "materials": [
+   {
+    "shgc": 0.67859999999999998, 
+    "vt": 0.69499999999999995, 
+    "display_name": "RISN-TG013-2012_228_U1.30_SHGC0.6786", 
+    "identifier": "RISN-TG013-2012_228_U1.30_SHGC0.6786", 
+    "u_factor": 1.3, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_102_U2.00_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_102_U2.00_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_102_U2.00_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_102_U2.00_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_102_U2.00_SHGC0.4524", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_221_U2.50_SHGC0.261": {
+  "display_name": "RISN-TG013-2012_221_U2.50_SHGC0.261", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_221_U2.50_SHGC0.261", 
+  "materials": [
+   {
+    "shgc": 0.26100000000000001, 
+    "vt": 0.32000000000000001, 
+    "display_name": "RISN-TG013-2012_221_U2.50_SHGC0.261", 
+    "identifier": "RISN-TG013-2012_221_U2.50_SHGC0.261", 
+    "u_factor": 2.5, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_214_U1.80_SHGC0.2436": {
+  "display_name": "RISN-TG013-2012_214_U1.80_SHGC0.2436", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_214_U1.80_SHGC0.2436", 
+  "materials": [
+   {
+    "shgc": 0.24360000000000001, 
+    "vt": 0.35999999999999999, 
+    "display_name": "RISN-TG013-2012_214_U1.80_SHGC0.2436", 
+    "identifier": "RISN-TG013-2012_214_U1.80_SHGC0.2436", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_81_U1.80_SHGC0.3306": {
+  "display_name": "RISN-TG013-2012_81_U1.80_SHGC0.3306", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_81_U1.80_SHGC0.3306", 
+  "materials": [
+   {
+    "shgc": 0.3306, 
+    "vt": 0.41999999999999998, 
+    "display_name": "RISN-TG013-2012_81_U1.80_SHGC0.3306", 
+    "identifier": "RISN-TG013-2012_81_U1.80_SHGC0.3306", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_98_U1.40_SHGC0.4698": {
+  "display_name": "RISN-TG013-2012_98_U1.40_SHGC0.4698", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_98_U1.40_SHGC0.4698", 
+  "materials": [
+   {
+    "shgc": 0.46980000000000005, 
+    "vt": 0.46000000000000002, 
+    "display_name": "RISN-TG013-2012_98_U1.40_SHGC0.4698", 
+    "identifier": "RISN-TG013-2012_98_U1.40_SHGC0.4698", 
+    "u_factor": 1.3999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_122_U1.50_SHGC0.4176": {
+  "display_name": "RISN-TG013-2012_122_U1.50_SHGC0.4176", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_122_U1.50_SHGC0.4176", 
+  "materials": [
+   {
+    "shgc": 0.41759999999999997, 
+    "vt": 0.41999999999999998, 
+    "display_name": "RISN-TG013-2012_122_U1.50_SHGC0.4176", 
+    "identifier": "RISN-TG013-2012_122_U1.50_SHGC0.4176", 
+    "u_factor": 1.5, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_5_U1.80_SHGC0.435": {
+  "display_name": "RISN-TG013-2012_5_U1.80_SHGC0.435", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_5_U1.80_SHGC0.435", 
+  "materials": [
+   {
+    "shgc": 0.435, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_5_U1.80_SHGC0.435", 
+    "identifier": "RISN-TG013-2012_5_U1.80_SHGC0.435", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_86_U1.80_SHGC0.4872": {
+  "display_name": "RISN-TG013-2012_86_U1.80_SHGC0.4872", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_86_U1.80_SHGC0.4872", 
+  "materials": [
+   {
+    "shgc": 0.48720000000000002, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_86_U1.80_SHGC0.4872", 
+    "identifier": "RISN-TG013-2012_86_U1.80_SHGC0.4872", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_84_U1.10_SHGC0.2349": {
+  "display_name": "RISN-TG013-2012_84_U1.10_SHGC0.2349", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_84_U1.10_SHGC0.2349", 
+  "materials": [
+   {
+    "shgc": 0.23490000000000003, 
+    "vt": 0.35999999999999999, 
+    "display_name": "RISN-TG013-2012_84_U1.10_SHGC0.2349", 
+    "identifier": "RISN-TG013-2012_84_U1.10_SHGC0.2349", 
+    "u_factor": 1.1000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_101_U1.80_SHGC0.4959": {
+  "display_name": "RISN-TG013-2012_101_U1.80_SHGC0.4959", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_101_U1.80_SHGC0.4959", 
+  "materials": [
+   {
+    "shgc": 0.49589999999999995, 
+    "vt": 0.48999999999999999, 
+    "display_name": "RISN-TG013-2012_101_U1.80_SHGC0.4959", 
+    "identifier": "RISN-TG013-2012_101_U1.80_SHGC0.4959", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_150_U1.70_SHGC0.3915": {
+  "display_name": "RISN-TG013-2012_150_U1.70_SHGC0.3915", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_150_U1.70_SHGC0.3915", 
+  "materials": [
+   {
+    "shgc": 0.39150000000000001, 
+    "vt": 0.40000000000000002, 
+    "display_name": "RISN-TG013-2012_150_U1.70_SHGC0.3915", 
+    "identifier": "RISN-TG013-2012_150_U1.70_SHGC0.3915", 
+    "u_factor": 1.7, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_179_U3.10_SHGC0.4872": {
+  "display_name": "RISN-TG013-2012_179_U3.10_SHGC0.4872", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_179_U3.10_SHGC0.4872", 
+  "materials": [
+   {
+    "shgc": 0.48720000000000002, 
+    "vt": 0.52000000000000002, 
+    "display_name": "RISN-TG013-2012_179_U3.10_SHGC0.4872", 
+    "identifier": "RISN-TG013-2012_179_U3.10_SHGC0.4872", 
+    "u_factor": 3.1000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_123_U1.80_SHGC0.4611": {
+  "display_name": "RISN-TG013-2012_123_U1.80_SHGC0.4611", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_123_U1.80_SHGC0.4611", 
+  "materials": [
+   {
+    "shgc": 0.46110000000000001, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_123_U1.80_SHGC0.4611", 
+    "identifier": "RISN-TG013-2012_123_U1.80_SHGC0.4611", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_23_U1.90_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_23_U1.90_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_23_U1.90_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.41999999999999998, 
+    "display_name": "RISN-TG013-2012_23_U1.90_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_23_U1.90_SHGC0.4524", 
+    "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_175_U2.10_SHGC0.3306": {
+  "display_name": "RISN-TG013-2012_175_U2.10_SHGC0.3306", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_175_U2.10_SHGC0.3306", 
+  "materials": [
+   {
+    "shgc": 0.3306, 
+    "vt": 0.40000000000000002, 
+    "display_name": "RISN-TG013-2012_175_U2.10_SHGC0.3306", 
+    "identifier": "RISN-TG013-2012_175_U2.10_SHGC0.3306", 
+    "u_factor": 2.1000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_147_U1.80_SHGC0.4089": {
+  "display_name": "RISN-TG013-2012_147_U1.80_SHGC0.4089", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_147_U1.80_SHGC0.4089", 
+  "materials": [
+   {
+    "shgc": 0.40889999999999999, 
+    "vt": 0.34999999999999998, 
+    "display_name": "RISN-TG013-2012_147_U1.80_SHGC0.4089", 
+    "identifier": "RISN-TG013-2012_147_U1.80_SHGC0.4089", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_113_U1.90_SHGC0.4611": {
+  "display_name": "RISN-TG013-2012_113_U1.90_SHGC0.4611", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_113_U1.90_SHGC0.4611", 
+  "materials": [
+   {
+    "shgc": 0.46110000000000001, 
+    "vt": 0.5, 
+    "display_name": "RISN-TG013-2012_113_U1.90_SHGC0.4611", 
+    "identifier": "RISN-TG013-2012_113_U1.90_SHGC0.4611", 
+    "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_24_U1.90_SHGC0.4002": {
+  "display_name": "RISN-TG013-2012_24_U1.90_SHGC0.4002", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_24_U1.90_SHGC0.4002", 
+  "materials": [
+   {
+    "shgc": 0.4002, 
+    "vt": 0.39000000000000001, 
+    "display_name": "RISN-TG013-2012_24_U1.90_SHGC0.4002", 
+    "identifier": "RISN-TG013-2012_24_U1.90_SHGC0.4002", 
+    "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_44_U2.20_SHGC0.3393": {
+  "display_name": "RISN-TG013-2012_44_U2.20_SHGC0.3393", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_44_U2.20_SHGC0.3393", 
+  "materials": [
+   {
+    "shgc": 0.33929999999999999, 
+    "vt": 0.40000000000000002, 
+    "display_name": "RISN-TG013-2012_44_U2.20_SHGC0.3393", 
+    "identifier": "RISN-TG013-2012_44_U2.20_SHGC0.3393", 
+    "u_factor": 2.2000000000000002, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_164_U1.80_SHGC0.4437": {
+  "display_name": "RISN-TG013-2012_164_U1.80_SHGC0.4437", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_164_U1.80_SHGC0.4437", 
+  "materials": [
+   {
+    "shgc": 0.44369999999999998, 
+    "vt": 0.48999999999999999, 
+    "display_name": "RISN-TG013-2012_164_U1.80_SHGC0.4437", 
+    "identifier": "RISN-TG013-2012_164_U1.80_SHGC0.4437", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_78_U1.00_SHGC0.4698": {
+  "display_name": "RISN-TG013-2012_78_U1.00_SHGC0.4698", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_78_U1.00_SHGC0.4698", 
+  "materials": [
+   {
+    "shgc": 0.46980000000000005, 
+    "vt": 0.48999999999999999, 
+    "display_name": "RISN-TG013-2012_78_U1.00_SHGC0.4698", 
+    "identifier": "RISN-TG013-2012_78_U1.00_SHGC0.4698", 
+    "u_factor": 1.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_79_U2.10_SHGC0.4698": {
+  "display_name": "RISN-TG013-2012_79_U2.10_SHGC0.4698", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_79_U2.10_SHGC0.4698", 
+  "materials": [
+   {
+    "shgc": 0.46980000000000005, 
+    "vt": 0.48999999999999999, 
+    "display_name": "RISN-TG013-2012_79_U2.10_SHGC0.4698", 
+    "identifier": "RISN-TG013-2012_79_U2.10_SHGC0.4698", 
+    "u_factor": 2.1000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_220_U2.10_SHGC0.2958": {
+  "display_name": "RISN-TG013-2012_220_U2.10_SHGC0.2958", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_220_U2.10_SHGC0.2958", 
+  "materials": [
+   {
+    "shgc": 0.29580000000000001, 
+    "vt": 0.35999999999999999, 
+    "display_name": "RISN-TG013-2012_220_U2.10_SHGC0.2958", 
+    "identifier": "RISN-TG013-2012_220_U2.10_SHGC0.2958", 
+    "u_factor": 2.1000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_229_U1.70_SHGC0.6786": {
+  "display_name": "RISN-TG013-2012_229_U1.70_SHGC0.6786", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_229_U1.70_SHGC0.6786", 
+  "materials": [
+   {
+    "shgc": 0.67859999999999998, 
+    "vt": 0.73699999999999999, 
+    "display_name": "RISN-TG013-2012_229_U1.70_SHGC0.6786", 
+    "identifier": "RISN-TG013-2012_229_U1.70_SHGC0.6786", 
+    "u_factor": 1.7, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_12_U1.90_SHGC0.4611": {
+  "display_name": "RISN-TG013-2012_12_U1.90_SHGC0.4611", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_12_U1.90_SHGC0.4611", 
+  "materials": [
+   {
+    "shgc": 0.46110000000000001, 
+    "vt": 0.48999999999999999, 
+    "display_name": "RISN-TG013-2012_12_U1.90_SHGC0.4611", 
+    "identifier": "RISN-TG013-2012_12_U1.90_SHGC0.4611", 
+    "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_199_U2.10_SHGC0.5046": {
+  "display_name": "RISN-TG013-2012_199_U2.10_SHGC0.5046", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_199_U2.10_SHGC0.5046", 
+  "materials": [
+   {
+    "shgc": 0.50459999999999994, 
+    "vt": 0.53000000000000003, 
+    "display_name": "RISN-TG013-2012_199_U2.10_SHGC0.5046", 
+    "identifier": "RISN-TG013-2012_199_U2.10_SHGC0.5046", 
+    "u_factor": 2.1000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_66_U2.10_SHGC0.5481": {
+  "display_name": "RISN-TG013-2012_66_U2.10_SHGC0.5481", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_66_U2.10_SHGC0.5481", 
+  "materials": [
+   {
+    "shgc": 0.54810000000000003, 
+    "vt": 0.55000000000000004, 
+    "display_name": "RISN-TG013-2012_66_U2.10_SHGC0.5481", 
+    "identifier": "RISN-TG013-2012_66_U2.10_SHGC0.5481", 
+    "u_factor": 2.1000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_71_U1.50_SHGC0.435": {
+  "display_name": "RISN-TG013-2012_71_U1.50_SHGC0.435", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_71_U1.50_SHGC0.435", 
+  "materials": [
+   {
+    "shgc": 0.435, 
+    "vt": 0.48999999999999999, 
+    "display_name": "RISN-TG013-2012_71_U1.50_SHGC0.435", 
+    "identifier": "RISN-TG013-2012_71_U1.50_SHGC0.435", 
+    "u_factor": 1.5, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_14_U2.10_SHGC0.5046": {
+  "display_name": "RISN-TG013-2012_14_U2.10_SHGC0.5046", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_14_U2.10_SHGC0.5046", 
+  "materials": [
+   {
+    "shgc": 0.50459999999999994, 
+    "vt": 0.48999999999999999, 
+    "display_name": "RISN-TG013-2012_14_U2.10_SHGC0.5046", 
+    "identifier": "RISN-TG013-2012_14_U2.10_SHGC0.5046", 
+    "u_factor": 2.1000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_72_U1.80_SHGC0.4437": {
+  "display_name": "RISN-TG013-2012_72_U1.80_SHGC0.4437", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_72_U1.80_SHGC0.4437", 
+  "materials": [
+   {
+    "shgc": 0.44369999999999998, 
+    "vt": 0.5, 
+    "display_name": "RISN-TG013-2012_72_U1.80_SHGC0.4437", 
+    "identifier": "RISN-TG013-2012_72_U1.80_SHGC0.4437", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_36_U1.90_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_36_U1.90_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_36_U1.90_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_36_U1.90_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_36_U1.90_SHGC0.4524", 
+    "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_55_U1.50_SHGC0.4176": {
+  "display_name": "RISN-TG013-2012_55_U1.50_SHGC0.4176", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_55_U1.50_SHGC0.4176", 
+  "materials": [
+   {
+    "shgc": 0.41759999999999997, 
+    "vt": 0.39000000000000001, 
+    "display_name": "RISN-TG013-2012_55_U1.50_SHGC0.4176", 
+    "identifier": "RISN-TG013-2012_55_U1.50_SHGC0.4176", 
+    "u_factor": 1.5, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_95_U2.00_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_95_U2.00_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_95_U2.00_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_95_U2.00_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_95_U2.00_SHGC0.4524", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_162_U1.90_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_162_U1.90_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_162_U1.90_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.46999999999999997, 
+    "display_name": "RISN-TG013-2012_162_U1.90_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_162_U1.90_SHGC0.4524", 
+    "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_166_U1.70_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_166_U1.70_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_166_U1.70_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.46999999999999997, 
+    "display_name": "RISN-TG013-2012_166_U1.70_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_166_U1.70_SHGC0.4524", 
+    "u_factor": 1.7, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_143_U1.80_SHGC0.4959": {
+  "display_name": "RISN-TG013-2012_143_U1.80_SHGC0.4959", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_143_U1.80_SHGC0.4959", 
+  "materials": [
+   {
+    "shgc": 0.49589999999999995, 
+    "vt": 0.48999999999999999, 
+    "display_name": "RISN-TG013-2012_143_U1.80_SHGC0.4959", 
+    "identifier": "RISN-TG013-2012_143_U1.80_SHGC0.4959", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_170_U2.00_SHGC0.2349": {
+  "display_name": "RISN-TG013-2012_170_U2.00_SHGC0.2349", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_170_U2.00_SHGC0.2349", 
+  "materials": [
+   {
+    "shgc": 0.23490000000000003, 
+    "vt": 0.34999999999999998, 
+    "display_name": "RISN-TG013-2012_170_U2.00_SHGC0.2349", 
+    "identifier": "RISN-TG013-2012_170_U2.00_SHGC0.2349", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_3_U1.00_SHGC0.3393": {
+  "display_name": "RISN-TG013-2012_3_U1.00_SHGC0.3393", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_3_U1.00_SHGC0.3393", 
+  "materials": [
+   {
+    "shgc": 0.33929999999999999, 
+    "vt": 0.46000000000000002, 
+    "display_name": "RISN-TG013-2012_3_U1.00_SHGC0.3393", 
+    "identifier": "RISN-TG013-2012_3_U1.00_SHGC0.3393", 
+    "u_factor": 1.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_207_U2.20_SHGC0.3915": {
+  "display_name": "RISN-TG013-2012_207_U2.20_SHGC0.3915", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_207_U2.20_SHGC0.3915", 
+  "materials": [
+   {
+    "shgc": 0.39150000000000001, 
+    "vt": 0.39000000000000001, 
+    "display_name": "RISN-TG013-2012_207_U2.20_SHGC0.3915", 
+    "identifier": "RISN-TG013-2012_207_U2.20_SHGC0.3915", 
+    "u_factor": 2.2000000000000002, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_195_U2.40_SHGC0.2697": {
+  "display_name": "RISN-TG013-2012_195_U2.40_SHGC0.2697", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_195_U2.40_SHGC0.2697", 
+  "materials": [
+   {
+    "shgc": 0.2697, 
+    "vt": 0.33000000000000002, 
+    "display_name": "RISN-TG013-2012_195_U2.40_SHGC0.2697", 
+    "identifier": "RISN-TG013-2012_195_U2.40_SHGC0.2697", 
+    "u_factor": 2.3999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_20_U1.80_SHGC0.4785": {
+  "display_name": "RISN-TG013-2012_20_U1.80_SHGC0.4785", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_20_U1.80_SHGC0.4785", 
+  "materials": [
+   {
+    "shgc": 0.47850000000000004, 
+    "vt": 0.45000000000000001, 
+    "display_name": "RISN-TG013-2012_20_U1.80_SHGC0.4785", 
+    "identifier": "RISN-TG013-2012_20_U1.80_SHGC0.4785", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_181_U2.00_SHGC0.3045": {
+  "display_name": "RISN-TG013-2012_181_U2.00_SHGC0.3045", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_181_U2.00_SHGC0.3045", 
+  "materials": [
+   {
+    "shgc": 0.30449999999999999, 
+    "vt": 0.35999999999999999, 
+    "display_name": "RISN-TG013-2012_181_U2.00_SHGC0.3045", 
+    "identifier": "RISN-TG013-2012_181_U2.00_SHGC0.3045", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_165_U1.80_SHGC0.4437": {
+  "display_name": "RISN-TG013-2012_165_U1.80_SHGC0.4437", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_165_U1.80_SHGC0.4437", 
+  "materials": [
+   {
+    "shgc": 0.44369999999999998, 
+    "vt": 0.48999999999999999, 
+    "display_name": "RISN-TG013-2012_165_U1.80_SHGC0.4437", 
+    "identifier": "RISN-TG013-2012_165_U1.80_SHGC0.4437", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_110_U1.80_SHGC0.4872": {
+  "display_name": "RISN-TG013-2012_110_U1.80_SHGC0.4872", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_110_U1.80_SHGC0.4872", 
+  "materials": [
+   {
+    "shgc": 0.48720000000000002, 
+    "vt": 0.5, 
+    "display_name": "RISN-TG013-2012_110_U1.80_SHGC0.4872", 
+    "identifier": "RISN-TG013-2012_110_U1.80_SHGC0.4872", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_127_U2.00_SHGC0.4263": {
+  "display_name": "RISN-TG013-2012_127_U2.00_SHGC0.4263", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_127_U2.00_SHGC0.4263", 
+  "materials": [
+   {
+    "shgc": 0.42630000000000001, 
+    "vt": 0.44, 
+    "display_name": "RISN-TG013-2012_127_U2.00_SHGC0.4263", 
+    "identifier": "RISN-TG013-2012_127_U2.00_SHGC0.4263", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_92_U1.90_SHGC0.4611": {
+  "display_name": "RISN-TG013-2012_92_U1.90_SHGC0.4611", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_92_U1.90_SHGC0.4611", 
+  "materials": [
+   {
+    "shgc": 0.46110000000000001, 
+    "vt": 0.46999999999999997, 
+    "display_name": "RISN-TG013-2012_92_U1.90_SHGC0.4611", 
+    "identifier": "RISN-TG013-2012_92_U1.90_SHGC0.4611", 
+    "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_19_U2.00_SHGC0.4959": {
+  "display_name": "RISN-TG013-2012_19_U2.00_SHGC0.4959", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_19_U2.00_SHGC0.4959", 
+  "materials": [
+   {
+    "shgc": 0.49589999999999995, 
+    "vt": 0.5, 
+    "display_name": "RISN-TG013-2012_19_U2.00_SHGC0.4959", 
+    "identifier": "RISN-TG013-2012_19_U2.00_SHGC0.4959", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_200_U2.30_SHGC0.4959": {
+  "display_name": "RISN-TG013-2012_200_U2.30_SHGC0.4959", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_200_U2.30_SHGC0.4959", 
+  "materials": [
+   {
+    "shgc": 0.49589999999999995, 
+    "vt": 0.53000000000000003, 
+    "display_name": "RISN-TG013-2012_200_U2.30_SHGC0.4959", 
+    "identifier": "RISN-TG013-2012_200_U2.30_SHGC0.4959", 
+    "u_factor": 2.2999999999999998, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_213_U2.10_SHGC0.2523": {
+  "display_name": "RISN-TG013-2012_213_U2.10_SHGC0.2523", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_213_U2.10_SHGC0.2523", 
+  "materials": [
+   {
+    "shgc": 0.25229999999999997, 
+    "vt": 0.39000000000000001, 
+    "display_name": "RISN-TG013-2012_213_U2.10_SHGC0.2523", 
+    "identifier": "RISN-TG013-2012_213_U2.10_SHGC0.2523", 
+    "u_factor": 2.1000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_176_U2.30_SHGC0.2436": {
+  "display_name": "RISN-TG013-2012_176_U2.30_SHGC0.2436", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_176_U2.30_SHGC0.2436", 
+  "materials": [
+   {
+    "shgc": 0.24360000000000001, 
+    "vt": 0.40999999999999998, 
+    "display_name": "RISN-TG013-2012_176_U2.30_SHGC0.2436", 
+    "identifier": "RISN-TG013-2012_176_U2.30_SHGC0.2436", 
+    "u_factor": 2.2999999999999998, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_124_U2.30_SHGC0.4959": {
+  "display_name": "RISN-TG013-2012_124_U2.30_SHGC0.4959", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_124_U2.30_SHGC0.4959", 
+  "materials": [
+   {
+    "shgc": 0.49589999999999995, 
+    "vt": 0.52000000000000002, 
+    "display_name": "RISN-TG013-2012_124_U2.30_SHGC0.4959", 
+    "identifier": "RISN-TG013-2012_124_U2.30_SHGC0.4959", 
+    "u_factor": 2.2999999999999998, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_134_U2.00_SHGC0.4263": {
+  "display_name": "RISN-TG013-2012_134_U2.00_SHGC0.4263", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_134_U2.00_SHGC0.4263", 
+  "materials": [
+   {
+    "shgc": 0.42630000000000001, 
+    "vt": 0.41999999999999998, 
+    "display_name": "RISN-TG013-2012_134_U2.00_SHGC0.4263", 
+    "identifier": "RISN-TG013-2012_134_U2.00_SHGC0.4263", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_157_U1.80_SHGC0.4437": {
+  "display_name": "RISN-TG013-2012_157_U1.80_SHGC0.4437", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_157_U1.80_SHGC0.4437", 
+  "materials": [
+   {
+    "shgc": 0.44369999999999998, 
+    "vt": 0.48999999999999999, 
+    "display_name": "RISN-TG013-2012_157_U1.80_SHGC0.4437", 
+    "identifier": "RISN-TG013-2012_157_U1.80_SHGC0.4437", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_219_U2.00_SHGC0.2958": {
+  "display_name": "RISN-TG013-2012_219_U2.00_SHGC0.2958", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_219_U2.00_SHGC0.2958", 
+  "materials": [
+   {
+    "shgc": 0.29580000000000001, 
+    "vt": 0.37, 
+    "display_name": "RISN-TG013-2012_219_U2.00_SHGC0.2958", 
+    "identifier": "RISN-TG013-2012_219_U2.00_SHGC0.2958", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_45_U2.20_SHGC0.4176": {
+  "display_name": "RISN-TG013-2012_45_U2.20_SHGC0.4176", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_45_U2.20_SHGC0.4176", 
+  "materials": [
+   {
+    "shgc": 0.41759999999999997, 
+    "vt": 0.52000000000000002, 
+    "display_name": "RISN-TG013-2012_45_U2.20_SHGC0.4176", 
+    "identifier": "RISN-TG013-2012_45_U2.20_SHGC0.4176", 
+    "u_factor": 2.2000000000000002, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_137_U1.40_SHGC0.3915": {
+  "display_name": "RISN-TG013-2012_137_U1.40_SHGC0.3915", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_137_U1.40_SHGC0.3915", 
+  "materials": [
+   {
+    "shgc": 0.39150000000000001, 
+    "vt": 0.45000000000000001, 
+    "display_name": "RISN-TG013-2012_137_U1.40_SHGC0.3915", 
+    "identifier": "RISN-TG013-2012_137_U1.40_SHGC0.3915", 
+    "u_factor": 1.3999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_203_U1.80_SHGC0.4263": {
+  "display_name": "RISN-TG013-2012_203_U1.80_SHGC0.4263", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_203_U1.80_SHGC0.4263", 
+  "materials": [
+   {
+    "shgc": 0.42630000000000001, 
+    "vt": 0.42999999999999999, 
+    "display_name": "RISN-TG013-2012_203_U1.80_SHGC0.4263", 
+    "identifier": "RISN-TG013-2012_203_U1.80_SHGC0.4263", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_109_U2.00_SHGC0.4437": {
+  "display_name": "RISN-TG013-2012_109_U2.00_SHGC0.4437", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_109_U2.00_SHGC0.4437", 
+  "materials": [
+   {
+    "shgc": 0.44369999999999998, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_109_U2.00_SHGC0.4437", 
+    "identifier": "RISN-TG013-2012_109_U2.00_SHGC0.4437", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_34_U1.90_SHGC0.435": {
+  "display_name": "RISN-TG013-2012_34_U1.90_SHGC0.435", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_34_U1.90_SHGC0.435", 
+  "materials": [
+   {
+    "shgc": 0.435, 
+    "vt": 0.46000000000000002, 
+    "display_name": "RISN-TG013-2012_34_U1.90_SHGC0.435", 
+    "identifier": "RISN-TG013-2012_34_U1.90_SHGC0.435", 
+    "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_224_U1.20_SHGC0.6003": {
+  "display_name": "RISN-TG013-2012_224_U1.20_SHGC0.6003", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_224_U1.20_SHGC0.6003", 
+  "materials": [
+   {
+    "shgc": 0.60029999999999994, 
+    "vt": 0.69599999999999995, 
+    "display_name": "RISN-TG013-2012_224_U1.20_SHGC0.6003", 
+    "identifier": "RISN-TG013-2012_224_U1.20_SHGC0.6003", 
+    "u_factor": 1.2, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_226_U1.70_SHGC0.6786": {
+  "display_name": "RISN-TG013-2012_226_U1.70_SHGC0.6786", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_226_U1.70_SHGC0.6786", 
+  "materials": [
+   {
+    "shgc": 0.67859999999999998, 
+    "vt": 0.73699999999999999, 
+    "display_name": "RISN-TG013-2012_226_U1.70_SHGC0.6786", 
+    "identifier": "RISN-TG013-2012_226_U1.70_SHGC0.6786", 
+    "u_factor": 1.7, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_190_U2.70_SHGC0.2175": {
+  "display_name": "RISN-TG013-2012_190_U2.70_SHGC0.2175", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_190_U2.70_SHGC0.2175", 
+  "materials": [
+   {
+    "shgc": 0.2175, 
+    "vt": 0.23999999999999999, 
+    "display_name": "RISN-TG013-2012_190_U2.70_SHGC0.2175", 
+    "identifier": "RISN-TG013-2012_190_U2.70_SHGC0.2175", 
+    "u_factor": 2.7000000000000002, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_160_U1.70_SHGC0.4698": {
+  "display_name": "RISN-TG013-2012_160_U1.70_SHGC0.4698", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_160_U1.70_SHGC0.4698", 
+  "materials": [
+   {
+    "shgc": 0.46980000000000005, 
+    "vt": 0.5, 
+    "display_name": "RISN-TG013-2012_160_U1.70_SHGC0.4698", 
+    "identifier": "RISN-TG013-2012_160_U1.70_SHGC0.4698", 
+    "u_factor": 1.7, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_182_U2.00_SHGC0.2349": {
+  "display_name": "RISN-TG013-2012_182_U2.00_SHGC0.2349", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_182_U2.00_SHGC0.2349", 
+  "materials": [
+   {
+    "shgc": 0.23490000000000003, 
+    "vt": 0.27000000000000002, 
+    "display_name": "RISN-TG013-2012_182_U2.00_SHGC0.2349", 
+    "identifier": "RISN-TG013-2012_182_U2.00_SHGC0.2349", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_145_U1.90_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_145_U1.90_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_145_U1.90_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_145_U1.90_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_145_U1.90_SHGC0.4524", 
+    "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_38_U1.70_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_38_U1.70_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_38_U1.70_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_38_U1.70_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_38_U1.70_SHGC0.4524", 
+    "u_factor": 1.7, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_94_U1.80_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_94_U1.80_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_94_U1.80_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.46999999999999997, 
+    "display_name": "RISN-TG013-2012_94_U1.80_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_94_U1.80_SHGC0.4524", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_189_U2.70_SHGC0.2784": {
+  "display_name": "RISN-TG013-2012_189_U2.70_SHGC0.2784", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_189_U2.70_SHGC0.2784", 
+  "materials": [
+   {
+    "shgc": 0.27839999999999998, 
+    "vt": 0.32000000000000001, 
+    "display_name": "RISN-TG013-2012_189_U2.70_SHGC0.2784", 
+    "identifier": "RISN-TG013-2012_189_U2.70_SHGC0.2784", 
+    "u_factor": 2.7000000000000002, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_93_U1.80_SHGC0.4611": {
+  "display_name": "RISN-TG013-2012_93_U1.80_SHGC0.4611", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_93_U1.80_SHGC0.4611", 
+  "materials": [
+   {
+    "shgc": 0.46110000000000001, 
+    "vt": 0.45000000000000001, 
+    "display_name": "RISN-TG013-2012_93_U1.80_SHGC0.4611", 
+    "identifier": "RISN-TG013-2012_93_U1.80_SHGC0.4611", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_57_U2.00_SHGC0.4611": {
+  "display_name": "RISN-TG013-2012_57_U2.00_SHGC0.4611", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_57_U2.00_SHGC0.4611", 
+  "materials": [
+   {
+    "shgc": 0.46110000000000001, 
+    "vt": 0.46000000000000002, 
+    "display_name": "RISN-TG013-2012_57_U2.00_SHGC0.4611", 
+    "identifier": "RISN-TG013-2012_57_U2.00_SHGC0.4611", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_17_U2.30_SHGC0.5046": {
+  "display_name": "RISN-TG013-2012_17_U2.30_SHGC0.5046", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_17_U2.30_SHGC0.5046", 
+  "materials": [
+   {
+    "shgc": 0.50459999999999994, 
+    "vt": 0.53000000000000003, 
+    "display_name": "RISN-TG013-2012_17_U2.30_SHGC0.5046", 
+    "identifier": "RISN-TG013-2012_17_U2.30_SHGC0.5046", 
+    "u_factor": 2.2999999999999998, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_103_U1.90_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_103_U1.90_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_103_U1.90_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_103_U1.90_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_103_U1.90_SHGC0.4524", 
+    "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_180_U1.80_SHGC0.2523": {
+  "display_name": "RISN-TG013-2012_180_U1.80_SHGC0.2523", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_180_U1.80_SHGC0.2523", 
+  "materials": [
+   {
+    "shgc": 0.25229999999999997, 
+    "vt": 0.40999999999999998, 
+    "display_name": "RISN-TG013-2012_180_U1.80_SHGC0.2523", 
+    "identifier": "RISN-TG013-2012_180_U1.80_SHGC0.2523", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_215_U2.30_SHGC0.3045": {
+  "display_name": "RISN-TG013-2012_215_U2.30_SHGC0.3045", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_215_U2.30_SHGC0.3045", 
+  "materials": [
+   {
+    "shgc": 0.30449999999999999, 
+    "vt": 0.38, 
+    "display_name": "RISN-TG013-2012_215_U2.30_SHGC0.3045", 
+    "identifier": "RISN-TG013-2012_215_U2.30_SHGC0.3045", 
+    "u_factor": 2.2999999999999998, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_26_U2.00_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_26_U2.00_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_26_U2.00_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_26_U2.00_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_26_U2.00_SHGC0.4524", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_39_U1.80_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_39_U1.80_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_39_U1.80_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_39_U1.80_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_39_U1.80_SHGC0.4524", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_194_U2.10_SHGC0.2697": {
+  "display_name": "RISN-TG013-2012_194_U2.10_SHGC0.2697", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_194_U2.10_SHGC0.2697", 
+  "materials": [
+   {
+    "shgc": 0.2697, 
+    "vt": 0.33000000000000002, 
+    "display_name": "RISN-TG013-2012_194_U2.10_SHGC0.2697", 
+    "identifier": "RISN-TG013-2012_194_U2.10_SHGC0.2697", 
+    "u_factor": 2.1000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_223_U1.30_SHGC0.5916": {
+  "display_name": "RISN-TG013-2012_223_U1.30_SHGC0.5916", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_223_U1.30_SHGC0.5916", 
+  "materials": [
+   {
+    "shgc": 0.59160000000000001, 
+    "vt": 0.69599999999999995, 
+    "display_name": "RISN-TG013-2012_223_U1.30_SHGC0.5916", 
+    "identifier": "RISN-TG013-2012_223_U1.30_SHGC0.5916", 
+    "u_factor": 1.3, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_76_U2.30_SHGC0.5481": {
+  "display_name": "RISN-TG013-2012_76_U2.30_SHGC0.5481", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_76_U2.30_SHGC0.5481", 
+  "materials": [
+   {
+    "shgc": 0.54810000000000003, 
+    "vt": 0.55000000000000004, 
+    "display_name": "RISN-TG013-2012_76_U2.30_SHGC0.5481", 
+    "identifier": "RISN-TG013-2012_76_U2.30_SHGC0.5481", 
+    "u_factor": 2.2999999999999998, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_144_U2.00_SHGC0.4002": {
+  "display_name": "RISN-TG013-2012_144_U2.00_SHGC0.4002", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_144_U2.00_SHGC0.4002", 
+  "materials": [
+   {
+    "shgc": 0.4002, 
+    "vt": 0.44, 
+    "display_name": "RISN-TG013-2012_144_U2.00_SHGC0.4002", 
+    "identifier": "RISN-TG013-2012_144_U2.00_SHGC0.4002", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_42_U2.10_SHGC0.3393": {
+  "display_name": "RISN-TG013-2012_42_U2.10_SHGC0.3393", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_42_U2.10_SHGC0.3393", 
+  "materials": [
+   {
+    "shgc": 0.33929999999999999, 
+    "vt": 0.40000000000000002, 
+    "display_name": "RISN-TG013-2012_42_U2.10_SHGC0.3393", 
+    "identifier": "RISN-TG013-2012_42_U2.10_SHGC0.3393", 
+    "u_factor": 2.1000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_148_U1.80_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_148_U1.80_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_148_U1.80_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.46999999999999997, 
+    "display_name": "RISN-TG013-2012_148_U1.80_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_148_U1.80_SHGC0.4524", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_25_U2.00_SHGC0.4263": {
+  "display_name": "RISN-TG013-2012_25_U2.00_SHGC0.4263", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_25_U2.00_SHGC0.4263", 
+  "materials": [
+   {
+    "shgc": 0.42630000000000001, 
+    "vt": 0.34000000000000002, 
+    "display_name": "RISN-TG013-2012_25_U2.00_SHGC0.4263", 
+    "identifier": "RISN-TG013-2012_25_U2.00_SHGC0.4263", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_18_U2.30_SHGC0.4959": {
+  "display_name": "RISN-TG013-2012_18_U2.30_SHGC0.4959", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_18_U2.30_SHGC0.4959", 
+  "materials": [
+   {
+    "shgc": 0.49589999999999995, 
+    "vt": 0.52000000000000002, 
+    "display_name": "RISN-TG013-2012_18_U2.30_SHGC0.4959", 
+    "identifier": "RISN-TG013-2012_18_U2.30_SHGC0.4959", 
+    "u_factor": 2.2999999999999998, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_63_U1.70_SHGC0.4872": {
+  "display_name": "RISN-TG013-2012_63_U1.70_SHGC0.4872", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_63_U1.70_SHGC0.4872", 
+  "materials": [
+   {
+    "shgc": 0.48720000000000002, 
+    "vt": 0.46999999999999997, 
+    "display_name": "RISN-TG013-2012_63_U1.70_SHGC0.4872", 
+    "identifier": "RISN-TG013-2012_63_U1.70_SHGC0.4872", 
+    "u_factor": 1.7, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_174_U1.80_SHGC0.3306": {
+  "display_name": "RISN-TG013-2012_174_U1.80_SHGC0.3306", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_174_U1.80_SHGC0.3306", 
+  "materials": [
+   {
+    "shgc": 0.3306, 
+    "vt": 0.40000000000000002, 
+    "display_name": "RISN-TG013-2012_174_U1.80_SHGC0.3306", 
+    "identifier": "RISN-TG013-2012_174_U1.80_SHGC0.3306", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_30_U3.30_SHGC0.4959": {
+  "display_name": "RISN-TG013-2012_30_U3.30_SHGC0.4959", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_30_U3.30_SHGC0.4959", 
+  "materials": [
+   {
+    "shgc": 0.49589999999999995, 
+    "vt": 0.52000000000000002, 
+    "display_name": "RISN-TG013-2012_30_U3.30_SHGC0.4959", 
+    "identifier": "RISN-TG013-2012_30_U3.30_SHGC0.4959", 
+    "u_factor": 3.2999999999999998, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_91_U1.90_SHGC0.435": {
+  "display_name": "RISN-TG013-2012_91_U1.90_SHGC0.435", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_91_U1.90_SHGC0.435", 
+  "materials": [
+   {
+    "shgc": 0.435, 
+    "vt": 0.46000000000000002, 
+    "display_name": "RISN-TG013-2012_91_U1.90_SHGC0.435", 
+    "identifier": "RISN-TG013-2012_91_U1.90_SHGC0.435", 
+    "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_104_U2.00_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_104_U2.00_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_104_U2.00_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_104_U2.00_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_104_U2.00_SHGC0.4524", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_183_U2.50_SHGC0.5046": {
+  "display_name": "RISN-TG013-2012_183_U2.50_SHGC0.5046", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_183_U2.50_SHGC0.5046", 
+  "materials": [
+   {
+    "shgc": 0.50459999999999994, 
+    "vt": 0.52000000000000002, 
+    "display_name": "RISN-TG013-2012_183_U2.50_SHGC0.5046", 
+    "identifier": "RISN-TG013-2012_183_U2.50_SHGC0.5046", 
+    "u_factor": 2.5, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_232_U0.90_SHGC0.6612": {
+  "display_name": "RISN-TG013-2012_232_U0.90_SHGC0.6612", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_232_U0.90_SHGC0.6612", 
+  "materials": [
+   {
+    "shgc": 0.66120000000000001, 
+    "vt": 0.64300000000000002, 
+    "display_name": "RISN-TG013-2012_232_U0.90_SHGC0.6612", 
+    "identifier": "RISN-TG013-2012_232_U0.90_SHGC0.6612", 
+    "u_factor": 0.90000000000000002, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_108_U2.00_SHGC0.4872": {
+  "display_name": "RISN-TG013-2012_108_U2.00_SHGC0.4872", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_108_U2.00_SHGC0.4872", 
+  "materials": [
+   {
+    "shgc": 0.48720000000000002, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_108_U2.00_SHGC0.4872", 
+    "identifier": "RISN-TG013-2012_108_U2.00_SHGC0.4872", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_1_U1.60_SHGC0.4089": {
+  "display_name": "RISN-TG013-2012_1_U1.60_SHGC0.4089", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_1_U1.60_SHGC0.4089", 
+  "materials": [
+   {
+    "shgc": 0.40889999999999999, 
+    "vt": 0.42999999999999999, 
+    "display_name": "RISN-TG013-2012_1_U1.60_SHGC0.4089", 
+    "identifier": "RISN-TG013-2012_1_U1.60_SHGC0.4089", 
+    "u_factor": 1.6000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_114_U1.60_SHGC0.4611": {
+  "display_name": "RISN-TG013-2012_114_U1.60_SHGC0.4611", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_114_U1.60_SHGC0.4611", 
+  "materials": [
+   {
+    "shgc": 0.46110000000000001, 
+    "vt": 0.5, 
+    "display_name": "RISN-TG013-2012_114_U1.60_SHGC0.4611", 
+    "identifier": "RISN-TG013-2012_114_U1.60_SHGC0.4611", 
+    "u_factor": 1.6000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_54_U1.50_SHGC0.4263": {
+  "display_name": "RISN-TG013-2012_54_U1.50_SHGC0.4263", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_54_U1.50_SHGC0.4263", 
+  "materials": [
+   {
+    "shgc": 0.42630000000000001, 
+    "vt": 0.39000000000000001, 
+    "display_name": "RISN-TG013-2012_54_U1.50_SHGC0.4263", 
+    "identifier": "RISN-TG013-2012_54_U1.50_SHGC0.4263", 
+    "u_factor": 1.5, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_198_U2.00_SHGC0.5046": {
+  "display_name": "RISN-TG013-2012_198_U2.00_SHGC0.5046", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_198_U2.00_SHGC0.5046", 
+  "materials": [
+   {
+    "shgc": 0.50459999999999994, 
+    "vt": 0.5, 
+    "display_name": "RISN-TG013-2012_198_U2.00_SHGC0.5046", 
+    "identifier": "RISN-TG013-2012_198_U2.00_SHGC0.5046", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_208_U2.00_SHGC0.4263": {
+  "display_name": "RISN-TG013-2012_208_U2.00_SHGC0.4263", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_208_U2.00_SHGC0.4263", 
+  "materials": [
+   {
+    "shgc": 0.42630000000000001, 
+    "vt": 0.46000000000000002, 
+    "display_name": "RISN-TG013-2012_208_U2.00_SHGC0.4263", 
+    "identifier": "RISN-TG013-2012_208_U2.00_SHGC0.4263", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_22_U1.70_SHGC0.4785": {
+  "display_name": "RISN-TG013-2012_22_U1.70_SHGC0.4785", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_22_U1.70_SHGC0.4785", 
+  "materials": [
+   {
+    "shgc": 0.47850000000000004, 
+    "vt": 0.46999999999999997, 
+    "display_name": "RISN-TG013-2012_22_U1.70_SHGC0.4785", 
+    "identifier": "RISN-TG013-2012_22_U1.70_SHGC0.4785", 
+    "u_factor": 1.7, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_216_U2.50_SHGC0.3045": {
+  "display_name": "RISN-TG013-2012_216_U2.50_SHGC0.3045", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_216_U2.50_SHGC0.3045", 
+  "materials": [
+   {
+    "shgc": 0.30449999999999999, 
+    "vt": 0.38, 
+    "display_name": "RISN-TG013-2012_216_U2.50_SHGC0.3045", 
+    "identifier": "RISN-TG013-2012_216_U2.50_SHGC0.3045", 
+    "u_factor": 2.5, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_61_U1.40_SHGC0.4089": {
+  "display_name": "RISN-TG013-2012_61_U1.40_SHGC0.4089", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_61_U1.40_SHGC0.4089", 
+  "materials": [
+   {
+    "shgc": 0.40889999999999999, 
+    "vt": 0.42999999999999999, 
+    "display_name": "RISN-TG013-2012_61_U1.40_SHGC0.4089", 
+    "identifier": "RISN-TG013-2012_61_U1.40_SHGC0.4089", 
+    "u_factor": 1.3999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_50_U2.00_SHGC0.3741": {
+  "display_name": "RISN-TG013-2012_50_U2.00_SHGC0.3741", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_50_U2.00_SHGC0.3741", 
+  "materials": [
+   {
+    "shgc": 0.37409999999999999, 
+    "vt": 0.46000000000000002, 
+    "display_name": "RISN-TG013-2012_50_U2.00_SHGC0.3741", 
+    "identifier": "RISN-TG013-2012_50_U2.00_SHGC0.3741", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_59_U1.90_SHGC0.435": {
+  "display_name": "RISN-TG013-2012_59_U1.90_SHGC0.435", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_59_U1.90_SHGC0.435", 
+  "materials": [
+   {
+    "shgc": 0.435, 
+    "vt": 0.46999999999999997, 
+    "display_name": "RISN-TG013-2012_59_U1.90_SHGC0.435", 
+    "identifier": "RISN-TG013-2012_59_U1.90_SHGC0.435", 
+    "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_141_U1.80_SHGC0.4785": {
+  "display_name": "RISN-TG013-2012_141_U1.80_SHGC0.4785", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_141_U1.80_SHGC0.4785", 
+  "materials": [
+   {
+    "shgc": 0.47850000000000004, 
+    "vt": 0.51000000000000001, 
+    "display_name": "RISN-TG013-2012_141_U1.80_SHGC0.4785", 
+    "identifier": "RISN-TG013-2012_141_U1.80_SHGC0.4785", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_33_U1.60_SHGC0.3828": {
+  "display_name": "RISN-TG013-2012_33_U1.60_SHGC0.3828", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_33_U1.60_SHGC0.3828", 
+  "materials": [
+   {
+    "shgc": 0.38279999999999997, 
+    "vt": 0.39000000000000001, 
+    "display_name": "RISN-TG013-2012_33_U1.60_SHGC0.3828", 
+    "identifier": "RISN-TG013-2012_33_U1.60_SHGC0.3828", 
+    "u_factor": 1.6000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_158_U2.20_SHGC0.4959": {
+  "display_name": "RISN-TG013-2012_158_U2.20_SHGC0.4959", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_158_U2.20_SHGC0.4959", 
+  "materials": [
+   {
+    "shgc": 0.49589999999999995, 
+    "vt": 0.52000000000000002, 
+    "display_name": "RISN-TG013-2012_158_U2.20_SHGC0.4959", 
+    "identifier": "RISN-TG013-2012_158_U2.20_SHGC0.4959", 
+    "u_factor": 2.2000000000000002, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_140_U1.60_SHGC0.4002": {
+  "display_name": "RISN-TG013-2012_140_U1.60_SHGC0.4002", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_140_U1.60_SHGC0.4002", 
+  "materials": [
+   {
+    "shgc": 0.4002, 
+    "vt": 0.44, 
+    "display_name": "RISN-TG013-2012_140_U1.60_SHGC0.4002", 
+    "identifier": "RISN-TG013-2012_140_U1.60_SHGC0.4002", 
+    "u_factor": 1.6000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_136_U1.90_SHGC0.4176": {
+  "display_name": "RISN-TG013-2012_136_U1.90_SHGC0.4176", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_136_U1.90_SHGC0.4176", 
+  "materials": [
+   {
+    "shgc": 0.41759999999999997, 
+    "vt": 0.45000000000000001, 
+    "display_name": "RISN-TG013-2012_136_U1.90_SHGC0.4176", 
+    "identifier": "RISN-TG013-2012_136_U1.90_SHGC0.4176", 
+    "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_222_U1.90_SHGC0.2436": {
+  "display_name": "RISN-TG013-2012_222_U1.90_SHGC0.2436", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_222_U1.90_SHGC0.2436", 
+  "materials": [
+   {
+    "shgc": 0.24360000000000001, 
+    "vt": 0.29999999999999999, 
+    "display_name": "RISN-TG013-2012_222_U1.90_SHGC0.2436", 
+    "identifier": "RISN-TG013-2012_222_U1.90_SHGC0.2436", 
+    "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_8_U1.50_SHGC0.4089": {
+  "display_name": "RISN-TG013-2012_8_U1.50_SHGC0.4089", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_8_U1.50_SHGC0.4089", 
+  "materials": [
+   {
+    "shgc": 0.40889999999999999, 
+    "vt": 0.40000000000000002, 
+    "display_name": "RISN-TG013-2012_8_U1.50_SHGC0.4089", 
+    "identifier": "RISN-TG013-2012_8_U1.50_SHGC0.4089", 
+    "u_factor": 1.5, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_209_U2.00_SHGC0.4698": {
+  "display_name": "RISN-TG013-2012_209_U2.00_SHGC0.4698", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_209_U2.00_SHGC0.4698", 
+  "materials": [
+   {
+    "shgc": 0.46980000000000005, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_209_U2.00_SHGC0.4698", 
+    "identifier": "RISN-TG013-2012_209_U2.00_SHGC0.4698", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_65_U1.70_SHGC0.4785": {
+  "display_name": "RISN-TG013-2012_65_U1.70_SHGC0.4785", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_65_U1.70_SHGC0.4785", 
+  "materials": [
+   {
+    "shgc": 0.47850000000000004, 
+    "vt": 0.51000000000000001, 
+    "display_name": "RISN-TG013-2012_65_U1.70_SHGC0.4785", 
+    "identifier": "RISN-TG013-2012_65_U1.70_SHGC0.4785", 
+    "u_factor": 1.7, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_227_U1.10_SHGC0.6786": {
+  "display_name": "RISN-TG013-2012_227_U1.10_SHGC0.6786", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_227_U1.10_SHGC0.6786", 
+  "materials": [
+   {
+    "shgc": 0.67859999999999998, 
+    "vt": 0.69499999999999995, 
+    "display_name": "RISN-TG013-2012_227_U1.10_SHGC0.6786", 
+    "identifier": "RISN-TG013-2012_227_U1.10_SHGC0.6786", 
+    "u_factor": 1.1000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_116_U1.70_SHGC0.4437": {
+  "display_name": "RISN-TG013-2012_116_U1.70_SHGC0.4437", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_116_U1.70_SHGC0.4437", 
+  "materials": [
+   {
+    "shgc": 0.44369999999999998, 
+    "vt": 0.46000000000000002, 
+    "display_name": "RISN-TG013-2012_116_U1.70_SHGC0.4437", 
+    "identifier": "RISN-TG013-2012_116_U1.70_SHGC0.4437", 
+    "u_factor": 1.7, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_236_U0.90_SHGC0.5394": {
+  "display_name": "RISN-TG013-2012_236_U0.90_SHGC0.5394", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_236_U0.90_SHGC0.5394", 
+  "materials": [
+   {
+    "shgc": 0.53939999999999999, 
+    "vt": 0.51800000000000002, 
+    "display_name": "RISN-TG013-2012_236_U0.90_SHGC0.5394", 
+    "identifier": "RISN-TG013-2012_236_U0.90_SHGC0.5394", 
+    "u_factor": 0.90000000000000002, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_121_U1.50_SHGC0.4611": {
+  "display_name": "RISN-TG013-2012_121_U1.50_SHGC0.4611", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_121_U1.50_SHGC0.4611", 
+  "materials": [
+   {
+    "shgc": 0.46110000000000001, 
+    "vt": 0.42999999999999999, 
+    "display_name": "RISN-TG013-2012_121_U1.50_SHGC0.4611", 
+    "identifier": "RISN-TG013-2012_121_U1.50_SHGC0.4611", 
+    "u_factor": 1.5, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_142_U1.80_SHGC0.4611": {
+  "display_name": "RISN-TG013-2012_142_U1.80_SHGC0.4611", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_142_U1.80_SHGC0.4611", 
+  "materials": [
+   {
+    "shgc": 0.46110000000000001, 
+    "vt": 0.42999999999999999, 
+    "display_name": "RISN-TG013-2012_142_U1.80_SHGC0.4611", 
+    "identifier": "RISN-TG013-2012_142_U1.80_SHGC0.4611", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_154_U1.80_SHGC0.4089": {
+  "display_name": "RISN-TG013-2012_154_U1.80_SHGC0.4089", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_154_U1.80_SHGC0.4089", 
+  "materials": [
+   {
+    "shgc": 0.40889999999999999, 
+    "vt": 0.40999999999999998, 
+    "display_name": "RISN-TG013-2012_154_U1.80_SHGC0.4089", 
+    "identifier": "RISN-TG013-2012_154_U1.80_SHGC0.4089", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_177_U2.60_SHGC0.2958": {
+  "display_name": "RISN-TG013-2012_177_U2.60_SHGC0.2958", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_177_U2.60_SHGC0.2958", 
+  "materials": [
+   {
+    "shgc": 0.29580000000000001, 
+    "vt": 0.35999999999999999, 
+    "display_name": "RISN-TG013-2012_177_U2.60_SHGC0.2958", 
+    "identifier": "RISN-TG013-2012_177_U2.60_SHGC0.2958", 
+    "u_factor": 2.6000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_218_U1.80_SHGC0.2871": {
+  "display_name": "RISN-TG013-2012_218_U1.80_SHGC0.2871", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_218_U1.80_SHGC0.2871", 
+  "materials": [
+   {
+    "shgc": 0.28710000000000002, 
+    "vt": 0.35999999999999999, 
+    "display_name": "RISN-TG013-2012_218_U1.80_SHGC0.2871", 
+    "identifier": "RISN-TG013-2012_218_U1.80_SHGC0.2871", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_29_U2.10_SHGC0.435": {
+  "display_name": "RISN-TG013-2012_29_U2.10_SHGC0.435", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_29_U2.10_SHGC0.435", 
+  "materials": [
+   {
+    "shgc": 0.435, 
+    "vt": 0.48999999999999999, 
+    "display_name": "RISN-TG013-2012_29_U2.10_SHGC0.435", 
+    "identifier": "RISN-TG013-2012_29_U2.10_SHGC0.435", 
+    "u_factor": 2.1000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_135_U1.70_SHGC0.3915": {
+  "display_name": "RISN-TG013-2012_135_U1.70_SHGC0.3915", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_135_U1.70_SHGC0.3915", 
+  "materials": [
+   {
+    "shgc": 0.39150000000000001, 
+    "vt": 0.38, 
+    "display_name": "RISN-TG013-2012_135_U1.70_SHGC0.3915", 
+    "identifier": "RISN-TG013-2012_135_U1.70_SHGC0.3915", 
+    "u_factor": 1.7, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_15_U2.30_SHGC0.4959": {
+  "display_name": "RISN-TG013-2012_15_U2.30_SHGC0.4959", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_15_U2.30_SHGC0.4959", 
+  "materials": [
+   {
+    "shgc": 0.49589999999999995, 
+    "vt": 0.52000000000000002, 
+    "display_name": "RISN-TG013-2012_15_U2.30_SHGC0.4959", 
+    "identifier": "RISN-TG013-2012_15_U2.30_SHGC0.4959", 
+    "u_factor": 2.2999999999999998, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_129_U1.70_SHGC0.4089": {
+  "display_name": "RISN-TG013-2012_129_U1.70_SHGC0.4089", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_129_U1.70_SHGC0.4089", 
+  "materials": [
+   {
+    "shgc": 0.40889999999999999, 
+    "vt": 0.34000000000000002, 
+    "display_name": "RISN-TG013-2012_129_U1.70_SHGC0.4089", 
+    "identifier": "RISN-TG013-2012_129_U1.70_SHGC0.4089", 
+    "u_factor": 1.7, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_132_U1.80_SHGC0.4263": {
+  "display_name": "RISN-TG013-2012_132_U1.80_SHGC0.4263", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_132_U1.80_SHGC0.4263", 
+  "materials": [
+   {
+    "shgc": 0.42630000000000001, 
+    "vt": 0.44, 
+    "display_name": "RISN-TG013-2012_132_U1.80_SHGC0.4263", 
+    "identifier": "RISN-TG013-2012_132_U1.80_SHGC0.4263", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_37_U2.00_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_37_U2.00_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_37_U2.00_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_37_U2.00_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_37_U2.00_SHGC0.4524", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_40_U1.90_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_40_U1.90_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_40_U1.90_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_40_U1.90_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_40_U1.90_SHGC0.4524", 
+    "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_151_U1.80_SHGC0.435": {
+  "display_name": "RISN-TG013-2012_151_U1.80_SHGC0.435", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_151_U1.80_SHGC0.435", 
+  "materials": [
+   {
+    "shgc": 0.435, 
+    "vt": 0.41999999999999998, 
+    "display_name": "RISN-TG013-2012_151_U1.80_SHGC0.435", 
+    "identifier": "RISN-TG013-2012_151_U1.80_SHGC0.435", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_117_U1.70_SHGC0.4437": {
+  "display_name": "RISN-TG013-2012_117_U1.70_SHGC0.4437", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_117_U1.70_SHGC0.4437", 
+  "materials": [
+   {
+    "shgc": 0.44369999999999998, 
+    "vt": 0.46000000000000002, 
+    "display_name": "RISN-TG013-2012_117_U1.70_SHGC0.4437", 
+    "identifier": "RISN-TG013-2012_117_U1.70_SHGC0.4437", 
+    "u_factor": 1.7, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_126_U1.70_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_126_U1.70_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_126_U1.70_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.45000000000000001, 
+    "display_name": "RISN-TG013-2012_126_U1.70_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_126_U1.70_SHGC0.4524", 
+    "u_factor": 1.7, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_138_U1.60_SHGC0.4089": {
+  "display_name": "RISN-TG013-2012_138_U1.60_SHGC0.4089", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_138_U1.60_SHGC0.4089", 
+  "materials": [
+   {
+    "shgc": 0.40889999999999999, 
+    "vt": 0.46999999999999997, 
+    "display_name": "RISN-TG013-2012_138_U1.60_SHGC0.4089", 
+    "identifier": "RISN-TG013-2012_138_U1.60_SHGC0.4089", 
+    "u_factor": 1.6000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_97_U1.80_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_97_U1.80_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_97_U1.80_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.46999999999999997, 
+    "display_name": "RISN-TG013-2012_97_U1.80_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_97_U1.80_SHGC0.4524", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_27_U1.80_SHGC0.4089": {
+  "display_name": "RISN-TG013-2012_27_U1.80_SHGC0.4089", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_27_U1.80_SHGC0.4089", 
+  "materials": [
+   {
+    "shgc": 0.40889999999999999, 
+    "vt": 0.46999999999999997, 
+    "display_name": "RISN-TG013-2012_27_U1.80_SHGC0.4089", 
+    "identifier": "RISN-TG013-2012_27_U1.80_SHGC0.4089", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_217_U2.60_SHGC0.3045": {
+  "display_name": "RISN-TG013-2012_217_U2.60_SHGC0.3045", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_217_U2.60_SHGC0.3045", 
+  "materials": [
+   {
+    "shgc": 0.30449999999999999, 
+    "vt": 0.38, 
+    "display_name": "RISN-TG013-2012_217_U2.60_SHGC0.3045", 
+    "identifier": "RISN-TG013-2012_217_U2.60_SHGC0.3045", 
+    "u_factor": 2.6000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_35_U1.70_SHGC0.4263": {
+  "display_name": "RISN-TG013-2012_35_U1.70_SHGC0.4263", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_35_U1.70_SHGC0.4263", 
+  "materials": [
+   {
+    "shgc": 0.42630000000000001, 
+    "vt": 0.44, 
+    "display_name": "RISN-TG013-2012_35_U1.70_SHGC0.4263", 
+    "identifier": "RISN-TG013-2012_35_U1.70_SHGC0.4263", 
+    "u_factor": 1.7, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_47_U2.40_SHGC0.4176": {
+  "display_name": "RISN-TG013-2012_47_U2.40_SHGC0.4176", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_47_U2.40_SHGC0.4176", 
+  "materials": [
+   {
+    "shgc": 0.41759999999999997, 
+    "vt": 0.51000000000000001, 
+    "display_name": "RISN-TG013-2012_47_U2.40_SHGC0.4176", 
+    "identifier": "RISN-TG013-2012_47_U2.40_SHGC0.4176", 
+    "u_factor": 2.3999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_107_U2.00_SHGC0.4872": {
+  "display_name": "RISN-TG013-2012_107_U2.00_SHGC0.4872", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_107_U2.00_SHGC0.4872", 
+  "materials": [
+   {
+    "shgc": 0.48720000000000002, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_107_U2.00_SHGC0.4872", 
+    "identifier": "RISN-TG013-2012_107_U2.00_SHGC0.4872", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_173_U1.70_SHGC0.2784": {
+  "display_name": "RISN-TG013-2012_173_U1.70_SHGC0.2784", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_173_U1.70_SHGC0.2784", 
+  "materials": [
+   {
+    "shgc": 0.27839999999999998, 
+    "vt": 0.35999999999999999, 
+    "display_name": "RISN-TG013-2012_173_U1.70_SHGC0.2784", 
+    "identifier": "RISN-TG013-2012_173_U1.70_SHGC0.2784", 
+    "u_factor": 1.7, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_96_U1.40_SHGC0.4698": {
+  "display_name": "RISN-TG013-2012_96_U1.40_SHGC0.4698", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_96_U1.40_SHGC0.4698", 
+  "materials": [
+   {
+    "shgc": 0.46980000000000005, 
+    "vt": 0.46000000000000002, 
+    "display_name": "RISN-TG013-2012_96_U1.40_SHGC0.4698", 
+    "identifier": "RISN-TG013-2012_96_U1.40_SHGC0.4698", 
+    "u_factor": 1.3999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_234_U1.30_SHGC0.609": {
+  "display_name": "RISN-TG013-2012_234_U1.30_SHGC0.609", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_234_U1.30_SHGC0.609", 
+  "materials": [
+   {
+    "shgc": 0.60899999999999999, 
+    "vt": 0.66700000000000004, 
+    "display_name": "RISN-TG013-2012_234_U1.30_SHGC0.609", 
+    "identifier": "RISN-TG013-2012_234_U1.30_SHGC0.609", 
+    "u_factor": 1.3, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_202_U2.00_SHGC0.4959": {
+  "display_name": "RISN-TG013-2012_202_U2.00_SHGC0.4959", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_202_U2.00_SHGC0.4959", 
+  "materials": [
+   {
+    "shgc": 0.49589999999999995, 
+    "vt": 0.5, 
+    "display_name": "RISN-TG013-2012_202_U2.00_SHGC0.4959", 
+    "identifier": "RISN-TG013-2012_202_U2.00_SHGC0.4959", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_185_U2.50_SHGC0.3219": {
+  "display_name": "RISN-TG013-2012_185_U2.50_SHGC0.3219", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_185_U2.50_SHGC0.3219", 
+  "materials": [
+   {
+    "shgc": 0.32190000000000002, 
+    "vt": 0.39000000000000001, 
+    "display_name": "RISN-TG013-2012_185_U2.50_SHGC0.3219", 
+    "identifier": "RISN-TG013-2012_185_U2.50_SHGC0.3219", 
+    "u_factor": 2.5, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_118_U1.80_SHGC0.3045": {
+  "display_name": "RISN-TG013-2012_118_U1.80_SHGC0.3045", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_118_U1.80_SHGC0.3045", 
+  "materials": [
+   {
+    "shgc": 0.30449999999999999, 
+    "vt": 0.34999999999999998, 
+    "display_name": "RISN-TG013-2012_118_U1.80_SHGC0.3045", 
+    "identifier": "RISN-TG013-2012_118_U1.80_SHGC0.3045", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_225_U1.20_SHGC0.5916": {
+  "display_name": "RISN-TG013-2012_225_U1.20_SHGC0.5916", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_225_U1.20_SHGC0.5916", 
+  "materials": [
+   {
+    "shgc": 0.59160000000000001, 
+    "vt": 0.622, 
+    "display_name": "RISN-TG013-2012_225_U1.20_SHGC0.5916", 
+    "identifier": "RISN-TG013-2012_225_U1.20_SHGC0.5916", 
+    "u_factor": 1.2, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_28_U1.90_SHGC0.435": {
+  "display_name": "RISN-TG013-2012_28_U1.90_SHGC0.435", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_28_U1.90_SHGC0.435", 
+  "materials": [
+   {
+    "shgc": 0.435, 
+    "vt": 0.48999999999999999, 
+    "display_name": "RISN-TG013-2012_28_U1.90_SHGC0.435", 
+    "identifier": "RISN-TG013-2012_28_U1.90_SHGC0.435", 
+    "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_128_U2.00_SHGC0.435": {
+  "display_name": "RISN-TG013-2012_128_U2.00_SHGC0.435", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_128_U2.00_SHGC0.435", 
+  "materials": [
+   {
+    "shgc": 0.435, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_128_U2.00_SHGC0.435", 
+    "identifier": "RISN-TG013-2012_128_U2.00_SHGC0.435", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_4_U1.80_SHGC0.435": {
+  "display_name": "RISN-TG013-2012_4_U1.80_SHGC0.435", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_4_U1.80_SHGC0.435", 
+  "materials": [
+   {
+    "shgc": 0.435, 
+    "vt": 0.44, 
+    "display_name": "RISN-TG013-2012_4_U1.80_SHGC0.435", 
+    "identifier": "RISN-TG013-2012_4_U1.80_SHGC0.435", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_46_U2.30_SHGC0.4263": {
+  "display_name": "RISN-TG013-2012_46_U2.30_SHGC0.4263", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_46_U2.30_SHGC0.4263", 
+  "materials": [
+   {
+    "shgc": 0.42630000000000001, 
+    "vt": 0.52000000000000002, 
+    "display_name": "RISN-TG013-2012_46_U2.30_SHGC0.4263", 
+    "identifier": "RISN-TG013-2012_46_U2.30_SHGC0.4263", 
+    "u_factor": 2.2999999999999998, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_13_U1.80_SHGC0.4872": {
+  "display_name": "RISN-TG013-2012_13_U1.80_SHGC0.4872", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_13_U1.80_SHGC0.4872", 
+  "materials": [
+   {
+    "shgc": 0.48720000000000002, 
+    "vt": 0.48999999999999999, 
+    "display_name": "RISN-TG013-2012_13_U1.80_SHGC0.4872", 
+    "identifier": "RISN-TG013-2012_13_U1.80_SHGC0.4872", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_88_U1.90_SHGC0.4611": {
+  "display_name": "RISN-TG013-2012_88_U1.90_SHGC0.4611", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_88_U1.90_SHGC0.4611", 
+  "materials": [
+   {
+    "shgc": 0.46110000000000001, 
+    "vt": 0.46999999999999997, 
+    "display_name": "RISN-TG013-2012_88_U1.90_SHGC0.4611", 
+    "identifier": "RISN-TG013-2012_88_U1.90_SHGC0.4611", 
+    "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_60_U2.00_SHGC0.435": {
+  "display_name": "RISN-TG013-2012_60_U2.00_SHGC0.435", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_60_U2.00_SHGC0.435", 
+  "materials": [
+   {
+    "shgc": 0.435, 
+    "vt": 0.46999999999999997, 
+    "display_name": "RISN-TG013-2012_60_U2.00_SHGC0.435", 
+    "identifier": "RISN-TG013-2012_60_U2.00_SHGC0.435", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_111_U1.80_SHGC0.4611": {
+  "display_name": "RISN-TG013-2012_111_U1.80_SHGC0.4611", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_111_U1.80_SHGC0.4611", 
+  "materials": [
+   {
+    "shgc": 0.46110000000000001, 
+    "vt": 0.48999999999999999, 
+    "display_name": "RISN-TG013-2012_111_U1.80_SHGC0.4611", 
+    "identifier": "RISN-TG013-2012_111_U1.80_SHGC0.4611", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_156_U1.80_SHGC0.4176": {
+  "display_name": "RISN-TG013-2012_156_U1.80_SHGC0.4176", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_156_U1.80_SHGC0.4176", 
+  "materials": [
+   {
+    "shgc": 0.41759999999999997, 
+    "vt": 0.45000000000000001, 
+    "display_name": "RISN-TG013-2012_156_U1.80_SHGC0.4176", 
+    "identifier": "RISN-TG013-2012_156_U1.80_SHGC0.4176", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_10_U1.80_SHGC0.4002": {
+  "display_name": "RISN-TG013-2012_10_U1.80_SHGC0.4002", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_10_U1.80_SHGC0.4002", 
+  "materials": [
+   {
+    "shgc": 0.4002, 
+    "vt": 0.40000000000000002, 
+    "display_name": "RISN-TG013-2012_10_U1.80_SHGC0.4002", 
+    "identifier": "RISN-TG013-2012_10_U1.80_SHGC0.4002", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_120_U1.80_SHGC0.4611": {
+  "display_name": "RISN-TG013-2012_120_U1.80_SHGC0.4611", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_120_U1.80_SHGC0.4611", 
+  "materials": [
+   {
+    "shgc": 0.46110000000000001, 
+    "vt": 0.48999999999999999, 
+    "display_name": "RISN-TG013-2012_120_U1.80_SHGC0.4611", 
+    "identifier": "RISN-TG013-2012_120_U1.80_SHGC0.4611", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_106_U1.90_SHGC0.4872": {
+  "display_name": "RISN-TG013-2012_106_U1.90_SHGC0.4872", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_106_U1.90_SHGC0.4872", 
+  "materials": [
+   {
+    "shgc": 0.48720000000000002, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_106_U1.90_SHGC0.4872", 
+    "identifier": "RISN-TG013-2012_106_U1.90_SHGC0.4872", 
+    "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_112_U1.80_SHGC0.435": {
+  "display_name": "RISN-TG013-2012_112_U1.80_SHGC0.435", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_112_U1.80_SHGC0.435", 
+  "materials": [
+   {
+    "shgc": 0.435, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_112_U1.80_SHGC0.435", 
+    "identifier": "RISN-TG013-2012_112_U1.80_SHGC0.435", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_130_U1.90_SHGC0.435": {
+  "display_name": "RISN-TG013-2012_130_U1.90_SHGC0.435", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_130_U1.90_SHGC0.435", 
+  "materials": [
+   {
+    "shgc": 0.435, 
+    "vt": 0.41999999999999998, 
+    "display_name": "RISN-TG013-2012_130_U1.90_SHGC0.435", 
+    "identifier": "RISN-TG013-2012_130_U1.90_SHGC0.435", 
+    "u_factor": 1.8999999999999999, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_56_U1.80_SHGC0.4785": {
+  "display_name": "RISN-TG013-2012_56_U1.80_SHGC0.4785", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_56_U1.80_SHGC0.4785", 
+  "materials": [
+   {
+    "shgc": 0.47850000000000004, 
+    "vt": 0.46000000000000002, 
+    "display_name": "RISN-TG013-2012_56_U1.80_SHGC0.4785", 
+    "identifier": "RISN-TG013-2012_56_U1.80_SHGC0.4785", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_68_U2.00_SHGC0.4089": {
+  "display_name": "RISN-TG013-2012_68_U2.00_SHGC0.4089", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_68_U2.00_SHGC0.4089", 
+  "materials": [
+   {
+    "shgc": 0.40889999999999999, 
+    "vt": 0.41999999999999998, 
+    "display_name": "RISN-TG013-2012_68_U2.00_SHGC0.4089", 
+    "identifier": "RISN-TG013-2012_68_U2.00_SHGC0.4089", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_152_U2.00_SHGC0.5046": {
+  "display_name": "RISN-TG013-2012_152_U2.00_SHGC0.5046", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_152_U2.00_SHGC0.5046", 
+  "materials": [
+   {
+    "shgc": 0.50459999999999994, 
+    "vt": 0.5, 
+    "display_name": "RISN-TG013-2012_152_U2.00_SHGC0.5046", 
+    "identifier": "RISN-TG013-2012_152_U2.00_SHGC0.5046", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_80_U2.00_SHGC0.4698": {
+  "display_name": "RISN-TG013-2012_80_U2.00_SHGC0.4698", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_80_U2.00_SHGC0.4698", 
+  "materials": [
+   {
+    "shgc": 0.46980000000000005, 
+    "vt": 0.48999999999999999, 
+    "display_name": "RISN-TG013-2012_80_U2.00_SHGC0.4698", 
+    "identifier": "RISN-TG013-2012_80_U2.00_SHGC0.4698", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_212_U1.70_SHGC0.2436": {
+  "display_name": "RISN-TG013-2012_212_U1.70_SHGC0.2436", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_212_U1.70_SHGC0.2436", 
+  "materials": [
+   {
+    "shgc": 0.24360000000000001, 
+    "vt": 0.39000000000000001, 
+    "display_name": "RISN-TG013-2012_212_U1.70_SHGC0.2436", 
+    "identifier": "RISN-TG013-2012_212_U1.70_SHGC0.2436", 
+    "u_factor": 1.7, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_237_U1.20_SHGC0.6003": {
+  "display_name": "RISN-TG013-2012_237_U1.20_SHGC0.6003", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_237_U1.20_SHGC0.6003", 
+  "materials": [
+   {
+    "shgc": 0.60029999999999994, 
+    "vt": 0.61399999999999999, 
+    "display_name": "RISN-TG013-2012_237_U1.20_SHGC0.6003", 
+    "identifier": "RISN-TG013-2012_237_U1.20_SHGC0.6003", 
+    "u_factor": 1.2, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_204_U2.30_SHGC0.4872": {
+  "display_name": "RISN-TG013-2012_204_U2.30_SHGC0.4872", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_204_U2.30_SHGC0.4872", 
+  "materials": [
+   {
+    "shgc": 0.48720000000000002, 
+    "vt": 0.52000000000000002, 
+    "display_name": "RISN-TG013-2012_204_U2.30_SHGC0.4872", 
+    "identifier": "RISN-TG013-2012_204_U2.30_SHGC0.4872", 
+    "u_factor": 2.2999999999999998, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_31_U1.50_SHGC0.3828": {
+  "display_name": "RISN-TG013-2012_31_U1.50_SHGC0.3828", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_31_U1.50_SHGC0.3828", 
+  "materials": [
+   {
+    "shgc": 0.38279999999999997, 
+    "vt": 0.42999999999999999, 
+    "display_name": "RISN-TG013-2012_31_U1.50_SHGC0.3828", 
+    "identifier": "RISN-TG013-2012_31_U1.50_SHGC0.3828", 
+    "u_factor": 1.5, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_90_U2.00_SHGC0.4089": {
+  "display_name": "RISN-TG013-2012_90_U2.00_SHGC0.4089", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_90_U2.00_SHGC0.4089", 
+  "materials": [
+   {
+    "shgc": 0.40889999999999999, 
+    "vt": 0.46000000000000002, 
+    "display_name": "RISN-TG013-2012_90_U2.00_SHGC0.4089", 
+    "identifier": "RISN-TG013-2012_90_U2.00_SHGC0.4089", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_188_U2.50_SHGC0.2349": {
+  "display_name": "RISN-TG013-2012_188_U2.50_SHGC0.2349", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_188_U2.50_SHGC0.2349", 
+  "materials": [
+   {
+    "shgc": 0.23490000000000003, 
+    "vt": 0.35999999999999999, 
+    "display_name": "RISN-TG013-2012_188_U2.50_SHGC0.2349", 
+    "identifier": "RISN-TG013-2012_188_U2.50_SHGC0.2349", 
+    "u_factor": 2.5, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_9_U1.60_SHGC0.4089": {
+  "display_name": "RISN-TG013-2012_9_U1.60_SHGC0.4089", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_9_U1.60_SHGC0.4089", 
+  "materials": [
+   {
+    "shgc": 0.40889999999999999, 
+    "vt": 0.40000000000000002, 
+    "display_name": "RISN-TG013-2012_9_U1.60_SHGC0.4089", 
+    "identifier": "RISN-TG013-2012_9_U1.60_SHGC0.4089", 
+    "u_factor": 1.6000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_2_U2.20_SHGC0.4959": {
+  "display_name": "RISN-TG013-2012_2_U2.20_SHGC0.4959", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_2_U2.20_SHGC0.4959", 
+  "materials": [
+   {
+    "shgc": 0.49589999999999995, 
+    "vt": 0.51000000000000001, 
+    "display_name": "RISN-TG013-2012_2_U2.20_SHGC0.4959", 
+    "identifier": "RISN-TG013-2012_2_U2.20_SHGC0.4959", 
+    "u_factor": 2.2000000000000002, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_41_U1.80_SHGC0.4263": {
+  "display_name": "RISN-TG013-2012_41_U1.80_SHGC0.4263", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_41_U1.80_SHGC0.4263", 
+  "materials": [
+   {
+    "shgc": 0.42630000000000001, 
+    "vt": 0.40000000000000002, 
+    "display_name": "RISN-TG013-2012_41_U1.80_SHGC0.4263", 
+    "identifier": "RISN-TG013-2012_41_U1.80_SHGC0.4263", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_52_U1.80_SHGC0.4089": {
+  "display_name": "RISN-TG013-2012_52_U1.80_SHGC0.4089", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_52_U1.80_SHGC0.4089", 
+  "materials": [
+   {
+    "shgc": 0.40889999999999999, 
+    "vt": 0.42999999999999999, 
+    "display_name": "RISN-TG013-2012_52_U1.80_SHGC0.4089", 
+    "identifier": "RISN-TG013-2012_52_U1.80_SHGC0.4089", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_43_U2.00_SHGC0.3393": {
+  "display_name": "RISN-TG013-2012_43_U2.00_SHGC0.3393", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_43_U2.00_SHGC0.3393", 
+  "materials": [
+   {
+    "shgc": 0.33929999999999999, 
+    "vt": 0.40000000000000002, 
+    "display_name": "RISN-TG013-2012_43_U2.00_SHGC0.3393", 
+    "identifier": "RISN-TG013-2012_43_U2.00_SHGC0.3393", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_191_U3.10_SHGC0.4437": {
+  "display_name": "RISN-TG013-2012_191_U3.10_SHGC0.4437", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_191_U3.10_SHGC0.4437", 
+  "materials": [
+   {
+    "shgc": 0.44369999999999998, 
+    "vt": 0.46000000000000002, 
+    "display_name": "RISN-TG013-2012_191_U3.10_SHGC0.4437", 
+    "identifier": "RISN-TG013-2012_191_U3.10_SHGC0.4437", 
+    "u_factor": 3.1000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_210_U1.80_SHGC0.4437": {
+  "display_name": "RISN-TG013-2012_210_U1.80_SHGC0.4437", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_210_U1.80_SHGC0.4437", 
+  "materials": [
+   {
+    "shgc": 0.44369999999999998, 
+    "vt": 0.48999999999999999, 
+    "display_name": "RISN-TG013-2012_210_U1.80_SHGC0.4437", 
+    "identifier": "RISN-TG013-2012_210_U1.80_SHGC0.4437", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_206_U2.00_SHGC0.3567": {
+  "display_name": "RISN-TG013-2012_206_U2.00_SHGC0.3567", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_206_U2.00_SHGC0.3567", 
+  "materials": [
+   {
+    "shgc": 0.35669999999999996, 
+    "vt": 0.28999999999999998, 
+    "display_name": "RISN-TG013-2012_206_U2.00_SHGC0.3567", 
+    "identifier": "RISN-TG013-2012_206_U2.00_SHGC0.3567", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_193_U2.30_SHGC0.2001": {
+  "display_name": "RISN-TG013-2012_193_U2.30_SHGC0.2001", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_193_U2.30_SHGC0.2001", 
+  "materials": [
+   {
+    "shgc": 0.2001, 
+    "vt": 0.34000000000000002, 
+    "display_name": "RISN-TG013-2012_193_U2.30_SHGC0.2001", 
+    "identifier": "RISN-TG013-2012_193_U2.30_SHGC0.2001", 
+    "u_factor": 2.2999999999999998, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_83_U1.70_SHGC0.3393": {
+  "display_name": "RISN-TG013-2012_83_U1.70_SHGC0.3393", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_83_U1.70_SHGC0.3393", 
+  "materials": [
+   {
+    "shgc": 0.33929999999999999, 
+    "vt": 0.28999999999999998, 
+    "display_name": "RISN-TG013-2012_83_U1.70_SHGC0.3393", 
+    "identifier": "RISN-TG013-2012_83_U1.70_SHGC0.3393", 
+    "u_factor": 1.7, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_186_U2.50_SHGC0.2436": {
+  "display_name": "RISN-TG013-2012_186_U2.50_SHGC0.2436", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_186_U2.50_SHGC0.2436", 
+  "materials": [
+   {
+    "shgc": 0.24360000000000001, 
+    "vt": 0.29999999999999999, 
+    "display_name": "RISN-TG013-2012_186_U2.50_SHGC0.2436", 
+    "identifier": "RISN-TG013-2012_186_U2.50_SHGC0.2436", 
+    "u_factor": 2.5, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_69_U1.80_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_69_U1.80_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_69_U1.80_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.45000000000000001, 
+    "display_name": "RISN-TG013-2012_69_U1.80_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_69_U1.80_SHGC0.4524", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_74_U2.00_SHGC0.4524": {
+  "display_name": "RISN-TG013-2012_74_U2.00_SHGC0.4524", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_74_U2.00_SHGC0.4524", 
+  "materials": [
+   {
+    "shgc": 0.45240000000000002, 
+    "vt": 0.5, 
+    "display_name": "RISN-TG013-2012_74_U2.00_SHGC0.4524", 
+    "identifier": "RISN-TG013-2012_74_U2.00_SHGC0.4524", 
+    "u_factor": 2.0, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_32_U1.60_SHGC0.3828": {
+  "display_name": "RISN-TG013-2012_32_U1.60_SHGC0.3828", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_32_U1.60_SHGC0.3828", 
+  "materials": [
+   {
+    "shgc": 0.38279999999999997, 
+    "vt": 0.42999999999999999, 
+    "display_name": "RISN-TG013-2012_32_U1.60_SHGC0.3828", 
+    "identifier": "RISN-TG013-2012_32_U1.60_SHGC0.3828", 
+    "u_factor": 1.6000000000000001, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_163_U1.70_SHGC0.4785": {
+  "display_name": "RISN-TG013-2012_163_U1.70_SHGC0.4785", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_163_U1.70_SHGC0.4785", 
+  "materials": [
+   {
+    "shgc": 0.47850000000000004, 
+    "vt": 0.5, 
+    "display_name": "RISN-TG013-2012_163_U1.70_SHGC0.4785", 
+    "identifier": "RISN-TG013-2012_163_U1.70_SHGC0.4785", 
+    "u_factor": 1.7, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_231_U0.90_SHGC0.6612": {
+  "display_name": "RISN-TG013-2012_231_U0.90_SHGC0.6612", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_231_U0.90_SHGC0.6612", 
+  "materials": [
+   {
+    "shgc": 0.66120000000000001, 
+    "vt": 0.65000000000000002, 
+    "display_name": "RISN-TG013-2012_231_U0.90_SHGC0.6612", 
+    "identifier": "RISN-TG013-2012_231_U0.90_SHGC0.6612", 
+    "u_factor": 0.90000000000000002, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }, 
+ "RISN-TG013-2012_149_U1.80_SHGC0.4785": {
+  "display_name": "RISN-TG013-2012_149_U1.80_SHGC0.4785", 
+  "type": "WindowConstruction", 
+  "identifier": "RISN-TG013-2012_149_U1.80_SHGC0.4785", 
+  "materials": [
+   {
+    "shgc": 0.47850000000000004, 
+    "vt": 0.47999999999999998, 
+    "display_name": "RISN-TG013-2012_149_U1.80_SHGC0.4785", 
+    "identifier": "RISN-TG013-2012_149_U1.80_SHGC0.4785", 
+    "u_factor": 1.8, 
+    "type": "EnergyWindowMaterialSimpleGlazSys"
+   }
+  ]
+ }
+}
