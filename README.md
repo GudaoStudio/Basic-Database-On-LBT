@@ -31,6 +31,13 @@
    OP - 门诊楼（Outpatient）  
    IP - 住院部（Inpatient）  
    TC - 教学楼（Teaching Classroom）
+   a  - <500m²  
+   b  - 501~1000m²  
+   c  - 1001~1500m²  
+   d  - 1501~2000m²  
+   e  - 2001~2500m²  
+   f  - 2501~3000m²  
+   g  - >3000m²
    ```
 
    
@@ -43,13 +50,6 @@
    KT - 厨房（Kitchen）  
    BT - 卫生间（Bathroom）  
    SR - 辅助房间（Service Room）  
-   a  - <500m²  
-   b  - 501~1000m²  
-   c  - 1001~1500m²  
-   d  - 1501~2000m²  
-   e  - 2001~2500m²  
-   f  - 2501~3000m²  
-   g  - >3000m²
    ```
 
    
